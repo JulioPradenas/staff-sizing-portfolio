@@ -1,0 +1,9 @@
+base_code,base_name,city,country,cluster,hub_type,timezone
+SCL,Arturo Merino Benitez,Santiago,Chile,CONO SUR,HUB Principal,UTC-3
+LIM,Jorge Chavez,Lima,Peru,ANDINA,HUB Regional,UTC-5
+BOG,El Dorado,Bogota,Colombia,ANDINA,HUB Regional,UTC-5
+GRU,Guarulhos,Sao Paulo,Brazil,BRASIL,HUB Principal,UTC-3
+EZE,Ezeiza,Buenos Aires,Argentina,CONO SUR,HUB Regional,UTC-3
+MIA,Miami International,Miami,USA,NORTEAMERICA,Gateway,UTC-5
+MAD,Barajas,Madrid,Spain,EUROPA,Gateway,UTC+1
+JFK,John F Kennedy,New York,USA,NORTEAMERICA,Gateway,UTC-5

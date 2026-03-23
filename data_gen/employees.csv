@@ -1,0 +1,2001 @@
+employee_id,name,role,category,base_code,contract_type,hire_date,birth_date,is_active,monthly_hours,seniority_years
+EMP00001,Empleado_1,Tripulante Cabina,Cabina,GRU,Indefinido,2013-12-13,1994-07-03,1,162,11
+EMP00002,Empleado_2,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2015-01-02,1998-09-02,1,176,9
+EMP00003,Empleado_3,Piloto Comandante,Cockpit,SCL,Indefinido,2012-01-28,1981-09-15,1,187,12
+EMP00004,Empleado_4,Ground Staff,Tierra,,Indefinido,2014-01-06,1982-09-16,,166,10
+EMP00005,Empleado_5,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2016-03-02,1970-07-09,,177,8
+EMP00006,Empleado_6,Tripulante Cabina Senior,Cabina,lima,Plazo Fijo,2014-04-20,1996-05-23,1,163,10
+EMP00007,Empleado_7,Tripulante Cabina,Cabina,EZE,Indefinido,2013-01-29,1974-08-24,1,163,11
+EMP00008,Empleado_8,Tripulante Cabina,Cabina,LIM,Indefinido,2014-08-09,1989-08-20,1,172,10
+EMP00009,Empleado_9,Ground Staff,Tierra,SCL,Indefinido,2021-11-08,1993-08-21,1,167,3
+EMP00010,Empleado_10,Agente Check-in,Tierra,GRU,Plazo Fijo,2011-08-25,1973-09-27,1,161,13
+EMP00011,Empleado_11,Supervisor Operaciones,Tierra,GRU,Indefinido,2015-07-02,1995-05-13,1,170,9
+EMP00012,Empleado_12,Tripulante Cabina Senior,Cabina,GRU,Honorarios,2019-05-25,1977-06-22,1,168,5
+EMP00013,Empleado_13,Tripulante Cabina,Cabina,MAD,Indefinido,2011-02-14,1991-07-10,0,175,13
+EMP00014,Empleado_14,Tripulante Cabina,Cabina,GRU,Part-time,2023-01-28,1971-02-05,0,177,1
+EMP00015,Empleado_15,Tripulante Cabina,Cabina,BOG,Indefinido,2014-04-25,1983-08-19,1,162,10
+EMP00016,Empleado_16,Supervisor Operaciones,Tierra,EZE,Indefinido,2013-07-12,1980-02-22,1,164,11
+EMP00017,Empleado_17,Ground Staff,Tierra,SCL,Indefinido,2016-08-19,1995-07-11,1,184,8
+EMP00018,Empleado_18,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2011-01-13,1999-08-18,0,185,13
+EMP00019,Empleado_19,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2016-12-16,1983-04-27,1,167,8
+EMP00020,Empleado_20,Piloto Comandante,Cockpit,BOG,Indefinido,2020-03-05,1970-02-12,1,165,4
+EMP00021,Empleado_21,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2021-02-08,1973-04-12,1,175,3
+EMP00022,Empleado_22,Piloto Copiloto,Cockpit,LIM,Part-time,2021-07-22,1971-03-02,1,160,3
+EMP00023,Empleado_23,Piloto Comandante,Cockpit,LIM,Indefinido,2021-01-29,1990-04-02,1,172,3
+EMP00024,Empleado_24,Administrativo,Admin,BOG,Part-time,2019-01-11,1997-06-24,1,162,5
+EMP00025,Empleado_25,Tripulante Cabina Senior,Cabina,GRU,Honorarios,2013-07-02,1978-08-27,,187,11
+EMP00026,Empleado_26,Agente Check-in,Tierra,MAD,Indefinido,2020-06-30,1989-12-26,1,168,4
+EMP00027,Empleado_27,Tripulante Cabina,Cabina,LIM,Part-time,2021-01-08,1974-12-21,1,160,3
+EMP00028,Empleado_28,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2017-09-02,1994-05-08,1,179,7
+EMP00029,Empleado_29,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2024-11-17,1970-06-18,1,182,0
+EMP00030,Empleado_30,Ground Staff,Tierra,GRU,Plazo Fijo,2023-08-12,1995-11-11,1,167,1
+EMP00031,Empleado_31,Tecnico Mantencion,Tierra,SCL,Honorarios,2018-07-02,1991-06-19,1,186,6
+EMP00032,Empleado_32,Tripulante Cabina Senior,Cabina,GRU,Part-time,2018-07-22,1972-05-27,1,,6
+EMP00033,Empleado_33,Piloto Copiloto,Cockpit,BOG,Indefinido,2017-10-26,1990-09-14,,186,7
+EMP00034,Empleado_34,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2020-07-30,1986-10-12,1,180,4
+EMP00035,Empleado_35,Agente Check-in,Tierra,SCL,Honorarios,2018-10-23,1982-10-12,1,164,6
+EMP00036,Empleado_36,Tripulante Cabina,Cabina,JFK,Plazo Fijo,2013-10-17,1989-08-25,1,176,11
+EMP00037,Empleado_37,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2020-07-03,1986-12-09,1,188,4
+EMP00038,Empleado_38,Administrativo,Admin,MIA,Indefinido,2018-01-05,1987-05-07,1,184,6
+EMP00039,Empleado_39,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2012-01-27,1972-03-17,1,175,12
+EMP00040,Empleado_40,Tripulante Cabina,Cabina,LIM,Indefinido,2012-05-26,1985-01-19,1,172,12
+EMP00041,Empleado_41,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2010-09-02,1995-03-23,1,174,14
+EMP00042,Empleado_42,Ground Staff,Tierra,SCL,Plazo Fijo,2010-01-01,1972-06-07,1,161,14
+EMP00043,Empleado_43,Tripulante Cabina,Cabina,SCL,Indefinido,2020-10-18,1992-12-07,0,187,4
+EMP00044,Empleado_44,Tecnico Mantencion,Tierra,EZE,Indefinido,2021-02-18,1997-02-23,1,178,3
+EMP00045,Empleado_45,Agente Check-in,Tierra,SCL,Indefinido,2014-01-18,1976-03-19,1,178,10
+EMP00046,Empleado_46,Piloto Comandante,Cockpit,SCL,Indefinido,2023-03-05,1973-01-02,1,186,1
+EMP00047,Empleado_47,Agente Check-in,Tierra,MAD,Indefinido,2012-05-07,1985-03-12,1,160,12
+EMP00048,Empleado_48,Tripulante Cabina Senior,Cabina,,Indefinido,2016-01-13,1988-11-06,1,172,8
+EMP00049,Empleado_49,Ground Staff,Tierra,BOG,Indefinido,2019-10-29,1983-07-25,1,190,5
+EMP00050,Empleado_50,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2011-07-10,1970-07-03,1,172,13
+EMP00051,Empleado_51,Piloto Comandante,Cockpit,EZE,Indefinido,2023-02-15,1995-07-27,1,177,1
+EMP00052,Empleado_52,Administrativo,Admin,bogota,Indefinido,2011-07-24,1988-10-24,1,160,13
+EMP00053,Empleado_53,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2010-01-11,1977-02-24,1,189,14
+EMP00054,Empleado_54,Piloto Copiloto,Cockpit,,Indefinido,2019-01-31,1995-02-24,1,170,5
+EMP00055,Empleado_55,Agente Check-in,Tierra,GRU,Indefinido,2014-07-08,1982-02-06,1,188,10
+EMP00056,Empleado_56,Administrativo,Admin,MIA,Indefinido,2011-06-06,1979-09-10,1,163,13
+EMP00057,Empleado_57,Tripulante Cabina,Cabina,MAD,Indefinido,2018-01-09,1992-04-15,1,190,6
+EMP00058,Empleado_58,Seguridad,Tierra,GRU,Indefinido,2021-08-25,1976-01-18,1,179,3
+EMP00059,Empleado_59,Ground Staff,Tierra,GRU,Indefinido,2018-11-04,1981-04-02,1,168,6
+EMP00060,Empleado_60,Tripulante Cabina,Cabina,EZE,Indefinido,2021-06-19,1971-10-21,0,173,3
+EMP00061,Empleado_61,Tripulante Cabina,Cabina,GRU,Indefinido,2019-03-15,1976-01-29,1,173,5
+EMP00062,Empleado_62,Tripulante Cabina,Cabina,LIM,Indefinido,2011-03-27,1984-08-07,1,,13
+EMP00063,Empleado_63,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2015-01-09,1989-10-05,1,169,9
+EMP00064,Empleado_64,Supervisor Operaciones,Tierra,LIM,Indefinido,2021-07-07,1986-12-14,1,172,3
+EMP00065,Empleado_65,Tripulante Cabina,Cabina,GRU,Indefinido,2014-11-09,1975-11-06,1,189,10
+EMP00066,Empleado_66,Agente Check-in,Tierra,BOG,Part-time,2024-01-22,1986-10-20,1,179,0
+EMP00067,Empleado_67,Agente Check-in,Tierra,GRU,Plazo Fijo,2022-01-12,1990-12-23,,167,2
+EMP00068,Empleado_68,Tripulante Cabina,Cabina,BOG,Part-time,2023-07-13,1976-01-20,1,167,1
+EMP00069,Empleado_69,Tripulante Cabina Senior,Cabina,lima,Plazo Fijo,2013-11-12,1989-05-28,1,181,11
+EMP00070,Empleado_70,Agente Check-in,Tierra,MAD,Indefinido,2015-08-23,1971-04-14,1,168,9
+EMP00071,Empleado_71,Supervisor Operaciones,Tierra,LIM,Indefinido,2011-06-03,1997-12-03,1,174,13
+EMP00072,Empleado_72,Administrativo,Admin,GRU,Plazo Fijo,2019-09-20,1996-02-12,1,171,5
+EMP00073,Empleado_73,Supervisor Operaciones,Tierra,EZE,Indefinido,2021-06-23,1997-04-16,1,182,3
+EMP00074,Empleado_74,Piloto Comandante,Cockpit,bogota,Indefinido,2019-07-24,1982-12-10,1,182,5
+EMP00075,Empleado_75,Seguridad,Tierra,LIM,Indefinido,2021-01-20,1993-06-19,1,171,3
+EMP00076,Empleado_76,Agente Check-in,Tierra,Santiago,Plazo Fijo,2021-06-16,1996-01-06,1,186,3
+EMP00077,Empleado_77,Supervisor Operaciones,Tierra,BOG,Part-time,2011-04-06,1980-12-30,1,169,13
+EMP00078,Empleado_78,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2022-06-22,1991-07-28,0,177,2
+EMP00079,Empleado_79,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2024-06-26,1997-10-23,,,0
+EMP00080,Empleado_80,Piloto Comandante,Cockpit,LIM,Part-time,2010-01-14,1990-08-21,1,177,14
+EMP00081,Empleado_81,Piloto Comandante,Cockpit,EZE,Honorarios,2018-07-20,1989-11-13,0,183,6
+EMP00082,Empleado_82,Piloto Copiloto,Cockpit,MIA,Honorarios,2012-02-09,1989-09-18,0,179,12
+EMP00083,Empleado_83,Agente Check-in,Tierra,LIM,Part-time,2013-07-19,1982-04-26,1,169,11
+EMP00084,Empleado_84,Piloto Comandante,Cockpit,GRU,Indefinido,2021-12-12,1993-11-08,1,170,3
+EMP00085,Empleado_85,Ground Staff,Tierra,,Indefinido,2024-01-23,1995-08-05,1,185,0
+EMP00086,Empleado_86,Tecnico Mantencion,Tierra,MIA,Indefinido,2012-02-05,1980-05-07,0,185,12
+EMP00087,Empleado_87,Ground Staff,Tierra,MIA,Plazo Fijo,2011-07-20,1977-10-07,1,189,13
+EMP00088,Empleado_88,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2018-10-24,1994-08-13,1,186,6
+EMP00089,Empleado_89,Tripulante Cabina,Cabina,lima,Indefinido,2015-01-14,1994-10-22,1,178,9
+EMP00090,Empleado_90,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2017-05-30,1972-12-24,1,181,7
+EMP00091,Empleado_91,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2010-01-21,1980-07-17,,185,14
+EMP00092,Empleado_92,Seguridad,Tierra,LIM,Indefinido,2022-04-27,1995-09-23,1,170,2
+EMP00093,Empleado_93,TCABIN,,JFK,Part-time,2022-04-20,1985-11-07,1,190,2
+EMP00094,Empleado_94,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2018-01-16,1975-04-21,1,160,6
+EMP00095,Empleado_95,Ground Staff,Tierra,SCL,Indefinido,2010-03-11,1982-11-17,1,184,14
+EMP00096,Empleado_96,Tripulante Cabina,Cabina,GRU,Indefinido,2012-07-10,1978-11-26,1,190,12
+EMP00097,Empleado_97,Piloto Comandante,Cockpit,BOG,Indefinido,2017-01-13,1973-08-31,0,170,7
+EMP00098,Empleado_98,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2014-10-30,1978-05-12,1,,10
+EMP00099,Empleado_99,Tripulante Cabina,Cabina,GRU,Honorarios,2023-07-11,1972-05-01,1,177,1
+EMP00100,Empleado_100,Agente Check-in,Tierra,BOG,Indefinido,2015-01-17,1992-07-08,1,168,9
+EMP00101,Empleado_101,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2021-01-03,1994-09-07,1,175,3
+EMP00102,Empleado_102,Agente Check-in,Tierra,BOG,Indefinido,2010-07-17,1974-06-27,1,168,14
+EMP00103,Empleado_103,Agente Check-in,Tierra,SCL,Honorarios,2019-01-11,1979-08-07,1,183,5
+EMP00104,Empleado_104,Piloto Comandante,Cockpit,JFK,Indefinido,2020-02-22,1983-06-12,1,187,4
+EMP00105,Empleado_105,Ground Staff,Tierra,LIM,Plazo Fijo,2021-10-25,1990-01-15,0,166,3
+EMP00106,Empleado_106,Piloto Copiloto,Cockpit,LIM,Part-time,2020-03-29,1978-07-31,1,168,4
+EMP00107,Empleado_107,Piloto Copiloto,Cockpit,LIM,Plazo Fijo,2022-07-02,1987-10-26,1,173,2
+EMP00108,Empleado_108,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2017-08-17,1976-12-08,1,184,7
+EMP00109,Empleado_109,Ground Staff,Tierra,LIM,Indefinido,2013-03-20,1975-11-28,0,170,11
+EMP00110,Empleado_110,Piloto Comandante,Cockpit,BOG,Indefinido,2015-01-12,1983-09-30,1,190,9
+EMP00111,Empleado_111,Administrativo,Admin,LIM,Indefinido,2013-07-13,1998-06-29,1,166,11
+EMP00112,Empleado_112,Piloto Copiloto,Cockpit,LIM,Indefinido,2022-01-26,1975-10-15,1,172,2
+EMP00113,Empleado_113,Tripulante Cabina,Cabina,EZE,Part-time,2016-11-20,1972-01-24,,167,8
+EMP00114,Empleado_114,Tripulante Cabina,Cabina,GRU,Part-time,2023-10-11,1996-01-19,1,170,1
+EMP00115,Empleado_115,Piloto Comandante,Cockpit,GRU,Indefinido,2014-01-26,1991-03-30,0,161,10
+EMP00116,Empleado_116,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2020-11-14,1991-06-06,0,165,4
+EMP00117,Empleado_117,Tripulante Cabina,Cabina,GRU,Part-time,2011-01-08,1976-01-17,0,161,13
+EMP00118,Empleado_118,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2021-07-22,1998-05-03,1,166,3
+EMP00119,Empleado_119,Tripulante Cabina,Cabina,GRU,Indefinido,2022-02-13,1970-11-15,0,187,2
+EMP00120,Empleado_120,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2023-01-18,1993-04-23,1,160,1
+EMP00121,Empleado_121,Ground Staff,Tierra,SCL,Indefinido,2020-07-27,1971-02-12,1,187,4
+EMP00122,Empleado_122,Ground Staff,Tierra,SCL,Plazo Fijo,2013-03-09,1985-09-30,1,186,11
+EMP00123,Empleado_123,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2015-01-22,1976-10-19,0,171,9
+EMP00124,Empleado_124,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2011-02-26,1995-11-23,1,190,13
+EMP00125,Empleado_125,Tripulante Cabina,Cabina,GRU,Indefinido,2015-07-16,1990-05-15,1,163,9
+EMP00126,Empleado_126,Piloto Comandante,Cockpit,Santiago,Indefinido,2013-05-10,1976-04-06,1,177,11
+EMP00127,Empleado_127,Agente Check-in,Tierra,GRU,Indefinido,2021-03-26,1971-06-20,1,172,3
+EMP00128,Empleado_128,Piloto Copiloto,Cockpit,LIM,Indefinido,2020-10-01,1993-09-30,1,172,4
+EMP00129,Empleado_129,Supervisor Operaciones,Tierra,BOG,Part-time,2020-02-10,1973-02-08,1,184,4
+EMP00130,Empleado_130,Ground Staff,Tierra,,Part-time,2011-09-21,1984-07-03,1,178,13
+EMP00131,Empleado_131,Piloto Copiloto,Cockpit,SCL,Indefinido,2024-03-25,1980-05-20,1,172,0
+EMP00132,Empleado_132,Supervisor Operaciones,Tierra,SCL,Indefinido,2012-01-13,1998-10-26,1,187,12
+EMP00133,Empleado_133,Agente Check-in,Tierra,BOG,Part-time,2019-10-11,1977-05-28,1,160,5
+EMP00134,Empleado_134,Piloto Comandante,Cockpit,BOG,Indefinido,2018-07-30,1994-09-30,1,164,6
+EMP00135,Empleado_135,Tripulante Cabina,Cabina,GRU,Indefinido,2014-02-21,1993-05-04,1,162,10
+EMP00136,Empleado_136,Ground Staff,Tierra,EZE,Indefinido,2011-09-14,1992-07-13,,182,13
+EMP00137,Empleado_137,Agente Check-in,Tierra,MIA,Part-time,2024-05-23,1970-07-23,1,167,0
+EMP00138,Empleado_138,Supervisor Operaciones,Tierra,EZE,Indefinido,2015-07-06,1985-11-09,1,171,9
+EMP00139,Empleado_139,Tripulante Cabina,Cabina,GRU,Part-time,2011-08-13,1993-07-21,1,176,13
+EMP00140,Empleado_140,Tripulante Cabina,Cabina,lima,Honorarios,2021-01-15,1986-07-13,1,172,3
+EMP00141,Empleado_141,Piloto Copiloto,Cockpit,SCL,Indefinido,2014-07-26,1981-07-01,1,180,10
+EMP00142,Empleado_142,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2011-07-18,1978-10-31,1,177,13
+EMP00143,Empleado_143,Agente Check-in,Tierra,LIM,Indefinido,2024-01-12,1994-12-13,1,187,0
+EMP00144,Empleado_144,Tripulante Cabina,Cabina,SCL,Indefinido,2015-04-16,1983-08-21,1,174,9
+EMP00145,Empleado_145,Administrativo,Admin,SCL,Part-time,2021-05-01,1995-10-30,1,182,3
+EMP00146,Empleado_146,Ground Staff,Tierra,SCL,Indefinido,2013-11-25,1980-07-21,1,178,11
+EMP00147,Empleado_147,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2017-08-29,1982-09-12,1,186,7
+EMP00148,Empleado_148,Tripulante Cabina Senior,Cabina,JFK,Indefinido,2012-07-19,1983-04-08,1,179,12
+EMP00149,Empleado_149,Piloto Copiloto,Cockpit,SCL,Honorarios,2013-11-23,1986-04-29,1,163,11
+EMP00150,Empleado_150,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2022-01-10,1986-06-20,1,175,2
+EMP00151,Empleado_151,Tripulante Cabina,Cabina,BOG,Indefinido,2011-08-30,1985-10-22,0,169,13
+EMP00152,Empleado_152,Tripulante Cabina Senior,Cabina,SCL,Honorarios,2021-02-17,1981-04-07,1,185,3
+EMP00153,Empleado_153,Administrativo,Admin,GRU,Indefinido,2011-01-22,1978-04-03,1,171,13
+EMP00154,Empleado_154,Tripulante Cabina,Cabina,JFK,Indefinido,2011-03-23,1990-09-19,1,174,13
+EMP00155,Empleado_155,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2010-07-02,1972-12-11,1,168,14
+EMP00156,Empleado_156,Agente Check-in,Tierra,SCL,Indefinido,2020-01-16,1989-11-09,1,171,4
+EMP00157,Empleado_157,Piloto Copiloto,Cockpit,BOG,Plazo Fijo,2021-09-04,1995-11-15,1,165,3
+EMP00158,Empleado_158,Tripulante Cabina,Cabina,GRU,Indefinido,2024-04-23,1988-01-21,1,182,0
+EMP00159,Empleado_159,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2023-12-13,1974-09-19,1,170,1
+EMP00160,Empleado_160,Agente Check-in,Tierra,SCL,Part-time,2011-01-17,1997-09-30,1,182,13
+EMP00161,Empleado_161,Supervisor Operaciones,Tierra,SCL,Indefinido,2020-08-21,1973-05-15,1,171,4
+EMP00162,Empleado_162,Administrativo,Admin,BOG,Plazo Fijo,2013-02-22,1991-07-02,1,184,11
+EMP00163,Empleado_163,Ground Staff,Tierra,GRU,Honorarios,2016-07-20,1970-04-08,1,187,8
+EMP00164,Empleado_164,Ground Staff,Tierra,GRU,Plazo Fijo,2010-02-24,1973-07-17,1,172,14
+EMP00165,Empleado_165,Agente Check-in,Tierra,SCL,Indefinido,2017-07-05,1994-08-21,1,,7
+EMP00166,Empleado_166,Tripulante Cabina,Cabina,SCL,Indefinido,2024-02-09,1973-08-15,1,189,0
+EMP00167,Empleado_167,Agente Check-in,Tierra,LIM,Indefinido,2018-01-04,1999-03-15,1,164,6
+EMP00168,Empleado_168,Tripulante Cabina,Cabina,MIA,Indefinido,2019-01-03,1970-03-02,1,186,5
+EMP00169,Empleado_169,Seguridad,Tierra,GRU,Indefinido,2013-01-18,1989-02-11,1,165,11
+EMP00170,Empleado_170,Tripulante Cabina,Cabina,BOG,Indefinido,2021-07-03,1987-01-27,1,170,3
+EMP00171,Empleado_171,Ground Staff,Tierra,SCL,Indefinido,2017-09-02,1983-08-03,1,189,7
+EMP00172,Empleado_172,Ground Staff,Tierra,BOG,Part-time,2012-01-15,1976-08-10,1,176,12
+EMP00173,Empleado_173,Ground Staff,Tierra,SCL,Part-time,2019-01-04,1978-05-18,1,161,5
+EMP00174,Empleado_174,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2016-10-23,1987-10-28,1,183,8
+EMP00175,Empleado_175,Tecnico Mantencion,Tierra,bogota,Part-time,2021-05-13,1982-07-28,1,167,3
+EMP00176,Empleado_176,Agente Check-in,Tierra,SCL,Indefinido,2023-01-08,1996-11-10,0,177,1
+EMP00177,Empleado_177,Ground Staff,Tierra,GRU,Indefinido,2012-07-01,1982-05-27,1,180,12
+EMP00178,Empleado_178,Tripulante Cabina,Cabina,Santiago,Part-time,2022-10-20,1983-10-07,1,187,2
+EMP00179,Empleado_179,Tripulante Cabina,Cabina,LIM,Indefinido,2021-07-14,1994-08-11,1,167,3
+EMP00180,Empleado_180,Tripulante Cabina,Cabina,GRU,Part-time,2024-05-17,1987-12-19,1,181,0
+EMP00181,Empleado_181,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2013-07-29,1989-08-11,1,180,11
+EMP00182,Empleado_182,Administrativo,Admin,BOG,Plazo Fijo,2023-06-03,1973-12-11,1,164,1
+EMP00183,Empleado_183,Supervisor Operaciones,Tierra,GRU,Plazo Fijo,2014-01-04,1993-02-05,1,173,10
+EMP00184,Empleado_184,Agente Check-in,Tierra,LIM,Indefinido,2015-11-02,1986-07-15,0,182,9
+EMP00185,Empleado_185,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2019-07-18,1976-05-19,1,167,5
+EMP00186,Empleado_186,Tecnico Mantencion,Tierra,BOG,Indefinido,2019-04-23,1989-06-06,1,172,5
+EMP00187,Empleado_187,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2024-05-11,1997-01-03,1,173,0
+EMP00188,Empleado_188,Tecnico Mantencion,Tierra,BOG,Indefinido,2010-04-12,1976-05-22,1,169,14
+EMP00189,Empleado_189,Tripulante Cabina,Cabina,GRU,Indefinido,2014-03-16,1985-02-10,0,160,10
+EMP00190,Empleado_190,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2022-06-01,1980-04-08,1,175,2
+EMP00191,Empleado_191,Piloto Comandante,Cockpit,SCL,Honorarios,2015-12-05,1971-10-30,1,,9
+EMP00192,Empleado_192,Supervisor Operaciones,Tierra,MIA,Part-time,2024-07-06,1970-02-21,1,166,0
+EMP00193,Empleado_193,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2024-05-06,1977-06-28,1,161,0
+EMP00194,Empleado_194,Tripulante Cabina,Cabina,N/A,Plazo Fijo,2016-07-23,1990-11-17,1,165,8
+EMP00195,Empleado_195,Agente Check-in,Tierra,LIM,Plazo Fijo,2023-10-02,1973-02-06,1,164,1
+EMP00196,Empleado_196,Tecnico Mantencion,Tierra,sao paulo,Plazo Fijo,2012-01-01,1985-05-08,1,187,12
+EMP00197,Empleado_197,Tripulante Cabina,Cabina,LIM,Indefinido,2021-09-20,1998-09-03,1,164,3
+EMP00198,Empleado_198,Tripulante Cabina,Cabina,GRU,Indefinido,2013-08-04,1989-10-19,1,183,11
+EMP00199,Empleado_199,Agente Check-in,Tierra,SCL,Plazo Fijo,2020-01-25,1986-04-22,1,184,4
+EMP00200,Empleado_200,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2018-07-15,1991-01-15,0,164,6
+EMP00201,Empleado_201,Ground Staff,Tierra,N/A,Indefinido,2021-05-23,1997-04-06,1,173,3
+EMP00202,Empleado_202,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2021-01-14,1985-10-20,1,182,3
+EMP00203,Empleado_203,Piloto Comandante,Cockpit,EZE,Honorarios,2018-11-26,1974-10-18,1,176,6
+EMP00204,Empleado_204,Piloto Copiloto,Cockpit,MIA,Indefinido,2013-01-16,1977-04-25,1,179,11
+EMP00205,Empleado_205,Tecnico Mantencion,Tierra,EZE,Honorarios,2023-10-02,1996-11-09,1,169,1
+EMP00206,Empleado_206,Tripulante Cabina,Cabina,SCL,Indefinido,2021-01-15,1971-11-15,1,184,3
+EMP00207,Empleado_207,Agente Check-in,Tierra,Santiago,Indefinido,2011-07-04,1987-08-05,0,172,13
+EMP00208,Empleado_208,Tecnico Mantencion,Tierra,,Honorarios,2010-05-02,1985-07-12,1,168,14
+EMP00209,Empleado_209,Agente Check-in,Tierra,MAD,Indefinido,2012-10-16,1985-08-29,1,165,12
+EMP00210,Empleado_210,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2019-01-11,1995-12-14,1,163,5
+EMP00211,Empleado_211,Ground Staff,Tierra,LIM,Indefinido,2021-12-02,1984-05-17,1,183,3
+EMP00212,Empleado_212,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2012-04-23,1989-02-12,1,174,12
+EMP00213,Empleado_213,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2011-01-20,1996-09-25,1,186,13
+EMP00214,Empleado_214,Piloto Comandante,Cockpit,SCL,Part-time,2017-10-15,1989-04-03,1,169,7
+EMP00215,Empleado_215,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2016-07-08,1977-07-09,1,182,8
+EMP00216,Empleado_216,Tecnico Mantencion,Tierra,BOG,Indefinido,2013-07-17,1980-12-22,1,187,11
+EMP00217,Empleado_217,Piloto Comandante,Cockpit,MIA,Plazo Fijo,2010-01-08,1999-01-05,1,176,14
+EMP00218,Empleado_218,Ground Staff,Tierra,GRU,Plazo Fijo,2017-01-14,1982-09-27,1,179,7
+EMP00219,Empleado_219,Administrativo,Admin,SCL,Part-time,2013-09-30,1996-08-20,,188,11
+EMP00220,Empleado_220,Ground Staff,Tierra,LIM,Indefinido,2010-03-04,1996-07-17,1,189,14
+EMP00221,Empleado_221,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2010-06-12,1981-12-26,1,188,14
+EMP00222,Empleado_222,Seguridad,Tierra,GRU,Plazo Fijo,2022-11-09,1986-01-21,1,179,2
+EMP00223,Empleado_223,Piloto Copiloto,Cockpit,MAD,Indefinido,2013-08-07,1982-10-25,1,182,11
+EMP00224,Empleado_224,Agente Check-in,Tierra,BOG,Plazo Fijo,2024-09-05,1986-10-02,1,183,0
+EMP00225,Empleado_225,Supervisor Operaciones,Tierra,BOG,Part-time,2022-07-29,1971-05-07,1,172,2
+EMP00226,Empleado_226,Administrativo,Admin,BOG,Indefinido,2022-10-28,1970-12-08,1,163,2
+EMP00227,Empleado_227,Ground Staff,Tierra,JFK,Indefinido,2017-03-26,1993-10-30,1,187,7
+EMP00228,Empleado_228,Seguridad,Tierra,SCL,Indefinido,2020-11-05,1992-06-09,1,179,4
+EMP00229,Empleado_229,Agente Check-in,Tierra,BOG,Plazo Fijo,2014-05-28,1983-03-25,1,160,10
+EMP00230,Empleado_230,Tripulante Cabina Senior,Cabina,sao paulo,Indefinido,2014-04-01,1987-03-08,1,179,10
+EMP00231,Empleado_231,Tripulante Cabina,Cabina,LIM,Indefinido,2011-07-26,1988-11-13,1,165,13
+EMP00232,Empleado_232,Ground Staff,Tierra,SCL,Indefinido,2013-06-22,1992-09-16,1,168,11
+EMP00233,Empleado_233,Agente Check-in,Tierra,bogota,Indefinido,2012-02-11,1981-11-08,1,162,12
+EMP00234,Empleado_234,Tripulante Cabina,Cabina,SCL,Indefinido,2020-01-14,1970-02-14,0,166,4
+EMP00235,Empleado_235,Supervisor Operaciones,Tierra,GRU,Indefinido,2024-07-19,1977-05-21,1,163,0
+EMP00236,Empleado_236,Piloto Comandante,Cockpit,GRU,Part-time,2024-04-30,1988-06-16,1,186,0
+EMP00237,Empleado_237,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2015-01-29,1996-03-23,1,180,9
+EMP00238,Empleado_238,Agente Check-in,Tierra,SCL,Indefinido,2015-02-10,1979-07-12,0,176,9
+EMP00239,Empleado_239,Tripulante Cabina,Cabina,SCL,Indefinido,2019-07-07,1990-02-21,1,160,5
+EMP00240,Empleado_240,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2016-10-08,1995-05-01,1,176,8
+EMP00241,Empleado_241,Tripulante Cabina,Cabina,GRU,Indefinido,2019-12-09,1998-02-01,1,190,5
+EMP00242,Empleado_242,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2018-11-19,1998-04-15,1,181,6
+EMP00243,Empleado_243,Piloto Copiloto,Cockpit,EZE,Part-time,2013-01-28,1999-12-18,1,189,11
+EMP00244,Empleado_244,Tripulante Cabina,Cabina,EZE,Part-time,2011-07-03,1994-08-06,1,183,13
+EMP00245,Empleado_245,Piloto Copiloto,Cockpit,GRU,Indefinido,2016-01-09,1971-11-18,1,164,8
+EMP00246,Empleado_246,Seguridad,Tierra,MIA,Plazo Fijo,2017-07-03,1984-01-29,0,178,7
+EMP00247,Empleado_247,Tripulante Cabina,Cabina,LIM,Indefinido,2023-10-22,1979-06-04,1,,1
+EMP00248,Empleado_248,Piloto Copiloto,Cockpit,GRU,Indefinido,2020-01-14,1992-11-18,1,163,4
+EMP00249,Empleado_249,Ground Staff,Tierra,BOG,Indefinido,2022-07-06,1995-11-30,0,161,2
+EMP00250,Empleado_250,Ground,,SCL,Plazo Fijo,2020-12-07,1991-10-29,1,162,4
+EMP00251,Empleado_251,Tecnico Mantencion,Tierra,MIA,Indefinido,2018-01-29,1993-09-18,1,175,6
+EMP00252,Empleado_252,Piloto Comandante,Cockpit,EZE,Part-time,2017-01-10,1990-10-01,1,172,7
+EMP00253,Empleado_253,Seguridad,Tierra,BOG,Indefinido,2022-08-11,1992-11-13,1,184,2
+EMP00254,Empleado_254,Tripulante Cabina,Cabina,EZE,Part-time,2020-07-17,1997-06-27,1,162,4
+EMP00255,Empleado_255,Tecnico Mantencion,Tierra,EZE,Part-time,2011-06-15,1987-09-06,1,164,13
+EMP00256,Empleado_256,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2015-01-03,1999-03-13,1,172,9
+EMP00257,Empleado_257,Tripulante Cabina,Cabina,BOG,Indefinido,2013-01-30,1982-01-17,1,181,11
+EMP00258,Empleado_258,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2010-12-17,1977-08-03,1,167,14
+EMP00259,Empleado_259,Piloto Copiloto,Cockpit,GRU,Indefinido,2023-10-02,1971-08-01,0,162,1
+EMP00260,Empleado_260,Ground Staff,Tierra,SCL,Part-time,2012-10-01,1997-01-05,,180,12
+EMP00261,Empleado_261,Agente Check-in,Tierra,LIM,Honorarios,2017-12-09,1976-10-11,1,179,7
+EMP00262,Empleado_262,Tripulante Cabina,Cabina,MIA,Indefinido,2018-09-07,1982-12-18,1,184,6
+EMP00263,Empleado_263,Tripulante Cabina,Cabina,SCL,Indefinido,2014-07-22,1992-08-23,1,176,10
+EMP00264,Empleado_264,Agente Check-in,Tierra,GRU,Indefinido,2019-07-20,1979-02-03,1,189,5
+EMP00265,Empleado_265,Tripulante Cabina,Cabina,BOG,Indefinido,2018-07-01,1972-02-06,1,168,6
+EMP00266,Empleado_266,Tripulante Cabina Senior,Cabina,BOG,Part-time,2022-08-10,1999-12-04,1,177,2
+EMP00267,Empleado_267,Tripulante Cabina,Cabina,BOG,Indefinido,2013-09-29,1986-01-28,1,161,11
+EMP00268,Empleado_268,Agente Check-in,Tierra,SCL,Plazo Fijo,2018-07-12,1971-04-29,1,184,6
+EMP00269,Empleado_269,Ground Staff,Tierra,BOG,Indefinido,2011-01-16,1999-04-20,1,167,13
+EMP00270,Empleado_270,Ground Staff,Tierra,EZE,Indefinido,2023-08-26,1970-08-21,1,167,1
+EMP00271,Empleado_271,Piloto Comandante,Cockpit,sao paulo,Part-time,2014-09-21,1996-03-08,1,173,10
+EMP00272,Empleado_272,Agente Check-in,Tierra,GRU,Indefinido,2021-01-13,1997-08-08,1,162,3
+EMP00273,Empleado_273,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2023-05-30,1978-11-25,1,172,1
+EMP00274,Empleado_274,Tripulante Cabina,Cabina,LIM,Indefinido,2011-07-27,1973-09-26,1,162,13
+EMP00275,Empleado_275,Piloto Comandante,Cockpit,LIM,Part-time,2024-01-12,1989-03-02,1,,0
+EMP00276,Empleado_276,Supervisor Operaciones,Tierra,BOG,Part-time,2019-06-11,1989-11-17,1,176,5
+EMP00277,Empleado_277,Piloto Copiloto,Cockpit,JFK,Part-time,2017-09-22,1983-07-21,1,185,7
+EMP00278,Empleado_278,Piloto Copiloto,Cockpit,BOG,Indefinido,2012-12-13,1984-01-26,1,178,12
+EMP00279,Empleado_279,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2012-01-03,1985-07-02,1,186,12
+EMP00280,Empleado_280,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2010-09-17,1988-10-18,1,188,14
+EMP00281,Empleado_281,Supervisor Operaciones,Tierra,MAD,Plazo Fijo,2015-12-18,1984-08-16,1,162,9
+EMP00282,Empleado_282,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2021-05-24,1994-10-31,1,183,3
+EMP00283,Empleado_283,Agente Check-in,Tierra,EZE,Plazo Fijo,2011-07-14,1977-09-17,1,,13
+EMP00284,Empleado_284,Tripulante Cabina,Cabina,EZE,Indefinido,2016-04-07,1970-04-13,1,174,8
+EMP00285,Empleado_285,Tripulante Cabina Senior,Cabina,sao paulo,Indefinido,2011-01-12,1998-04-11,1,183,13
+EMP00286,Empleado_286,Piloto Copiloto,Cockpit,SCL,Indefinido,2022-02-02,1986-03-20,1,160,2
+EMP00287,Empleado_287,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2018-07-26,1993-01-12,1,185,6
+EMP00288,Empleado_288,Ground Staff,Tierra,SCL,Part-time,2022-01-01,1979-09-26,1,184,2
+EMP00289,Empleado_289,Tripulante Cabina,Cabina,BOG,Indefinido,2023-06-25,1983-04-04,1,173,1
+EMP00290,Empleado_290,Supervisor Operaciones,Tierra,BOG,Indefinido,2013-03-03,1979-11-25,1,176,11
+EMP00291,Empleado_291,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-01-28,1985-02-11,1,172,3
+EMP00292,Empleado_292,Tripulante Cabina,Cabina,BOG,Part-time,2010-07-01,1970-11-23,1,187,14
+EMP00293,Empleado_293,Supervisor Operaciones,Tierra,MIA,Plazo Fijo,2024-08-07,1991-04-29,1,172,0
+EMP00294,Empleado_294,Agente Check-in,Tierra,SCL,Indefinido,2012-01-14,1970-08-10,1,186,12
+EMP00295,Empleado_295,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2014-11-15,1989-07-06,1,174,10
+EMP00296,Empleado_296,Piloto Comandante,Cockpit,GRU,Indefinido,2015-01-01,1970-02-15,1,169,9
+EMP00297,Empleado_297,Ground Staff,Tierra,GRU,Indefinido,2023-05-10,1993-05-06,1,164,1
+EMP00298,Empleado_298,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2017-01-30,1990-01-21,0,181,7
+EMP00299,Empleado_299,Tripulante Cabina,Cabina,GRU,Part-time,2018-04-26,1977-06-27,1,181,6
+EMP00300,Empleado_300,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2013-06-17,1994-12-29,1,173,11
+EMP00301,Empleado_301,Piloto Comandante,Cockpit,SCL,Part-time,2023-07-19,1982-08-15,1,188,1
+EMP00302,Empleado_302,Piloto Comandante,Cockpit,EZE,Indefinido,2018-01-06,1989-06-26,1,185,6
+EMP00303,Empleado_303,Agente Check-in,Tierra,SCL,Indefinido,2011-02-18,1992-09-27,1,164,13
+EMP00304,Empleado_304,Agente Check-in,Tierra,SCL,Indefinido,2020-07-29,1986-12-24,1,183,4
+EMP00305,Empleado_305,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2014-05-18,1985-09-22,1,188,10
+EMP00306,Empleado_306,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2019-11-26,1989-07-10,1,185,5
+EMP00307,Empleado_307,Tecnico Mantencion,Tierra,EZE,Indefinido,2010-08-07,1999-05-11,1,180,14
+EMP00308,Empleado_308,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2016-10-07,1995-02-12,1,169,8
+EMP00309,Empleado_309,Agente Check-in,Tierra,SCL,Indefinido,2010-11-25,1993-09-14,1,168,14
+EMP00310,Empleado_310,Tripulante Cabina,Cabina,LIM,Indefinido,2024-01-31,1980-07-19,1,162,0
+EMP00311,Empleado_311,Tripulante Cabina Senior,Cabina,GRU,Part-time,2019-01-02,1974-12-25,1,179,5
+EMP00312,Empleado_312,Tripulante Cabina,Cabina,GRU,Indefinido,2010-07-07,1979-06-03,1,169,14
+EMP00313,Empleado_313,Supervisor Operaciones,Tierra,MAD,Indefinido,2022-08-23,1971-01-20,1,169,2
+EMP00314,Empleado_314,Agente Check-in,Tierra,GRU,Indefinido,2013-07-13,1996-05-12,0,170,11
+EMP00315,Empleado_315,Ground Staff,Tierra,EZE,Indefinido,2011-08-13,1978-02-25,1,177,13
+EMP00316,Empleado_316,Supervisor Operaciones,Tierra,SCL,Part-time,2021-07-30,1976-12-06,,167,3
+EMP00317,Empleado_317,Supervisor Operaciones,Tierra,SCL,Indefinido,2010-03-20,1992-03-30,1,164,14
+EMP00318,Empleado_318,Piloto Copiloto,Cockpit,GRU,Indefinido,2010-01-03,1997-07-19,1,170,14
+EMP00319,Empleado_319,Agente Check-in,Tierra,SCL,Indefinido,2024-11-07,1991-12-17,1,190,0
+EMP00320,Empleado_320,Agente Check-in,Tierra,LIM,Indefinido,2019-07-26,1985-11-12,1,167,5
+EMP00321,Empleado_321,Agente Check-in,Tierra,SCL,Indefinido,2021-04-10,1998-04-06,1,186,3
+EMP00322,Empleado_322,Piloto Comandante,Cockpit,SCL,Part-time,2015-10-21,1980-07-07,1,184,9
+EMP00323,Empleado_323,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2013-01-05,1983-07-11,1,189,11
+EMP00324,Empleado_324,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2023-01-14,1972-08-29,1,173,1
+EMP00325,Empleado_325,Agente Check-in,Tierra,SCL,Part-time,2019-01-28,1979-03-07,1,177,5
+EMP00326,Empleado_326,Tripulante Cabina,Cabina,SCL,Indefinido,2016-02-26,1998-10-14,1,181,8
+EMP00327,Empleado_327,Administrativo,Admin,MIA,Part-time,2018-01-09,1980-10-02,1,164,6
+EMP00328,Empleado_328,Tripulante Cabina,Cabina,SCL,Indefinido,2022-10-13,1999-05-07,1,190,2
+EMP00329,Empleado_329,Piloto Comandante,Cockpit,GRU,Honorarios,2019-09-22,1998-12-17,1,177,5
+EMP00330,Empleado_330,Tripulante Cabina,Cabina,SCL,Part-time,2020-07-30,1994-08-26,1,183,4
+EMP00331,Empleado_331,Supervisor Operaciones,Tierra,BOG,Indefinido,2020-06-20,1997-09-05,1,170,4
+EMP00332,Empleado_332,Ground Staff,Tierra,BOG,Plazo Fijo,2017-03-23,1996-11-04,1,169,7
+EMP00333,Empleado_333,Piloto Copiloto,Cockpit,LIM,Indefinido,2011-07-24,1975-12-25,0,169,13
+EMP00334,Empleado_334,Piloto Copiloto,Cockpit,BOG,Part-time,2010-10-24,1982-01-09,0,169,14
+EMP00335,Empleado_335,Piloto Copiloto,Cockpit,SCL,Part-time,2013-08-07,1998-07-25,1,177,11
+EMP00336,Empleado_336,Piloto Copiloto,Cockpit,BOG,Indefinido,2015-03-28,1973-06-12,1,178,9
+EMP00337,Empleado_337,Tecnico Mantencion,Tierra,BOG,Plazo Fijo,2019-01-10,1977-01-01,1,181,5
+EMP00338,Empleado_338,Tripulante Cabina,Cabina,GRU,Indefinido,2022-07-12,1996-11-12,1,190,2
+EMP00339,Empleado_339,Tripulante Cabina Senior,Cabina,JFK,Plazo Fijo,2019-12-08,1971-07-12,1,174,5
+EMP00340,Empleado_340,Piloto Copiloto,Cockpit,BOG,Indefinido,2011-07-04,1974-09-03,1,166,13
+EMP00341,Empleado_341,Supervisor Operaciones,Tierra,MIA,Indefinido,2017-01-28,1983-06-02,1,161,7
+EMP00342,Empleado_342,Tripulante Cabina,Cabina,MIA,Part-time,2022-09-23,1988-06-29,1,177,2
+EMP00343,Empleado_343,Agente Check-in,Tierra,SCL,Indefinido,2012-01-27,1997-05-12,1,190,12
+EMP00344,Empleado_344,Tripulante Cabina,Cabina,GRU,Part-time,2021-04-07,1987-05-08,1,172,3
+EMP00345,Empleado_345,Piloto Copiloto,Cockpit,bogota,Part-time,2024-03-11,1973-07-11,1,172,0
+EMP00346,Empleado_346,Tripulante Cabina Senior,Cabina,SCL,Part-time,2013-09-07,1974-05-07,1,172,11
+EMP00347,Empleado_347,Tecnico Mantencion,Tierra,BOG,Indefinido,2012-01-29,1971-09-20,1,163,12
+EMP00348,Empleado_348,Piloto Comandante,Cockpit,BOG,Indefinido,2018-01-05,1982-07-16,1,177,6
+EMP00349,Empleado_349,Agente Check-in,Tierra,GRU,Indefinido,2017-09-10,1972-03-29,1,180,7
+EMP00350,Empleado_350,Administrativo,Admin,SCL,Indefinido,2022-08-03,1979-03-23,1,163,2
+EMP00351,Empleado_351,Piloto Comandante,Cockpit,EZE,Indefinido,2016-07-09,1986-08-15,1,178,8
+EMP00352,Empleado_352,Piloto Copiloto,Cockpit,SCL,Indefinido,2018-08-20,1979-02-12,0,161,6
+EMP00353,Empleado_353,Ground Staff,Tierra,EZE,Indefinido,2010-03-21,1978-08-30,0,175,14
+EMP00354,Empleado_354,Supervisor Operaciones,Tierra,MIA,Indefinido,2015-12-30,1972-11-17,1,174,9
+EMP00355,Empleado_355,Tripulante Cabina Senior,Cabina,Santiago,Plazo Fijo,2019-01-02,1977-04-19,1,162,5
+EMP00356,Empleado_356,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2020-10-05,1972-09-05,,163,4
+EMP00357,Empleado_357,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2018-07-18,1981-02-05,1,,6
+EMP00358,Empleado_358,Piloto Copiloto,Cockpit,LIM,Indefinido,2017-09-12,1977-10-28,0,169,7
+EMP00359,Empleado_359,Tecnico Mantencion,Tierra,SCL,Indefinido,2013-06-03,1981-10-09,1,187,11
+EMP00360,Empleado_360,Piloto Comandante,Cockpit,sao paulo,Indefinido,2015-02-18,1984-09-04,1,180,9
+EMP00361,Empleado_361,Ground Staff,Tierra,MIA,Plazo Fijo,2010-06-09,1996-11-30,1,189,14
+EMP00362,Empleado_362,Tripulante Cabina Senior,Cabina,JFK,Plazo Fijo,2018-06-19,1990-12-30,1,183,6
+EMP00363,Empleado_363,Tripulante Cabina,Cabina,LIM,Part-time,2021-05-22,1976-12-14,,165,3
+EMP00364,Empleado_364,Tripulante Cabina,Cabina,MAD,Indefinido,2016-01-30,1984-07-19,1,172,8
+EMP00365,Empleado_365,Ground Staff,Tierra,GRU,Part-time,2011-11-02,1980-02-24,1,180,13
+EMP00366,Empleado_366,Tripulante Cabina,Cabina,SCL,Indefinido,2016-08-22,1976-12-16,0,173,8
+EMP00367,Empleado_367,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2024-01-29,1999-01-09,,167,0
+EMP00368,Empleado_368,Piloto Comandante,Cockpit,SCL,Indefinido,2022-12-21,1989-01-22,0,160,2
+EMP00369,Empleado_369,Administrativo,Admin,GRU,Indefinido,2020-07-25,1992-04-22,1,187,4
+EMP00370,Empleado_370,Piloto Copiloto,Cockpit,SCL,Indefinido,2020-09-21,1984-04-24,1,172,4
+EMP00371,Empleado_371,Seguridad,Tierra,EZE,Indefinido,2014-07-15,1990-08-29,1,182,10
+EMP00372,Empleado_372,Administrativo,Admin,SCL,Indefinido,2022-04-24,1972-12-29,1,182,2
+EMP00373,Empleado_373,Ground Staff,Tierra,SCL,Indefinido,2010-06-17,1998-02-28,1,189,14
+EMP00374,Empleado_374,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2010-09-23,1972-12-05,0,184,14
+EMP00375,Empleado_375,Ground Staff,Tierra,EZE,Plazo Fijo,2024-01-05,1986-09-10,,181,0
+EMP00376,Empleado_376,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2024-07-09,1977-12-01,1,160,0
+EMP00377,Empleado_377,Supervisor Operaciones,Tierra,BOG,Indefinido,2024-07-23,1995-03-06,1,169,0
+EMP00378,Empleado_378,Ground Staff,Tierra,LIM,Plazo Fijo,2010-01-25,1996-10-18,1,181,14
+EMP00379,Empleado_379,Piloto Copiloto,Cockpit,LIM,Plazo Fijo,2013-02-04,1988-04-24,1,,11
+EMP00380,Empleado_380,Ground Staff,Tierra,GRU,Indefinido,2012-04-28,1970-12-11,1,163,12
+EMP00381,Empleado_381,Supervisor Operaciones,Tierra,SCL,Indefinido,2024-01-08,1971-05-03,1,167,0
+EMP00382,Empleado_382,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2012-01-03,1996-08-17,1,168,12
+EMP00383,Empleado_383,Ground Staff,Tierra,EZE,Indefinido,2019-01-05,1984-11-19,1,160,5
+EMP00384,Empleado_384,Ground Staff,Tierra,lima,Indefinido,2016-12-21,1995-11-16,1,166,8
+EMP00385,Empleado_385,Agente Check-in,Tierra,SCL,Indefinido,2010-01-29,1973-09-29,1,166,14
+EMP00386,Empleado_386,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2014-11-23,1985-04-28,0,164,10
+EMP00387,Empleado_387,Ground Staff,Tierra,EZE,Indefinido,2019-12-21,1978-04-13,1,181,5
+EMP00388,Empleado_388,Ground Staff,Tierra,SCL,Indefinido,2019-02-12,1986-09-17,1,189,5
+EMP00389,Empleado_389,Piloto Copiloto,Cockpit,SCL,Indefinido,2022-11-16,1993-03-16,1,168,2
+EMP00390,Empleado_390,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2011-12-13,1999-08-06,1,175,13
+EMP00391,Empleado_391,Piloto Comandante,Cockpit,GRU,Indefinido,2019-10-28,1990-02-01,,164,5
+EMP00392,Empleado_392,Piloto Copiloto,Cockpit,BOG,Part-time,2024-11-27,1970-06-25,1,165,0
+EMP00393,Empleado_393,Tripulante Cabina,Cabina,EZE,Indefinido,2016-07-23,1970-03-20,0,190,8
+EMP00394,Empleado_394,Agente Check-in,Tierra,GRU,Plazo Fijo,2015-07-15,1982-01-01,1,,9
+EMP00395,Empleado_395,Agente Check-in,Tierra,SCL,Indefinido,2011-06-05,1998-02-12,1,185,13
+EMP00396,Empleado_396,Tecnico Mantencion,Tierra,GRU,Indefinido,2016-07-28,1976-10-07,1,172,8
+EMP00397,Empleado_397,Ground Staff,Tierra,BOG,Part-time,2024-10-22,1999-02-04,1,182,0
+EMP00398,Empleado_398,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2018-01-07,1994-03-24,0,165,6
+EMP00399,Empleado_399,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2021-04-15,1997-02-10,1,173,3
+EMP00400,Empleado_400,Piloto Copiloto,Cockpit,EZE,Indefinido,2015-09-30,1971-10-13,1,180,9
+EMP00401,Empleado_401,Tripulante Cabina,Cabina,LIM,Part-time,2022-07-04,1994-07-28,1,188,2
+EMP00402,Empleado_402,Tecnico Mantencion,Tierra,GRU,Indefinido,2016-03-30,1975-11-03,0,179,8
+EMP00403,Empleado_403,Administrativo,Admin,MAD,Indefinido,2011-01-19,1979-02-14,,186,13
+EMP00404,Empleado_404,Tripulante Cabina,Cabina,SCL,Indefinido,2020-01-26,1975-06-30,1,168,4
+EMP00405,Empleado_405,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2015-01-17,1976-04-01,1,168,9
+EMP00406,Empleado_406,Piloto Copiloto,Cockpit,MIA,Indefinido,2014-10-31,1971-11-03,1,164,10
+EMP00407,Empleado_407,Ground Staff,Tierra,SCL,Plazo Fijo,2016-01-05,1970-05-02,1,190,8
+EMP00408,Empleado_408,Agente Check-in,Tierra,BOG,Indefinido,2021-07-18,1985-10-30,1,187,3
+EMP00409,Empleado_409,Ground Staff,Tierra,SCL,Indefinido,2024-10-12,1980-10-13,1,168,0
+EMP00410,Empleado_410,Tripulante Cabina,Cabina,MAD,Indefinido,2018-07-17,1970-07-24,1,167,6
+EMP00411,Empleado_411,Piloto Copiloto,Cockpit,BOG,Honorarios,2021-01-10,1996-10-20,1,168,3
+EMP00412,Empleado_412,Supervisor Operaciones,Tierra,GRU,Part-time,2016-06-19,1977-01-03,1,173,8
+EMP00413,Empleado_413,Tripulante Cabina,Cabina,bogota,Indefinido,2024-09-24,1980-10-22,0,163,0
+EMP00414,Empleado_414,Tripulante Cabina,Cabina,sao paulo,Indefinido,2018-04-06,1988-05-17,1,166,6
+EMP00415,Empleado_415,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2024-01-11,1973-02-25,1,165,0
+EMP00416,Empleado_416,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2013-06-28,1986-02-17,0,186,11
+EMP00417,Empleado_417,Agente Check-in,Tierra,BOG,Honorarios,2023-12-22,1992-10-14,1,167,1
+EMP00418,Empleado_418,Piloto Copiloto,Cockpit,SCL,Indefinido,2014-01-23,1998-01-07,1,179,10
+EMP00419,Empleado_419,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2021-05-10,1986-07-16,0,167,3
+EMP00420,Empleado_420,Ground Staff,Tierra,MIA,Indefinido,2011-12-14,1979-06-27,1,190,13
+EMP00421,Empleado_421,Tecnico Mantencion,Tierra,SCL,Indefinido,2017-02-16,1988-09-04,1,165,7
+EMP00422,Empleado_422,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2020-07-03,1981-05-14,1,184,4
+EMP00423,Empleado_423,Tripulante Cabina,Cabina,SCL,Indefinido,2015-06-27,1997-08-28,1,162,9
+EMP00424,Empleado_424,Tecnico Mantencion,Tierra,SCL,Indefinido,2013-07-30,1980-08-24,1,170,11
+EMP00425,Empleado_425,Piloto Comandante,Cockpit,LIM,Indefinido,2020-01-12,1992-04-12,0,173,4
+EMP00426,Empleado_426,Tripulante Cabina,Cabina,SCL,Indefinido,2012-12-09,1983-11-20,0,181,12
+EMP00427,Empleado_427,Tripulante Cabina,Cabina,LIM,Indefinido,2020-06-17,1985-12-12,0,185,4
+EMP00428,Empleado_428,Tripulante Cabina,Cabina,LIM,Indefinido,2020-10-11,1983-09-05,,174,4
+EMP00429,Empleado_429,Tripulante Cabina Senior,Cabina,LIM,Honorarios,2020-12-12,1984-05-22,1,164,4
+EMP00430,Empleado_430,Tecnico Mantencion,Tierra,BOG,Indefinido,2010-01-23,1975-12-21,1,169,14
+EMP00431,Empleado_431,Piloto Comandante,Cockpit,LIM,Part-time,2012-05-02,1995-01-03,1,190,12
+EMP00432,Empleado_432,Tripulante Cabina,Cabina,GRU,Indefinido,2016-01-14,1984-02-23,1,187,8
+EMP00433,Empleado_433,Tripulante Cabina,Cabina,sao paulo,Indefinido,2018-07-20,1974-11-23,1,164,6
+EMP00434,Empleado_434,Tripulante Cabina,Cabina,EZE,Part-time,2017-03-16,1982-09-16,0,185,7
+EMP00435,Empleado_435,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2012-08-27,1994-12-08,1,176,12
+EMP00436,Empleado_436,Supervisor Operaciones,Tierra,SCL,Indefinido,2020-09-28,1974-02-26,1,185,4
+EMP00437,Empleado_437,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2011-07-31,1983-07-14,1,181,13
+EMP00438,Empleado_438,Tecnico Mantencion,Tierra,SCL,Indefinido,2011-12-06,1970-02-22,1,182,13
+EMP00439,Empleado_439,Tripulante Cabina,Cabina,LIM,Indefinido,2021-07-28,1975-11-07,1,,3
+EMP00440,Empleado_440,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2013-01-14,1970-03-05,1,181,11
+EMP00441,Empleado_441,Tecnico Mantencion,Tierra,sao paulo,Indefinido,2017-07-01,1978-05-29,1,187,7
+EMP00442,Empleado_442,Piloto Copiloto,Cockpit,EZE,Indefinido,2016-07-26,1978-08-31,1,173,8
+EMP00443,Empleado_443,Piloto Copiloto,Cockpit,Santiago,Indefinido,2022-01-14,1999-08-06,1,168,2
+EMP00444,Empleado_444,Tecnico Mantencion,Tierra,LIM,Indefinido,2018-09-26,1973-06-26,1,189,6
+EMP00445,Empleado_445,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2020-01-10,1979-02-09,1,168,4
+EMP00446,Empleado_446,Ground Staff,Tierra,LIM,Indefinido,2018-09-22,1991-04-19,1,180,6
+EMP00447,Empleado_447,Piloto Comandante,Cockpit,SCL,Indefinido,2017-04-21,1971-11-05,1,166,7
+EMP00448,Empleado_448,Tripulante Cabina,Cabina,SCL,Honorarios,2018-03-20,1972-09-09,0,188,6
+EMP00449,Empleado_449,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2018-06-24,1999-12-30,1,190,6
+EMP00450,Empleado_450,Ground Staff,Tierra,SCL,Indefinido,2016-04-08,1988-09-18,1,180,8
+EMP00451,Empleado_451,Tripulante Cabina Senior,Cabina,MAD,Part-time,2018-05-26,1975-03-03,0,184,6
+EMP00452,Empleado_452,Ground Staff,Tierra,MIA,Part-time,2012-05-15,1976-02-12,1,161,12
+EMP00453,Empleado_453,Tripulante Cabina Senior,Cabina,sao paulo,Indefinido,2019-10-21,1992-05-17,1,185,5
+EMP00454,Empleado_454,Tripulante Cabina,Cabina,LIM,Indefinido,2018-02-24,1973-10-21,1,166,6
+EMP00455,Empleado_455,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2010-05-17,1980-12-05,1,166,14
+EMP00456,Empleado_456,Ground Staff,Tierra,BOG,Indefinido,2018-01-25,1981-01-21,1,176,6
+EMP00457,Empleado_457,Supervisor Operaciones,Tierra,SCL,Indefinido,2019-05-05,1989-12-03,1,160,5
+EMP00458,Empleado_458,Piloto Copiloto,Cockpit,SCL,Honorarios,2019-01-08,1971-01-15,1,160,5
+EMP00459,Empleado_459,Ground Staff,Tierra,GRU,Plazo Fijo,2021-01-31,1971-07-28,1,,3
+EMP00460,Empleado_460,Tecnico Mantencion,Tierra,LIM,Indefinido,2015-10-27,1989-12-17,1,177,9
+EMP00461,Empleado_461,Piloto Copiloto,Cockpit,JFK,Indefinido,2024-03-06,1983-10-12,,167,0
+EMP00462,Empleado_462,Agente Check-in,Tierra,LIM,Indefinido,2014-01-05,1996-06-24,,,10
+EMP00463,Empleado_463,Supervisor Operaciones,Tierra,GRU,Indefinido,2015-01-09,1979-03-01,1,174,9
+EMP00464,Empleado_464,Tripulante Cabina,Cabina,SCL,Indefinido,2023-03-14,1995-12-17,1,175,1
+EMP00465,Empleado_465,Piloto Copiloto,Cockpit,SCL,Part-time,2017-03-17,1974-07-27,1,167,7
+EMP00466,Empleado_466,Piloto Copiloto,Cockpit,EZE,Indefinido,2019-07-09,1974-01-14,1,164,5
+EMP00467,Empleado_467,Seguridad,Tierra,MIA,Indefinido,2023-07-23,1972-08-19,1,170,1
+EMP00468,Empleado_468,Tripulante Cabina,Cabina,BOG,Indefinido,2018-07-19,1977-03-20,1,165,6
+EMP00469,Empleado_469,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2021-04-11,1997-07-30,1,175,3
+EMP00470,Empleado_470,Piloto Comandante,Cockpit,LIM,Plazo Fijo,2022-03-20,1985-03-10,1,163,2
+EMP00471,Empleado_471,Piloto Copiloto,Cockpit,MIA,Indefinido,2014-01-10,1988-07-14,1,165,10
+EMP00472,Empleado_472,Tripulante Cabina Senior,Cabina,BOG,Part-time,2020-07-18,1988-10-27,1,190,4
+EMP00473,Empleado_473,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2019-07-10,1990-06-06,1,175,5
+EMP00474,Empleado_474,Ground Staff,Tierra,BOG,Part-time,2014-06-25,1998-10-25,1,167,10
+EMP00475,Empleado_475,Ground Staff,Tierra,EZE,Indefinido,2017-08-22,1984-08-01,0,174,7
+EMP00476,Empleado_476,Ground Staff,Tierra,MAD,Indefinido,2015-10-30,1976-10-16,1,,9
+EMP00477,Empleado_477,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2010-05-25,1993-05-28,1,161,14
+EMP00478,Empleado_478,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2023-05-11,1999-09-17,1,181,1
+EMP00479,Empleado_479,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2023-07-24,1982-07-06,1,184,1
+EMP00480,Empleado_480,Ground Staff,Tierra,EZE,Indefinido,2023-07-12,1996-11-24,1,189,1
+EMP00481,Empleado_481,Ground Staff,Tierra,SCL,Plazo Fijo,2012-07-14,1974-11-16,1,183,12
+EMP00482,Empleado_482,Tripulante Cabina,Cabina,SCL,Indefinido,2013-06-01,1981-12-14,1,188,11
+EMP00483,Empleado_483,Tecnico Mantencion,Tierra,BOG,Part-time,2021-04-10,1983-05-04,1,165,3
+EMP00484,Empleado_484,Tripulante Cabina,Cabina,SCL,Indefinido,2013-08-05,1982-03-20,1,187,11
+EMP00485,Empleado_485,Tripulante Cabina,Cabina,LIM,Indefinido,2022-02-14,1972-01-02,1,162,2
+EMP00486,Empleado_486,Agente Check-in,Tierra,GRU,Honorarios,2010-05-04,1998-06-18,1,180,14
+EMP00487,Empleado_487,Tripulante Cabina,Cabina,BOG,Indefinido,2017-09-13,1986-04-25,1,180,7
+EMP00488,Empleado_488,Supervisor Operaciones,Tierra,GRU,Plazo Fijo,2015-12-24,1974-06-29,1,188,9
+EMP00489,Empleado_489,Tecnico Mantencion,Tierra,JFK,Part-time,2013-01-05,1974-12-04,0,172,11
+EMP00490,Empleado_490,Supervisor Operaciones,Tierra,SCL,Part-time,2012-07-27,1993-01-06,1,177,12
+EMP00491,Empleado_491,Tecnico Mantencion,Tierra,MIA,Part-time,2018-10-10,1993-03-21,1,178,6
+EMP00492,Empleado_492,Tripulante Cabina,Cabina,BOG,Indefinido,2017-07-11,1993-01-18,1,161,7
+EMP00493,Empleado_493,Supervisor Operaciones,Tierra,LIM,Indefinido,2012-04-14,1973-09-29,1,186,12
+EMP00494,Empleado_494,Piloto Copiloto,Cockpit,MIA,Part-time,2012-03-22,1979-07-12,1,163,12
+EMP00495,Empleado_495,Administrativo,Admin,SCL,Plazo Fijo,2022-10-01,1986-03-12,1,181,2
+EMP00496,Empleado_496,Piloto Comandante,Cockpit,GRU,Indefinido,2017-07-24,1983-02-13,1,161,7
+EMP00497,Empleado_497,Piloto Comandante,Cockpit,LIM,Plazo Fijo,2010-10-19,1991-04-14,1,181,14
+EMP00498,Empleado_498,Tripulante Cabina,Cabina,MIA,Indefinido,2014-08-04,1973-12-23,1,171,10
+EMP00499,Empleado_499,Administrativo,Admin,BOG,Indefinido,2017-01-14,1975-02-20,1,178,7
+EMP00500,Empleado_500,Tripulante Cabina,Cabina,SCL,Indefinido,2018-03-22,1973-05-20,0,190,6
+EMP00501,Empleado_501,Ground Staff,Tierra,EZE,Part-time,2011-05-25,1985-07-14,0,,13
+EMP00502,Empleado_502,Administrativo,Admin,SCL,Indefinido,2024-05-22,1990-05-01,,179,0
+EMP00503,Empleado_503,Piloto Comandante,Cockpit,GRU,Indefinido,2022-06-16,1993-10-04,1,170,2
+EMP00504,Empleado_504,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2022-01-26,1980-03-10,1,171,2
+EMP00505,Empleado_505,Ground Staff,Tierra,EZE,Indefinido,2021-10-01,1981-06-21,1,172,3
+EMP00506,Empleado_506,Tripulante Cabina,Cabina,MAD,Plazo Fijo,2021-07-29,1995-07-06,1,176,3
+EMP00507,Empleado_507,Supervisor Operaciones,Tierra,MIA,Part-time,2010-01-13,1976-05-14,1,182,14
+EMP00508,Empleado_508,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2018-12-29,1978-09-13,1,163,6
+EMP00509,Empleado_509,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2023-07-10,1989-11-15,0,183,1
+EMP00510,Empleado_510,Tripulante Cabina,Cabina,LIM,Indefinido,2021-01-18,1993-07-07,1,187,3
+EMP00511,Empleado_511,Ground Staff,Tierra,SCL,Indefinido,2014-10-04,1984-11-06,1,171,10
+EMP00512,Empleado_512,Piloto Copiloto,Cockpit,SCL,Indefinido,2023-11-19,1975-12-10,1,161,1
+EMP00513,Empleado_513,Agente Check-in,Tierra,LIM,Indefinido,2014-01-10,1994-02-12,1,190,10
+EMP00514,Empleado_514,Ground Staff,Tierra,SCL,Indefinido,2022-12-21,1982-03-12,1,173,2
+EMP00515,Empleado_515,Agente Check-in,Tierra,MIA,Indefinido,2011-10-06,1999-06-29,1,175,13
+EMP00516,Empleado_516,Tripulante Cabina,Cabina,GRU,Indefinido,2013-06-28,1980-03-22,1,169,11
+EMP00517,Empleado_517,Tripulante Cabina,Cabina,BOG,Indefinido,2021-01-13,1997-02-26,1,177,3
+EMP00518,Empleado_518,Ground Staff,Tierra,SCL,Indefinido,2017-12-23,1989-07-27,,175,7
+EMP00519,Empleado_519,Ground Staff,Tierra,GRU,Indefinido,2019-07-31,1982-10-02,1,190,5
+EMP00520,Empleado_520,Piloto Copiloto,Cockpit,SCL,Indefinido,2011-01-09,1980-11-02,1,182,13
+EMP00521,Empleado_521,Ground Staff,Tierra,SCL,Indefinido,2018-03-11,1995-08-16,1,172,6
+EMP00522,Empleado_522,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2015-02-05,1996-12-25,1,160,9
+EMP00523,Empleado_523,Piloto Comandante,Cockpit,MAD,Plazo Fijo,2021-09-04,1978-05-19,0,166,3
+EMP00524,Empleado_524,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2022-10-19,1992-03-06,1,163,2
+EMP00525,Empleado_525,Supervisor Operaciones,Tierra,EZE,Indefinido,2017-01-24,1976-05-29,1,174,7
+EMP00526,Empleado_526,Piloto Comandante,Cockpit,GRU,Indefinido,2021-02-07,1987-06-21,1,169,3
+EMP00527,Empleado_527,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2011-01-13,1979-08-24,1,178,13
+EMP00528,Empleado_528,Tripulante Cabina,Cabina,MAD,Plazo Fijo,2017-12-25,1994-01-31,1,173,7
+EMP00529,Empleado_529,Ground Staff,Tierra,GRU,Honorarios,2016-07-22,1995-01-21,1,167,8
+EMP00530,Empleado_530,Seguridad,Tierra,BOG,Indefinido,2013-01-01,1987-07-09,1,182,11
+EMP00531,Empleado_531,Tripulante Cabina,Cabina,SCL,Indefinido,2019-08-02,1990-03-17,1,169,5
+EMP00532,Empleado_532,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2024-07-16,1975-01-05,1,,0
+EMP00533,Empleado_533,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2010-10-04,1989-01-15,1,188,14
+EMP00534,Empleado_534,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2014-07-16,1987-10-05,1,161,10
+EMP00535,Empleado_535,Ground Staff,Tierra,SCL,Part-time,2021-01-23,1972-05-30,1,174,3
+EMP00536,Empleado_536,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2018-11-02,1989-01-19,1,177,6
+EMP00537,Empleado_537,Ground Staff,Tierra,GRU,Indefinido,2017-12-03,1997-10-24,1,160,7
+EMP00538,Empleado_538,Tecnico Mantencion,Tierra,MIA,Indefinido,2010-12-09,1993-10-04,1,163,14
+EMP00539,Empleado_539,Tecnico Mantencion,Tierra,GRU,Indefinido,2014-01-25,1984-04-09,1,168,10
+EMP00540,Empleado_540,Tripulante Cabina,Cabina,LIM,Indefinido,2022-04-04,1997-09-08,1,186,2
+EMP00541,Empleado_541,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2022-01-31,1979-09-26,1,177,2
+EMP00542,Empleado_542,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2016-01-12,1989-04-04,,173,8
+EMP00543,Empleado_543,Tecnico Mantencion,Tierra,lima,Indefinido,2013-01-29,1996-05-05,1,170,11
+EMP00544,Empleado_544,Piloto Copiloto,Cockpit,lima,Indefinido,2024-01-24,1970-11-13,1,171,0
+EMP00545,Empleado_545,Tecnico Mantencion,Tierra,BOG,Indefinido,2012-10-28,1982-06-29,1,168,12
+EMP00546,Empleado_546,Supervisor Operaciones,Tierra,LIM,Part-time,2024-03-02,1973-12-13,1,184,0
+EMP00547,Empleado_547,Piloto Comandante,Cockpit,LIM,Indefinido,2016-07-18,1990-02-16,1,169,8
+EMP00548,Empleado_548,Ground Staff,Tierra,GRU,Indefinido,2013-01-21,1985-02-26,1,164,11
+EMP00549,Empleado_549,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2024-05-27,1982-02-08,1,184,0
+EMP00550,Empleado_550,Supervisor Operaciones,Tierra,SCL,Indefinido,2022-11-07,1975-08-06,1,161,2
+EMP00551,Empleado_551,Supervisor Operaciones,Tierra,LIM,Part-time,2015-09-23,1971-05-24,1,163,9
+EMP00552,Empleado_552,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2012-01-27,1981-06-01,1,166,12
+EMP00553,Empleado_553,Tripulante Cabina,Cabina,lima,Honorarios,2020-06-13,1975-09-05,1,189,4
+EMP00554,Empleado_554,Piloto Copiloto,Cockpit,EZE,Indefinido,2011-05-15,1986-02-25,1,174,13
+EMP00555,Empleado_555,Piloto Comandante,Cockpit,SCL,Indefinido,2018-07-12,1980-09-24,0,173,6
+EMP00556,Empleado_556,Piloto Copiloto,Cockpit,SCL,Indefinido,2014-03-17,1974-06-28,1,190,10
+EMP00557,Empleado_557,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2020-05-09,1980-12-26,1,172,4
+EMP00558,Empleado_558,Tripulante Cabina,Cabina,LIM,Indefinido,2013-09-29,1972-12-29,1,179,11
+EMP00559,Empleado_559,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2014-07-22,1974-09-06,1,172,10
+EMP00560,Empleado_560,Piloto Comandante,Cockpit,GRU,Indefinido,2022-01-26,1987-12-12,1,163,2
+EMP00561,Empleado_561,Piloto Comandante,Cockpit,MIA,Indefinido,2024-01-12,1993-12-20,0,179,0
+EMP00562,Empleado_562,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2022-04-07,1991-09-02,1,184,2
+EMP00563,Empleado_563,Ground Staff,Tierra,EZE,Indefinido,2012-03-06,1997-07-06,1,165,12
+EMP00564,Empleado_564,Supervisor Operaciones,Tierra,SCL,Indefinido,2010-07-12,1989-02-04,1,173,14
+EMP00565,Empleado_565,Tecnico Mantencion,Tierra,SCL,Indefinido,2010-05-22,1985-04-08,1,173,14
+EMP00566,Empleado_566,Piloto Copiloto,Cockpit,EZE,Plazo Fijo,2013-01-28,1975-06-24,1,169,11
+EMP00567,Empleado_567,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2011-09-30,1995-12-13,1,187,13
+EMP00568,Empleado_568,Tripulante Cabina,Cabina,GRU,Indefinido,2018-04-16,1991-06-20,1,172,6
+EMP00569,Empleado_569,Agente Check-in,Tierra,JFK,Plazo Fijo,2016-10-17,1978-01-25,1,164,8
+EMP00570,Empleado_570,Agente Check-in,Tierra,GRU,Indefinido,2012-08-19,1980-10-18,0,165,12
+EMP00571,Empleado_571,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2012-08-02,1996-06-01,,182,12
+EMP00572,Empleado_572,Ground Staff,Tierra,LIM,Plazo Fijo,2015-07-20,1994-10-23,1,175,9
+EMP00573,Empleado_573,Administrativo,Admin,GRU,Indefinido,2021-02-09,1977-08-30,1,171,3
+EMP00574,Empleado_574,Supervisor Operaciones,Tierra,GRU,Indefinido,2011-09-09,1971-11-26,1,161,13
+EMP00575,Empleado_575,Agente Check-in,Tierra,JFK,Plazo Fijo,2024-07-26,1999-09-07,0,173,0
+EMP00576,Empleado_576,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2012-07-19,1982-09-19,,171,12
+EMP00577,Empleado_577,Piloto Copiloto,Cockpit,GRU,Indefinido,2018-09-02,1989-02-01,1,173,6
+EMP00578,Empleado_578,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2015-02-06,1992-05-06,1,174,9
+EMP00579,Empleado_579,Supervisor Operaciones,Tierra,EZE,Indefinido,2021-08-02,1987-10-19,1,181,3
+EMP00580,Empleado_580,Ground Staff,Tierra,MIA,Part-time,2024-01-24,1984-11-23,1,183,0
+EMP00581,Empleado_581,Tecnico Mantencion,Tierra,BOG,Indefinido,2016-07-21,1984-11-02,1,189,8
+EMP00582,Empleado_582,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2013-12-05,1975-12-25,0,178,11
+EMP00583,Empleado_583,Piloto Copiloto,Cockpit,SCL,Indefinido,2021-03-25,1997-12-15,1,172,3
+EMP00584,Empleado_584,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2019-07-09,1997-03-15,1,181,5
+EMP00585,Empleado_585,Seguridad,Tierra,LIM,Honorarios,2023-01-25,1993-02-03,1,165,1
+EMP00586,Empleado_586,Tecnico Mantencion,Tierra,LIM,Part-time,2017-04-01,1992-12-16,1,171,7
+EMP00587,Empleado_587,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2022-05-01,1988-05-08,1,160,2
+EMP00588,Empleado_588,Ground Staff,Tierra,LIM,Part-time,2010-03-14,1970-09-14,0,172,14
+EMP00589,Empleado_589,Agente Check-in,Tierra,LIM,Part-time,2020-07-22,1995-08-16,1,174,4
+EMP00590,Empleado_590,Agente Check-in,Tierra,GRU,Plazo Fijo,2018-08-03,1976-08-27,1,187,6
+EMP00591,Empleado_591,Piloto Copiloto,Cockpit,LIM,Indefinido,2020-03-20,1995-08-14,1,172,4
+EMP00592,Empleado_592,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2015-01-20,1992-02-12,0,186,9
+EMP00593,Empleado_593,Ground Staff,Tierra,BOG,Part-time,2019-08-18,1989-03-06,0,173,5
+EMP00594,Empleado_594,Tripulante Cabina,Cabina,SCL,Indefinido,2023-07-19,1980-06-18,1,169,1
+EMP00595,Empleado_595,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2011-01-15,1978-02-20,1,186,13
+EMP00596,Empleado_596,Piloto Comandante,Cockpit,GRU,Part-time,2019-11-05,1989-04-27,1,185,5
+EMP00597,Empleado_597,Tripulante Cabina,Cabina,LIM,Indefinido,2022-01-30,1987-01-09,1,178,2
+EMP00598,Empleado_598,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2011-01-05,1995-02-26,1,161,13
+EMP00599,Empleado_599,Piloto Comandante,Cockpit,SCL,Indefinido,2013-12-05,1995-03-12,0,173,11
+EMP00600,Empleado_600,Seguridad,Tierra,SCL,Plazo Fijo,2014-11-06,1989-10-17,1,182,10
+EMP00601,Empleado_601,Agente Check-in,Tierra,BOG,Part-time,2015-03-16,1972-11-03,0,178,9
+EMP00602,Empleado_602,Tripulante Cabina,Cabina,BOG,Part-time,2018-07-08,1989-05-30,1,184,6
+EMP00603,Empleado_603,Tecnico Mantencion,Tierra,LIM,Honorarios,2012-10-12,1972-04-18,1,188,12
+EMP00604,Empleado_604,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2016-02-13,1985-01-11,1,169,8
+EMP00605,Empleado_605,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2023-08-30,1988-03-31,1,163,1
+EMP00606,Empleado_606,Tripulante Cabina,Cabina,MAD,Indefinido,2021-12-15,1996-04-16,1,170,3
+EMP00607,Empleado_607,Ground Staff,Tierra,GRU,Indefinido,2021-07-12,1992-05-01,1,161,3
+EMP00608,Empleado_608,Ground Staff,Tierra,GRU,Indefinido,2010-01-15,1973-04-22,1,166,14
+EMP00609,Empleado_609,Piloto Comandante,Cockpit,SCL,Indefinido,2011-07-13,1993-11-03,1,182,13
+EMP00610,Empleado_610,Supervisor Operaciones,Tierra,BOG,Indefinido,2023-07-26,1993-04-02,1,178,1
+EMP00611,Empleado_611,Tripulante Cabina,Cabina,MIA,Indefinido,2010-07-11,1987-10-31,1,180,14
+EMP00612,Empleado_612,Ground Staff,Tierra,EZE,Indefinido,2021-05-28,1996-07-28,1,175,3
+EMP00613,Empleado_613,Piloto Comandante,Cockpit,SCL,Part-time,2015-07-22,1994-05-09,1,189,9
+EMP00614,Empleado_614,Tripulante Cabina,Cabina,LIM,Indefinido,2021-02-04,1994-05-07,1,165,3
+EMP00615,Empleado_615,Ground Staff,Tierra,lima,Indefinido,2018-06-29,1986-12-09,1,163,6
+EMP00616,Empleado_616,Supervisor Operaciones,Tierra,BOG,Part-time,2016-08-24,1995-11-13,1,184,8
+EMP00617,Empleado_617,Tripulante Cabina Senior,Cabina,EZE,Honorarios,2016-07-16,1976-04-15,1,186,8
+EMP00618,Empleado_618,Tripulante Cabina,Cabina,GRU,Indefinido,2010-08-14,1970-06-29,1,186,14
+EMP00619,Empleado_619,Piloto Comandante,Cockpit,BOG,Indefinido,2017-07-16,1988-04-22,,188,7
+EMP00620,Empleado_620,Supervisor Operaciones,Tierra,SCL,Indefinido,2018-12-12,1981-01-27,0,176,6
+EMP00621,Empleado_621,Ground Staff,Tierra,LIM,Part-time,2013-10-31,1971-04-15,1,173,11
+EMP00622,Empleado_622,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2013-07-12,1986-04-15,1,161,11
+EMP00623,Empleado_623,Piloto Copiloto,Cockpit,MIA,Honorarios,2014-07-15,1995-10-22,0,170,10
+EMP00624,Empleado_624,Tripulante Cabina,Cabina,MIA,Part-time,2023-01-16,1995-04-11,1,184,1
+EMP00625,Empleado_625,Administrativo,Admin,SCL,Honorarios,2010-01-30,1996-09-19,1,168,14
+EMP00626,Empleado_626,Supervisor Operaciones,Tierra,SCL,Indefinido,2014-02-08,1995-04-07,1,178,10
+EMP00627,Empleado_627,Piloto Copiloto,Cockpit,BOG,Indefinido,2023-01-27,1985-03-05,1,174,1
+EMP00628,Empleado_628,Supervisor Operaciones,Tierra,BOG,Part-time,2022-01-25,1993-07-31,1,170,2
+EMP00629,Empleado_629,Tripulante Cabina Senior,Cabina,Santiago,Indefinido,2015-07-10,1992-08-24,0,176,9
+EMP00630,Empleado_630,Agente Check-in,Tierra,SCL,Part-time,2018-11-23,1974-05-03,1,173,6
+EMP00631,Empleado_631,Piloto Comandante,Cockpit,BOG,Indefinido,2023-01-27,1987-06-29,0,175,1
+EMP00632,Empleado_632,Tripulante Cabina,Cabina,MIA,Indefinido,2013-01-05,1984-08-26,1,190,11
+EMP00633,Empleado_633,Piloto Comandante,Cockpit,LIM,Indefinido,2019-07-23,1993-06-18,1,187,5
+EMP00634,Empleado_634,Ground Staff,Tierra,MAD,Indefinido,2021-01-31,1971-01-04,1,167,3
+EMP00635,Empleado_635,Tripulante Cabina,Cabina,GRU,Indefinido,2019-04-03,1972-04-05,1,161,5
+EMP00636,Empleado_636,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2024-10-29,1978-07-01,0,182,0
+EMP00637,Empleado_637,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-10-01,1984-12-06,1,179,3
+EMP00638,Empleado_638,Tripulante Cabina,Cabina,Santiago,Plazo Fijo,2023-07-06,1987-02-13,1,160,1
+EMP00639,Empleado_639,Tecnico Mantencion,Tierra,BOG,Part-time,2020-04-12,1987-03-01,1,170,4
+EMP00640,Empleado_640,Tecnico Mantencion,Tierra,SCL,Honorarios,2011-07-19,1999-10-23,,180,13
+EMP00641,Empleado_641,Tripulante Cabina,Cabina,SCL,Indefinido,2022-03-19,1989-03-12,1,174,2
+EMP00642,Empleado_642,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2015-09-08,1980-11-19,1,184,9
+EMP00643,Empleado_643,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2014-01-09,1973-04-07,1,176,10
+EMP00644,Empleado_644,Supervisor Operaciones,Tierra,LIM,Plazo Fijo,2020-04-09,1972-12-19,1,190,4
+EMP00645,Empleado_645,Agente Check-in,Tierra,SCL,Honorarios,2019-07-21,1994-10-21,0,179,5
+EMP00646,Empleado_646,Supervisor Operaciones,Tierra,GRU,Indefinido,2024-07-29,1979-11-19,1,175,0
+EMP00647,Empleado_647,Administrativo,Admin,EZE,Indefinido,2014-09-05,1983-01-13,1,160,10
+EMP00648,Empleado_648,Piloto Comandante,Cockpit,GRU,Indefinido,2011-01-15,1975-04-27,1,190,13
+EMP00649,Empleado_649,Supervisor Operaciones,Tierra,LIM,Plazo Fijo,2010-10-26,1988-11-17,,185,14
+EMP00650,Empleado_650,Ground Staff,Tierra,JFK,Indefinido,2016-11-11,1997-05-29,1,163,8
+EMP00651,Empleado_651,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2019-11-13,1998-06-02,1,171,5
+EMP00652,Empleado_652,Supervisor Operaciones,Tierra,GRU,Indefinido,2024-10-27,1983-02-04,1,,0
+EMP00653,Empleado_653,Tripulante Cabina,Cabina,GRU,Indefinido,2012-08-06,1982-05-30,1,168,12
+EMP00654,Empleado_654,Piloto Copiloto,Cockpit,SCL,Indefinido,2015-07-16,1992-09-29,0,187,9
+EMP00655,Empleado_655,Ground Staff,Tierra,,Indefinido,2010-01-26,1999-12-28,1,177,14
+EMP00656,Empleado_656,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2015-06-24,1981-03-04,1,,9
+EMP00657,Empleado_657,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2022-07-27,1990-02-21,1,180,2
+EMP00658,Empleado_658,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2018-01-16,1991-02-13,1,166,6
+EMP00659,Empleado_659,Ground Staff,Tierra,LIM,Indefinido,2014-07-19,1996-12-13,1,182,10
+EMP00660,Empleado_660,Administrativo,Admin,SCL,Indefinido,2023-03-03,1991-09-08,1,167,1
+EMP00661,Empleado_661,Piloto Copiloto,Cockpit,Santiago,Indefinido,2011-12-09,1988-08-21,0,167,13
+EMP00662,Empleado_662,Ground Staff,Tierra,BOG,Indefinido,2015-01-26,1988-10-15,1,179,9
+EMP00663,Empleado_663,Agente Check-in,Tierra,GRU,Indefinido,2016-01-23,1993-09-30,1,190,8
+EMP00664,Empleado_664,Administrativo,Admin,EZE,Indefinido,2020-02-25,1995-03-24,1,162,4
+EMP00665,Empleado_665,Piloto Comandante,Cockpit,GRU,Indefinido,2013-09-26,1976-08-18,1,189,11
+EMP00666,Empleado_666,Tecnico Mantencion,Tierra,SCL,Indefinido,2011-03-24,1993-06-06,0,170,13
+EMP00667,Empleado_667,Tecnico Mantencion,Tierra,SCL,Indefinido,2021-09-10,1999-05-16,1,174,3
+EMP00668,Empleado_668,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2020-08-23,1970-07-07,1,168,4
+EMP00669,Empleado_669,Tripulante Cabina,Cabina,GRU,Indefinido,2022-07-14,1985-08-23,1,182,2
+EMP00670,Empleado_670,Piloto Copiloto,Cockpit,LIM,Plazo Fijo,2011-10-23,1989-11-04,1,170,13
+EMP00671,Empleado_671,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2016-02-07,1983-12-03,1,164,8
+EMP00672,Empleado_672,Tripulante Cabina,Cabina,BOG,Indefinido,2016-12-19,1971-05-10,1,169,8
+EMP00673,Empleado_673,Tripulante Cabina,Cabina,SCL,Indefinido,2023-05-21,1989-11-17,1,185,1
+EMP00674,Empleado_674,Ground Staff,Tierra,SCL,Plazo Fijo,2024-07-20,1975-02-16,0,,0
+EMP00675,Empleado_675,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2024-01-07,1993-01-06,1,170,0
+EMP00676,Empleado_676,Agente Check-in,Tierra,SCL,Plazo Fijo,2023-01-17,1974-03-21,,181,1
+EMP00677,Empleado_677,Agente Check-in,Tierra,GRU,Part-time,2011-07-20,1971-08-21,1,189,13
+EMP00678,Empleado_678,Piloto Comandante,Cockpit,GRU,Honorarios,2017-02-15,1991-08-26,1,176,7
+EMP00679,Empleado_679,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2021-09-01,1990-04-25,1,184,3
+EMP00680,Empleado_680,Ground Staff,Tierra,MIA,Indefinido,2024-02-20,1972-02-12,0,176,0
+EMP00681,Empleado_681,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2018-07-09,1988-04-28,1,173,6
+EMP00682,Empleado_682,Tripulante Cabina,Cabina,MIA,Indefinido,2024-07-30,1986-09-17,1,175,0
+EMP00683,Empleado_683,Piloto Copiloto,Cockpit,GRU,Indefinido,2014-05-05,1987-07-04,1,182,10
+EMP00684,Empleado_684,Administrativo,Admin,GRU,Indefinido,2023-09-30,1988-09-15,1,168,1
+EMP00685,Empleado_685,Ground Staff,Tierra,GRU,Indefinido,2021-01-20,1973-09-14,1,175,3
+EMP00686,Empleado_686,Agente Check-in,Tierra,LIM,Indefinido,2016-11-04,1993-06-30,,166,8
+EMP00687,Empleado_687,Agente Check-in,Tierra,GRU,Plazo Fijo,2022-11-09,1983-12-14,1,185,2
+EMP00688,Empleado_688,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2020-10-18,1995-06-06,1,171,4
+EMP00689,Empleado_689,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2023-07-10,1989-04-04,1,176,1
+EMP00690,Empleado_690,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2013-07-08,1984-09-30,1,164,11
+EMP00691,Empleado_691,Ground Staff,Tierra,GRU,Indefinido,2022-07-01,1987-06-16,1,,2
+EMP00692,Empleado_692,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2016-06-12,1975-12-25,,183,8
+EMP00693,Empleado_693,Tripulante Cabina,Cabina,EZE,Part-time,2024-02-18,1977-09-03,1,176,0
+EMP00694,Empleado_694,Tripulante Cabina Senior,Cabina,N/A,Indefinido,2010-01-23,1974-11-06,1,176,14
+EMP00695,Empleado_695,Piloto Copiloto,Cockpit,BOG,Indefinido,2023-01-08,1981-11-15,1,173,1
+EMP00696,Empleado_696,Agente Check-in,Tierra,Santiago,Indefinido,2010-02-10,1992-06-08,0,162,14
+EMP00697,Empleado_697,Piloto Copiloto,Cockpit,BOG,Indefinido,2013-01-11,1977-07-24,1,176,11
+EMP00698,Empleado_698,Piloto Copiloto,Cockpit,SCL,Part-time,2011-04-02,1988-03-05,1,173,13
+EMP00699,Empleado_699,Ground Staff,Tierra,GRU,Honorarios,2017-05-25,1977-02-06,1,174,7
+EMP00700,Empleado_700,Tripulante Cabina,Cabina,SCL,Part-time,2023-06-04,1979-07-17,1,178,1
+EMP00701,Empleado_701,Agente Check-in,Tierra,LIM,Indefinido,2012-02-21,1982-08-20,1,165,12
+EMP00702,Empleado_702,Tripulante Cabina Senior,Cabina,N/A,Indefinido,2013-03-12,1996-08-07,1,171,11
+EMP00703,Empleado_703,Piloto Copiloto,Cockpit,LIM,Indefinido,2011-04-12,1973-03-10,1,184,13
+EMP00704,Empleado_704,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2024-07-28,1981-08-05,1,164,0
+EMP00705,Empleado_705,Agente Check-in,Tierra,,Plazo Fijo,2011-12-13,1978-02-11,1,176,13
+EMP00706,Empleado_706,Tripulante Cabina,Cabina,MIA,Indefinido,2021-09-16,1974-04-09,1,,3
+EMP00707,Empleado_707,Ground Staff,Tierra,GRU,Indefinido,2010-01-05,1999-07-15,1,173,14
+EMP00708,Empleado_708,Ground Staff,Tierra,SCL,Indefinido,2017-07-10,1978-01-19,1,174,7
+EMP00709,Empleado_709,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2022-11-28,1983-01-24,1,,2
+EMP00710,Empleado_710,Piloto Comandante,Cockpit,LIM,Indefinido,2024-01-15,1986-10-11,1,169,0
+EMP00711,Empleado_711,Agente Check-in,Tierra,GRU,Indefinido,2020-10-04,1975-09-18,1,160,4
+EMP00712,Empleado_712,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2024-02-03,1982-04-03,1,183,0
+EMP00713,Empleado_713,Ground Staff,Tierra,LIM,Indefinido,2013-05-09,1988-10-02,1,169,11
+EMP00714,Empleado_714,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2011-09-21,1973-05-01,1,190,13
+EMP00715,Empleado_715,Ground Staff,Tierra,BOG,Plazo Fijo,2019-11-04,1979-10-25,1,164,5
+EMP00716,Empleado_716,Tripulante Cabina,Cabina,LIM,Honorarios,2024-10-14,1971-12-11,0,181,0
+EMP00717,Empleado_717,Tripulante Cabina,Cabina,EZE,Indefinido,2021-06-10,1976-09-05,1,182,3
+EMP00718,Empleado_718,Tripulante Cabina,Cabina,BOG,Indefinido,2016-10-09,1999-06-28,1,,8
+EMP00719,Empleado_719,Agente Check-in,Tierra,LIM,Indefinido,2023-09-22,1978-11-18,1,173,1
+EMP00720,Empleado_720,Tripulante Cabina,Cabina,GRU,Indefinido,2010-01-03,1987-05-14,1,176,14
+EMP00721,Empleado_721,Piloto Copiloto,Cockpit,EZE,Honorarios,2023-10-29,1988-06-16,1,185,1
+EMP00722,Empleado_722,Tripulante Cabina,Cabina,JFK,Indefinido,2015-01-27,1992-10-23,1,186,9
+EMP00723,Empleado_723,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2017-12-10,1975-09-25,1,187,7
+EMP00724,Empleado_724,Administrativo,Admin,JFK,Indefinido,2011-06-16,1983-11-30,1,165,13
+EMP00725,Empleado_725,Supervisor Operaciones,Tierra,GRU,Indefinido,2019-07-05,1991-07-20,1,169,5
+EMP00726,Empleado_726,Ground Staff,Tierra,BOG,Part-time,2013-09-10,1972-04-24,1,185,11
+EMP00727,Empleado_727,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2024-07-08,1977-11-07,1,182,0
+EMP00728,Empleado_728,Ground Staff,Tierra,EZE,Indefinido,2013-03-05,1983-03-13,1,180,11
+EMP00729,Empleado_729,Agente Check-in,Tierra,LIM,Indefinido,2021-02-01,1977-04-03,0,170,3
+EMP00730,Empleado_730,Ground Staff,Tierra,GRU,Indefinido,2016-01-20,1978-01-19,1,190,8
+EMP00731,Empleado_731,Administrativo,Admin,GRU,Part-time,2017-10-12,1982-03-25,1,189,7
+EMP00732,Empleado_732,Agente Check-in,Tierra,LIM,Part-time,2019-11-25,1981-09-19,1,162,5
+EMP00733,Empleado_733,Ground Staff,Tierra,BOG,Indefinido,2012-11-10,1999-09-06,1,174,12
+EMP00734,Empleado_734,Ground Staff,Tierra,SCL,Indefinido,2024-11-11,1983-11-13,1,185,0
+EMP00735,Empleado_735,Tripulante Cabina Senior,Cabina,MIA,Honorarios,2021-05-31,1977-08-02,1,171,3
+EMP00736,Empleado_736,Seguridad,Tierra,GRU,Indefinido,2018-07-04,1980-04-04,0,170,6
+EMP00737,Empleado_737,Supervisor Operaciones,Tierra,EZE,Plazo Fijo,2011-01-21,1985-06-23,,183,13
+EMP00738,Empleado_738,Piloto Copiloto,Cockpit,SCL,Indefinido,2018-02-08,1972-09-24,1,181,6
+EMP00739,Empleado_739,Agente Check-in,Tierra,SCL,Indefinido,2012-01-13,1986-01-30,,164,12
+EMP00740,Empleado_740,Ground Staff,Tierra,lima,Indefinido,2012-07-05,1998-10-19,1,169,12
+EMP00741,Empleado_741,Tripulante Cabina,Cabina,GRU,Indefinido,2012-03-11,1999-10-17,1,167,12
+EMP00742,Empleado_742,Tripulante Cabina,Cabina,SCL,Indefinido,2015-07-26,1989-11-25,1,160,9
+EMP00743,Empleado_743,Ground Staff,Tierra,BOG,Indefinido,2020-07-18,1974-12-19,1,189,4
+EMP00744,Empleado_744,Tripulante Cabina,Cabina,LIM,Indefinido,2022-01-17,1991-11-13,1,180,2
+EMP00745,Empleado_745,Tecnico Mantencion,Tierra,LIM,Indefinido,2023-03-18,1974-11-26,1,173,1
+EMP00746,Empleado_746,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2019-07-12,1975-03-04,1,184,5
+EMP00747,Empleado_747,Supervisor Operaciones,Tierra,SCL,Part-time,2014-06-24,1971-12-03,1,186,10
+EMP00748,Empleado_748,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2014-03-13,1977-02-08,1,166,10
+EMP00749,Empleado_749,Ground Staff,Tierra,GRU,Indefinido,2015-01-07,1973-03-15,1,182,9
+EMP00750,Empleado_750,Agente Check-in,Tierra,EZE,Part-time,2012-08-05,1994-11-15,1,189,12
+EMP00751,Empleado_751,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2016-10-27,1981-12-06,1,173,8
+EMP00752,Empleado_752,Ground Staff,Tierra,LIM,Part-time,2020-07-29,1980-01-22,1,190,4
+EMP00753,Empleado_753,Tripulante Cabina,Cabina,LIM,Part-time,2015-09-02,1996-10-10,1,169,9
+EMP00754,Empleado_754,Tripulante Cabina,Cabina,BOG,Indefinido,2019-04-12,1987-10-29,1,163,5
+EMP00755,Empleado_755,Administrativo,Admin,GRU,Indefinido,2021-07-03,1987-02-19,1,179,3
+EMP00756,Empleado_756,Tripulante Cabina,Cabina,SCL,Indefinido,2019-08-22,1983-08-30,1,177,5
+EMP00757,Empleado_757,Tecnico Mantencion,Tierra,JFK,Plazo Fijo,2017-11-19,1978-04-18,1,178,7
+EMP00758,Empleado_758,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2010-12-01,1985-02-20,1,167,14
+EMP00759,Empleado_759,Piloto Copiloto,Cockpit,JFK,Plazo Fijo,2019-07-29,1990-01-30,1,188,5
+EMP00760,Empleado_760,Ground Staff,Tierra,JFK,Indefinido,2010-06-29,1980-09-07,1,185,14
+EMP00761,Empleado_761,Tripulante Cabina,Cabina,BOG,Part-time,2016-01-04,1983-04-27,1,173,8
+EMP00762,Empleado_762,Piloto Comandante,Cockpit,MAD,Indefinido,2018-03-29,1980-11-20,0,175,6
+EMP00763,Empleado_763,Piloto Copiloto,Cockpit,Santiago,Indefinido,2010-05-04,1994-03-26,1,161,14
+EMP00764,Empleado_764,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2018-09-22,1987-07-20,1,187,6
+EMP00765,Empleado_765,Administrativo,Admin,SCL,Indefinido,2021-04-05,1986-12-24,1,170,3
+EMP00766,Empleado_766,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2023-11-09,1998-06-28,1,166,1
+EMP00767,Empleado_767,Piloto Copiloto,Cockpit,bogota,Indefinido,2013-07-31,1970-05-15,1,167,11
+EMP00768,Empleado_768,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2014-07-10,1980-09-28,1,182,10
+EMP00769,Empleado_769,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2020-06-22,1974-09-07,1,186,4
+EMP00770,Empleado_770,Piloto Copiloto,Cockpit,GRU,Indefinido,2011-05-17,1988-11-29,1,167,13
+EMP00771,Empleado_771,Supervisor Operaciones,Tierra,MIA,Part-time,2012-07-02,1986-08-07,0,177,12
+EMP00772,Empleado_772,Ground Staff,Tierra,LIM,Indefinido,2021-03-25,1977-03-07,0,188,3
+EMP00773,Empleado_773,Ground Staff,Tierra,lima,Indefinido,2014-08-25,1986-01-05,1,183,10
+EMP00774,Empleado_774,Tripulante Cabina,Cabina,SCL,Indefinido,2018-03-15,1974-06-05,1,174,6
+EMP00775,Empleado_775,Piloto Comandante,Cockpit,GRU,Plazo Fijo,2018-11-25,1988-01-24,1,178,6
+EMP00776,Empleado_776,Agente Check-in,Tierra,SCL,Plazo Fijo,2013-04-19,1987-10-11,1,163,11
+EMP00777,Empleado_777,Supervisor Operaciones,Tierra,MIA,Indefinido,2016-07-27,1979-09-28,1,181,8
+EMP00778,Empleado_778,Piloto Copiloto,Cockpit,SCL,Part-time,2012-02-08,1998-09-22,1,178,12
+EMP00779,Empleado_779,Tripulante Cabina,Cabina,LIM,Indefinido,2011-07-03,1980-06-22,1,178,13
+EMP00780,Empleado_780,Supervisor Operaciones,Tierra,MAD,Part-time,2014-07-17,1977-12-14,1,176,10
+EMP00781,Empleado_781,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2024-05-08,1970-05-18,1,177,0
+EMP00782,Empleado_782,Tripulante Cabina,Cabina,LIM,Indefinido,2016-07-17,1971-04-24,,160,8
+EMP00783,Empleado_783,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2023-01-18,1992-11-04,1,173,1
+EMP00784,Empleado_784,Agente Check-in,Tierra,BOG,Plazo Fijo,2020-01-22,1972-03-07,1,162,4
+EMP00785,Empleado_785,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2013-01-14,1997-02-16,1,179,11
+EMP00786,Empleado_786,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2011-05-30,1972-01-08,1,188,13
+EMP00787,Empleado_787,Ground Staff,Tierra,BOG,Indefinido,2012-05-07,1987-11-15,1,182,12
+EMP00788,Empleado_788,Ground Staff,Tierra,SCL,Indefinido,2023-11-12,1993-04-05,1,166,1
+EMP00789,Empleado_789,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2022-01-10,1997-04-20,1,174,2
+EMP00790,Empleado_790,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2016-07-23,1983-01-03,1,187,8
+EMP00791,Empleado_791,Administrativo,Admin,EZE,Plazo Fijo,2022-04-10,1999-01-18,1,,2
+EMP00792,Empleado_792,Supervisor Operaciones,Tierra,SCL,Indefinido,2016-07-06,1972-05-08,1,174,8
+EMP00793,Empleado_793,Tripulante Cabina,Cabina,BOG,Indefinido,2014-03-19,1997-02-27,1,170,10
+EMP00794,Empleado_794,Administrativo,Admin,LIM,Part-time,2023-08-17,1980-11-04,1,188,1
+EMP00795,Empleado_795,Piloto Copiloto,Cockpit,LIM,Part-time,2017-01-18,1975-01-04,1,186,7
+EMP00796,Empleado_796,Agente Check-in,Tierra,GRU,Indefinido,2010-07-01,1988-03-27,1,175,14
+EMP00797,Empleado_797,Tripulante Cabina Senior,Cabina,sao paulo,Honorarios,2022-07-18,1984-11-21,1,170,2
+EMP00798,Empleado_798,Administrativo,Admin,JFK,Indefinido,2023-01-09,1982-02-08,0,175,1
+EMP00799,Empleado_799,Agente Check-in,Tierra,SCL,Part-time,2014-10-03,1976-11-09,1,162,10
+EMP00800,Empleado_800,Tripulante Cabina,Cabina,GRU,Indefinido,2020-01-02,1990-11-24,1,190,4
+EMP00801,Empleado_801,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2018-08-12,1994-02-10,1,183,6
+EMP00802,Empleado_802,Agente Check-in,Tierra,MIA,Indefinido,2022-04-01,1975-09-16,1,181,2
+EMP00803,Empleado_803,Tripulante Cabina,Cabina,,Indefinido,2015-01-06,1975-12-30,1,164,9
+EMP00804,Empleado_804,Piloto Copiloto,Cockpit,MIA,Indefinido,2017-07-18,1988-01-10,1,173,7
+EMP00805,Empleado_805,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2012-05-04,1994-03-28,1,,12
+EMP00806,Empleado_806,Tecnico Mantencion,Tierra,GRU,Plazo Fijo,2023-01-15,1975-01-26,1,160,1
+EMP00807,Empleado_807,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2014-02-22,1996-01-16,0,185,10
+EMP00808,Empleado_808,Agente Check-in,Tierra,LIM,Indefinido,2016-07-13,1978-10-05,1,166,8
+EMP00809,Empleado_809,Supervisor Operaciones,Tierra,EZE,Part-time,2014-07-14,1990-11-15,1,166,10
+EMP00810,Empleado_810,Agente Check-in,Tierra,GRU,Honorarios,2024-01-12,1987-11-30,0,188,0
+EMP00811,Empleado_811,Tripulante Cabina,Cabina,MIA,Indefinido,2020-07-02,1989-08-23,1,183,4
+EMP00812,Empleado_812,Piloto Copiloto,Cockpit,BOG,Indefinido,2024-05-31,1992-05-09,1,163,0
+EMP00813,Empleado_813,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2012-05-30,1987-01-11,1,,12
+EMP00814,Empleado_814,Tripulante Cabina Senior,Cabina,sao paulo,Indefinido,2013-02-19,1978-06-24,1,184,11
+EMP00815,Empleado_815,Supervisor Operaciones,Tierra,SCL,Indefinido,2011-02-18,1975-03-06,1,180,13
+EMP00816,Empleado_816,Tripulante Cabina,Cabina,SCL,Indefinido,2024-05-24,1993-01-08,1,190,0
+EMP00817,Empleado_817,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2010-08-02,1980-05-16,1,177,14
+EMP00818,Empleado_818,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2024-02-03,1988-03-06,1,179,0
+EMP00819,Empleado_819,Tripulante Cabina Senior,Cabina,GRU,Honorarios,2012-10-30,1982-08-30,0,173,12
+EMP00820,Empleado_820,Tripulante Cabina,Cabina,LIM,Indefinido,2016-08-04,1989-10-22,1,186,8
+EMP00821,Empleado_821,Supervisor Operaciones,Tierra,MIA,Indefinido,2024-06-06,1991-03-02,1,180,0
+EMP00822,Empleado_822,Administrativo,Admin,EZE,Indefinido,2015-12-19,1990-03-24,1,164,9
+EMP00823,Empleado_823,Supervisor Operaciones,Tierra,SCL,Indefinido,2010-10-22,1975-05-26,0,180,14
+EMP00824,Empleado_824,Agente Check-in,Tierra,BOG,Indefinido,2010-07-19,1984-05-29,0,190,14
+EMP00825,Empleado_825,Piloto Comandante,Cockpit,SCL,Indefinido,2022-01-05,1985-12-05,0,,2
+EMP00826,Empleado_826,Tripulante Cabina,Cabina,BOG,Indefinido,2012-09-11,1992-07-14,1,178,12
+EMP00827,Empleado_827,Ground Staff,Tierra,JFK,Indefinido,2022-01-07,1987-05-31,1,186,2
+EMP00828,Empleado_828,Agente Check-in,Tierra,EZE,Plazo Fijo,2011-07-24,1984-10-02,1,179,13
+EMP00829,Empleado_829,Supervisor Operaciones,Tierra,N/A,Plazo Fijo,2024-06-01,1971-09-11,1,172,0
+EMP00830,Empleado_830,Agente Check-in,Tierra,GRU,Indefinido,2022-07-07,1998-05-29,1,,2
+EMP00831,Empleado_831,Tripulante Cabina,Cabina,LIM,Indefinido,2010-03-11,1990-02-16,1,169,14
+EMP00832,Empleado_832,Ground Staff,Tierra,GRU,Plazo Fijo,2020-07-17,1978-02-02,1,186,4
+EMP00833,Empleado_833,Piloto Comandante,Cockpit,SCL,Indefinido,2024-06-07,1971-01-11,1,168,0
+EMP00834,Empleado_834,Administrativo,Admin,Santiago,Part-time,2014-02-22,1988-08-24,1,175,10
+EMP00835,Empleado_835,Tecnico Mantencion,Tierra,sao paulo,Indefinido,2015-04-12,1994-07-09,1,181,9
+EMP00836,Empleado_836,Agente Check-in,Tierra,GRU,Part-time,2019-07-28,1971-12-08,1,177,5
+EMP00837,Empleado_837,Agente Check-in,Tierra,EZE,Indefinido,2016-10-19,1994-07-22,1,170,8
+EMP00838,Empleado_838,Ground Staff,Tierra,SCL,Honorarios,2023-03-23,1973-06-16,1,166,1
+EMP00839,Empleado_839,Agente Check-in,Tierra,GRU,Plazo Fijo,2021-11-26,1990-09-11,1,168,3
+EMP00840,Empleado_840,Agente Check-in,Tierra,GRU,Indefinido,2017-11-19,1974-01-01,0,170,7
+EMP00841,Empleado_841,Agente Check-in,Tierra,GRU,Indefinido,2023-12-28,1992-02-10,1,182,1
+EMP00842,Empleado_842,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2020-07-12,1986-07-12,1,178,4
+EMP00843,Empleado_843,Supervisor Operaciones,Tierra,GRU,Indefinido,2011-01-29,1997-06-11,1,176,13
+EMP00844,Empleado_844,Tripulante Cabina,Cabina,GRU,Indefinido,2019-06-25,1997-06-15,1,173,5
+EMP00845,Empleado_845,Tripulante Cabina Senior,Cabina,MIA,Part-time,2016-08-05,1994-11-27,,172,8
+EMP00846,Empleado_846,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2010-01-23,1994-01-16,1,186,14
+EMP00847,Empleado_847,Tripulante Cabina,Cabina,GRU,Indefinido,2018-01-31,1979-10-28,1,172,6
+EMP00848,Empleado_848,Ground Staff,Tierra,SCL,Plazo Fijo,2021-07-06,1976-09-21,1,178,3
+EMP00849,Empleado_849,Tripulante Cabina Senior,Cabina,BOG,Honorarios,2016-07-04,1996-12-11,1,170,8
+EMP00850,Empleado_850,Seguridad,Tierra,BOG,Indefinido,2016-07-11,1971-03-25,0,172,8
+EMP00851,Empleado_851,Tripulante Cabina,Cabina,GRU,Indefinido,2023-01-28,1977-07-11,1,164,1
+EMP00852,Empleado_852,Tecnico Mantencion,Tierra,BOG,Plazo Fijo,2023-03-26,1993-01-11,,187,1
+EMP00853,Empleado_853,Tecnico Mantencion,Tierra,SCL,Indefinido,2014-04-25,1976-12-29,1,174,10
+EMP00854,Empleado_854,Supervisor Operaciones,Tierra,SCL,Indefinido,2024-06-23,1992-01-25,0,178,0
+EMP00855,Empleado_855,Tripulante Cabina,Cabina,LIM,Indefinido,2023-06-09,1991-05-07,1,189,1
+EMP00856,Empleado_856,Ground Staff,Tierra,MIA,Part-time,2010-01-08,1971-08-22,1,167,14
+EMP00857,Empleado_857,Piloto Comandante,Cockpit,SCL,Indefinido,2017-09-26,1990-12-11,1,166,7
+EMP00858,Empleado_858,Tripulante Cabina Senior,Cabina,SCL,Honorarios,2017-06-27,1995-03-04,1,170,7
+EMP00859,Empleado_859,Tecnico Mantencion,Tierra,SCL,Indefinido,2017-01-27,1977-07-28,1,184,7
+EMP00860,Empleado_860,Tripulante Cabina,Cabina,GRU,Part-time,2012-12-13,1989-02-07,1,189,12
+EMP00861,Empleado_861,Tripulante Cabina,Cabina,SCL,Indefinido,2020-01-19,1975-09-08,1,171,4
+EMP00862,Empleado_862,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2010-01-21,1978-10-14,1,188,14
+EMP00863,Empleado_863,Administrativo,Admin,BOG,Indefinido,2023-10-30,1978-08-29,1,165,1
+EMP00864,Empleado_864,Agente Check-in,Tierra,JFK,Plazo Fijo,2023-05-31,1985-09-18,1,181,1
+EMP00865,Empleado_865,Piloto Copiloto,Cockpit,SCL,Indefinido,2019-10-28,1995-08-14,1,175,5
+EMP00866,Empleado_866,Ground Staff,Tierra,EZE,Indefinido,2021-04-27,1996-09-21,1,179,3
+EMP00867,Empleado_867,Tripulante Cabina,Cabina,LIM,Indefinido,2017-09-14,1994-02-17,1,174,7
+EMP00868,Empleado_868,Ground Staff,Tierra,EZE,Indefinido,2022-07-08,1995-03-08,,164,2
+EMP00869,Empleado_869,Agente Check-in,Tierra,LIM,Indefinido,2013-07-09,1981-01-07,1,171,11
+EMP00870,Empleado_870,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2022-10-05,1989-03-11,1,186,2
+EMP00871,Empleado_871,Agente Check-in,Tierra,MIA,Indefinido,2011-05-11,1992-02-06,1,185,13
+EMP00872,Empleado_872,Administrativo,Admin,MAD,Indefinido,2014-04-01,1996-08-28,1,164,10
+EMP00873,Empleado_873,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2013-10-08,1988-09-18,1,189,11
+EMP00874,Empleado_874,Tripulante Cabina,Cabina,LIM,Indefinido,2016-07-12,1975-03-27,1,160,8
+EMP00875,Empleado_875,Piloto Copiloto,Cockpit,GRU,Part-time,2023-12-30,1978-04-06,1,162,1
+EMP00876,Empleado_876,Agente Check-in,Tierra,BOG,Part-time,2011-10-26,1990-03-30,1,185,13
+EMP00877,Empleado_877,Tripulante Cabina,Cabina,SCL,Indefinido,2015-07-06,1970-03-10,1,166,9
+EMP00878,Empleado_878,Agente Check-in,Tierra,SCL,Plazo Fijo,2019-08-01,1972-01-29,1,,5
+EMP00879,Empleado_879,Tripulante Cabina,Cabina,LIM,Indefinido,2010-03-01,1993-12-18,0,167,14
+EMP00880,Empleado_880,Tripulante Cabina,Cabina,MIA,Plazo Fijo,2017-01-09,1989-03-14,0,167,7
+EMP00881,Empleado_881,Tripulante Cabina,Cabina,Santiago,Indefinido,2014-07-31,1984-09-30,1,166,10
+EMP00882,Empleado_882,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2014-07-25,1982-09-30,1,177,10
+EMP00883,Empleado_883,Tecnico Mantencion,Tierra,LIM,Part-time,2010-10-03,1991-12-09,1,175,14
+EMP00884,Empleado_884,Ground Staff,Tierra,SCL,Indefinido,2020-01-30,1993-05-27,1,162,4
+EMP00885,Empleado_885,Seguridad,Tierra,GRU,Part-time,2013-01-20,1986-04-04,1,187,11
+EMP00886,Empleado_886,Supervisor Operaciones,Tierra,BOG,Part-time,2024-08-13,1972-12-03,1,179,0
+EMP00887,Empleado_887,Tripulante Cabina Senior,Cabina,,Honorarios,2015-01-08,1994-08-24,1,161,9
+EMP00888,Empleado_888,Agente Check-in,Tierra,EZE,Honorarios,2014-08-29,1977-11-23,1,167,10
+EMP00889,Empleado_889,Agente Check-in,Tierra,Santiago,Part-time,2013-10-03,1982-03-01,1,180,11
+EMP00890,Empleado_890,Ground Staff,Tierra,MAD,Indefinido,2024-08-04,1987-09-22,1,181,0
+EMP00891,Empleado_891,Tripulante Cabina,Cabina,SCL,Indefinido,2018-01-14,1994-05-26,0,180,6
+EMP00892,Empleado_892,Piloto Copiloto,Cockpit,GRU,Honorarios,2018-10-14,1970-08-28,1,187,6
+EMP00893,Empleado_893,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2023-01-30,1980-06-22,,184,1
+EMP00894,Empleado_894,Piloto Copiloto,Cockpit,,Plazo Fijo,2014-01-04,1988-05-29,1,160,10
+EMP00895,Empleado_895,Agente Check-in,Tierra,GRU,Indefinido,2017-01-10,1970-07-30,1,163,7
+EMP00896,Empleado_896,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2023-06-26,1987-01-16,1,164,1
+EMP00897,Empleado_897,Tripulante Cabina,Cabina,EZE,Indefinido,2011-10-25,1970-11-30,0,183,13
+EMP00898,Empleado_898,Tripulante Cabina,Cabina,EZE,Part-time,2021-10-16,1972-05-13,,182,3
+EMP00899,Empleado_899,Ground Staff,Tierra,LIM,Indefinido,2019-01-27,1995-09-02,1,183,5
+EMP00900,Empleado_900,Piloto Comandante,Cockpit,MIA,Plazo Fijo,2010-09-15,1996-11-06,1,167,14
+EMP00901,Empleado_901,Ground Staff,Tierra,GRU,Plazo Fijo,2021-09-02,1984-01-24,,177,3
+EMP00902,Empleado_902,Piloto Copiloto,Cockpit,LIM,Indefinido,2022-09-09,1973-04-04,1,182,2
+EMP00903,Empleado_903,Agente Check-in,Tierra,BOG,Indefinido,2012-02-11,1981-01-04,1,168,12
+EMP00904,Empleado_904,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2014-01-25,1973-10-26,0,185,10
+EMP00905,Empleado_905,Piloto Comandante,Cockpit,MIA,Plazo Fijo,2017-09-08,1987-07-01,1,182,7
+EMP00906,Empleado_906,Piloto Copiloto,Cockpit,MIA,Honorarios,2016-01-03,1973-10-22,1,170,8
+EMP00907,Empleado_907,Piloto Copiloto,Cockpit,SCL,Indefinido,2023-11-16,1972-06-15,,186,1
+EMP00908,Empleado_908,Agente Check-in,Tierra,LIM,Part-time,2024-07-24,1973-09-16,1,185,0
+EMP00909,Empleado_909,Tripulante Cabina,Cabina,SCL,Indefinido,2014-07-14,1981-03-05,1,178,10
+EMP00910,Empleado_910,Seguridad,Tierra,LIM,Indefinido,2019-01-11,1984-04-01,1,171,5
+EMP00911,Empleado_911,Tripulante Cabina,Cabina,SCL,Indefinido,2012-03-17,1993-05-30,,180,12
+EMP00912,Empleado_912,Agente Check-in,Tierra,MAD,Plazo Fijo,2011-06-18,1982-11-11,1,175,13
+EMP00913,Empleado_913,Piloto Copiloto,Cockpit,SCL,Indefinido,2016-09-20,1993-11-13,1,182,8
+EMP00914,Empleado_914,Agente Check-in,Tierra,SCL,Indefinido,2016-03-31,1986-12-29,1,178,8
+EMP00915,Empleado_915,Tecnico Mantencion,Tierra,SCL,Part-time,2019-07-11,1989-11-17,1,166,5
+EMP00916,Empleado_916,Piloto Comandante,Cockpit,LIM,Indefinido,2018-04-22,1983-12-13,1,190,6
+EMP00917,Empleado_917,Piloto Comandante,Cockpit,EZE,Indefinido,2013-07-02,1992-09-29,0,163,11
+EMP00918,Empleado_918,Piloto Copiloto,Cockpit,GRU,Indefinido,2023-12-25,1979-08-04,1,173,1
+EMP00919,Empleado_919,Administrativo,Admin,SCL,Honorarios,2019-07-22,1979-04-26,1,,5
+EMP00920,Empleado_920,Supervisor Operaciones,Tierra,sao paulo,Indefinido,2014-07-01,1993-03-22,1,184,10
+EMP00921,Empleado_921,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2015-05-05,1976-07-20,1,171,9
+EMP00922,Empleado_922,Tripulante Cabina Senior,Cabina,MIA,Part-time,2021-12-14,1995-11-23,1,167,3
+EMP00923,Empleado_923,Agente Check-in,Tierra,LIM,Indefinido,2016-04-15,1976-12-04,1,182,8
+EMP00924,Empleado_924,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2021-09-21,1993-10-14,1,180,3
+EMP00925,Empleado_925,Piloto Copiloto,Cockpit,BOG,Part-time,2020-04-20,1993-02-13,1,190,4
+EMP00926,Empleado_926,Tecnico Mantencion,Tierra,SCL,Part-time,2023-07-08,1977-08-26,1,173,1
+EMP00927,Empleado_927,Tecnico Mantencion,Tierra,SCL,Indefinido,2019-01-11,1977-12-03,1,177,5
+EMP00928,Empleado_928,Tripulante Cabina,Cabina,LIM,Part-time,2018-04-15,1982-10-10,1,161,6
+EMP00929,Empleado_929,Tripulante Cabina,Cabina,MIA,Honorarios,2010-08-21,1978-01-04,1,187,14
+EMP00930,Empleado_930,Tripulante Cabina,Cabina,SCL,Indefinido,2021-12-23,1995-03-21,1,186,3
+EMP00931,Empleado_931,Tripulante Cabina,Cabina,JFK,Indefinido,2013-07-02,1976-03-30,0,171,11
+EMP00932,Empleado_932,Tripulante Cabina,Cabina,GRU,Indefinido,2021-06-12,1974-02-13,1,179,3
+EMP00933,Empleado_933,Tripulante Cabina,Cabina,EZE,Indefinido,2014-05-20,1972-06-02,1,176,10
+EMP00934,Empleado_934,Tripulante Cabina,Cabina,GRU,Honorarios,2016-11-19,1974-06-26,1,183,8
+EMP00935,Empleado_935,Ground Staff,Tierra,EZE,Plazo Fijo,2010-07-17,1970-07-20,1,,14
+EMP00936,Empleado_936,Agente Check-in,Tierra,JFK,Part-time,2021-05-07,1977-01-03,1,167,3
+EMP00937,Empleado_937,Piloto Comandante,Cockpit,,Indefinido,2023-02-24,1987-01-31,0,168,1
+EMP00938,Empleado_938,Agente Check-in,Tierra,MIA,Plazo Fijo,2021-07-23,1979-07-25,1,185,3
+EMP00939,Empleado_939,Tripulante Cabina Senior,Cabina,EZE,Part-time,2020-07-04,1999-08-27,1,170,4
+EMP00940,Empleado_940,Piloto Copiloto,Cockpit,N/A,Plazo Fijo,2019-09-21,1972-09-07,1,187,5
+EMP00941,Empleado_941,Piloto Copiloto,Cockpit,EZE,Plazo Fijo,2010-04-08,1994-11-07,1,190,14
+EMP00942,Empleado_942,Supervisor Operaciones,Tierra,GRU,Indefinido,2023-01-26,1995-10-31,1,161,1
+EMP00943,Empleado_943,Ground Staff,Tierra,LIM,Indefinido,2019-10-24,1987-06-24,1,179,5
+EMP00944,Empleado_944,Ground Staff,Tierra,LIM,Indefinido,2024-01-21,1987-11-06,1,166,0
+EMP00945,Empleado_945,Agente Check-in,Tierra,SCL,Indefinido,2017-12-24,1975-06-24,,175,7
+EMP00946,Empleado_946,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2015-01-03,1989-09-21,1,171,9
+EMP00947,Empleado_947,Agente Check-in,Tierra,GRU,Indefinido,2015-07-13,1991-12-20,0,184,9
+EMP00948,Empleado_948,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2022-09-05,1985-05-26,1,166,2
+EMP00949,Empleado_949,Tripulante Cabina,Cabina,JFK,Indefinido,2011-07-30,1996-06-17,1,174,13
+EMP00950,Empleado_950,Tripulante Cabina Senior,Cabina,GRU,Part-time,2014-02-15,1985-04-18,1,190,10
+EMP00951,Empleado_951,Tecnico Mantencion,Tierra,SCL,Indefinido,2020-09-24,1985-07-05,1,177,4
+EMP00952,Empleado_952,Piloto Comandante,Cockpit,SCL,Part-time,2010-06-23,1985-12-17,1,165,14
+EMP00953,Empleado_953,Ground Staff,Tierra,LIM,Part-time,2017-07-05,1998-11-27,0,169,7
+EMP00954,Empleado_954,Ground Staff,Tierra,GRU,Indefinido,2011-01-08,1989-09-30,1,180,13
+EMP00955,Empleado_955,Agente Check-in,Tierra,LIM,Indefinido,2015-07-08,1970-07-10,1,172,9
+EMP00956,Empleado_956,Piloto Comandante,Cockpit,GRU,Indefinido,2023-08-31,1974-03-22,0,176,1
+EMP00957,Empleado_957,Piloto Copiloto,Cockpit,BOG,Indefinido,2015-09-10,1995-06-12,1,162,9
+EMP00958,Empleado_958,Supervisor Operaciones,Tierra,MIA,Indefinido,2012-02-19,1996-04-16,1,170,12
+EMP00959,Empleado_959,Tripulante Cabina,Cabina,SCL,Indefinido,2010-04-24,1995-12-24,1,181,14
+EMP00960,Empleado_960,Agente Check-in,Tierra,N/A,Indefinido,2022-02-08,1998-01-07,0,171,2
+EMP00961,Empleado_961,Supervisor Operaciones,Tierra,LIM,Indefinido,2022-07-28,1982-10-17,,182,2
+EMP00962,Empleado_962,Tripulante Cabina,Cabina,BOG,Part-time,2022-07-08,1985-07-04,1,168,2
+EMP00963,Empleado_963,Ground Staff,Tierra,GRU,Plazo Fijo,2010-01-11,1999-03-31,1,167,14
+EMP00964,Empleado_964,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2012-07-11,1972-05-05,,169,12
+EMP00965,Empleado_965,Ground Staff,Tierra,GRU,Indefinido,2019-01-21,1997-07-18,1,176,5
+EMP00966,Empleado_966,Tripulante Cabina Senior,Cabina,MIA,Plazo Fijo,2023-12-28,1972-05-15,1,183,1
+EMP00967,Empleado_967,Administrativo,Admin,MIA,Indefinido,2023-01-19,1980-06-21,1,160,1
+EMP00968,Empleado_968,Ground Staff,Tierra,SCL,Indefinido,2018-12-07,1973-07-03,0,185,6
+EMP00969,Empleado_969,Piloto Comandante,Cockpit,SCL,Part-time,2021-02-19,1974-03-15,1,163,3
+EMP00970,Empleado_970,Tripulante Cabina,Cabina,SCL,Indefinido,2016-08-21,1976-04-06,0,174,8
+EMP00971,Empleado_971,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2022-10-10,1984-11-27,1,184,2
+EMP00972,Empleado_972,Ground Staff,Tierra,SCL,Indefinido,2023-10-07,1980-09-29,,172,1
+EMP00973,Empleado_973,Tripulante Cabina Senior,Cabina,BOG,Part-time,2016-07-20,1994-08-07,1,164,8
+EMP00974,Empleado_974,Ground Staff,Tierra,GRU,Indefinido,2022-12-16,1991-12-07,1,175,2
+EMP00975,Empleado_975,Ground Staff,Tierra,GRU,Indefinido,2021-03-14,1973-12-09,1,168,3
+EMP00976,Empleado_976,Agente Check-in,Tierra,GRU,Part-time,2022-01-23,1978-08-15,0,183,2
+EMP00977,Empleado_977,Seguridad,Tierra,SCL,Indefinido,2016-10-31,1984-11-17,1,166,8
+EMP00978,Empleado_978,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2023-07-30,1982-04-01,0,189,1
+EMP00979,Empleado_979,Piloto Comandante,Cockpit,lima,Indefinido,2017-10-25,1982-04-19,1,189,7
+EMP00980,Empleado_980,Ground Staff,Tierra,EZE,Indefinido,2024-07-14,1993-09-28,1,189,0
+EMP00981,Empleado_981,Tripulante Cabina,Cabina,EZE,Indefinido,2011-03-31,1983-07-11,1,189,13
+EMP00982,Empleado_982,Ground Staff,Tierra,lima,Honorarios,2024-04-19,1989-08-14,1,,0
+EMP00983,Empleado_983,Agente Check-in,Tierra,MIA,Part-time,2012-07-16,1994-02-21,1,172,12
+EMP00984,Empleado_984,Piloto Copiloto,Cockpit,GRU,Indefinido,2013-01-10,1989-11-19,1,186,11
+EMP00985,Empleado_985,Piloto Copiloto,Cockpit,SCL,Indefinido,2018-06-18,1984-12-17,1,175,6
+EMP00986,Empleado_986,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2022-11-24,1984-06-08,1,185,2
+EMP00987,Empleado_987,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2013-01-14,1974-02-14,1,162,11
+EMP00988,Empleado_988,Tripulante Cabina,Cabina,BOG,Part-time,2022-12-22,1979-05-13,1,175,2
+EMP00989,Empleado_989,Ground Staff,Tierra,SCL,Plazo Fijo,2011-10-01,1989-11-14,1,176,13
+EMP00990,Empleado_990,Ground Staff,Tierra,EZE,Indefinido,2013-03-24,1979-06-05,1,189,11
+EMP00991,Empleado_991,Seguridad,Tierra,LIM,Indefinido,2019-03-12,1979-07-31,1,174,5
+EMP00992,Empleado_992,Tripulante Cabina,Cabina,GRU,Part-time,2013-01-17,1970-05-31,1,178,11
+EMP00993,Empleado_993,Supervisor Operaciones,Tierra,EZE,Indefinido,2023-02-11,1988-01-12,1,161,1
+EMP00994,Empleado_994,Administrativo,Admin,MAD,Plazo Fijo,2016-01-13,1998-10-19,1,182,8
+EMP00995,Empleado_995,Tripulante Cabina,Cabina,GRU,Indefinido,2018-07-21,1984-02-01,,167,6
+EMP00996,Empleado_996,Piloto Comandante,Cockpit,LIM,Indefinido,2012-04-14,1981-12-08,1,177,12
+EMP00997,Empleado_997,Piloto Comandante,Cockpit,SCL,Indefinido,2021-11-20,1994-01-19,1,178,3
+EMP00998,Empleado_998,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2018-03-08,1997-08-14,1,188,6
+EMP00999,Empleado_999,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2024-06-23,1984-11-24,1,160,0
+EMP01000,Empleado_1000,Tripulante Cabina,Cabina,SCL,Indefinido,2024-03-03,1974-06-09,1,170,0
+EMP01001,Empleado_1001,Tecnico Mantencion,Tierra,SCL,Indefinido,2022-01-29,1974-08-31,1,178,2
+EMP01002,Empleado_1002,Agente Check-in,Tierra,BOG,Indefinido,2012-01-26,1979-04-21,1,166,12
+EMP01003,Empleado_1003,Tripulante Cabina,Cabina,GRU,Indefinido,2013-01-14,1978-03-16,0,170,11
+EMP01004,Empleado_1004,Tripulante Cabina,Cabina,SCL,Indefinido,2012-02-16,1985-07-10,1,175,12
+EMP01005,Empleado_1005,Ground Staff,Tierra,MIA,Indefinido,2021-01-12,1983-10-06,1,186,3
+EMP01006,Empleado_1006,Ground Staff,Tierra,GRU,Indefinido,2011-04-03,1999-12-16,1,160,13
+EMP01007,Empleado_1007,Agente Check-in,Tierra,GRU,Plazo Fijo,2022-04-02,1974-09-03,1,176,2
+EMP01008,Empleado_1008,Ground Staff,Tierra,EZE,Indefinido,2018-03-28,1998-01-07,1,162,6
+EMP01009,Empleado_1009,Ground Staff,Tierra,MIA,Indefinido,2021-07-06,1977-12-13,1,175,3
+EMP01010,Empleado_1010,Tripulante Cabina Senior,Cabina,,Indefinido,2019-12-18,1985-07-30,,160,5
+EMP01011,Empleado_1011,Ground Staff,Tierra,SCL,Indefinido,2010-03-24,1990-05-27,1,,14
+EMP01012,Empleado_1012,Piloto Copiloto,Cockpit,SCL,Indefinido,2011-10-07,1979-03-14,,188,13
+EMP01013,Empleado_1013,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2018-07-15,1985-01-17,1,172,6
+EMP01014,Empleado_1014,Tripulante Cabina,Cabina,GRU,Indefinido,2015-03-12,1984-07-31,1,172,9
+EMP01015,Empleado_1015,Agente Check-in,Tierra,GRU,Indefinido,2014-10-14,1994-04-08,1,160,10
+EMP01016,Empleado_1016,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2024-02-24,1987-08-13,1,186,0
+EMP01017,Empleado_1017,Tripulante Cabina Senior,Cabina,Santiago,Indefinido,2016-07-24,1999-05-24,1,189,8
+EMP01018,Empleado_1018,Piloto Copiloto,Cockpit,GRU,Plazo Fijo,2022-09-28,1980-03-11,1,163,2
+EMP01019,Empleado_1019,Administrativo,Admin,LIM,Indefinido,2023-09-14,1978-04-19,1,179,1
+EMP01020,Empleado_1020,Tripulante Cabina,Cabina,MIA,Indefinido,2016-05-15,1982-03-29,1,190,8
+EMP01021,Empleado_1021,Ground Staff,Tierra,EZE,Plazo Fijo,2022-11-01,1999-04-06,1,175,2
+EMP01022,Empleado_1022,Tripulante Cabina,Cabina,SCL,Part-time,2012-09-07,1997-06-27,1,182,12
+EMP01023,Empleado_1023,Administrativo,Admin,SCL,Indefinido,2015-04-30,1989-12-10,1,175,9
+EMP01024,Empleado_1024,Piloto Comandante,Cockpit,JFK,Indefinido,2020-04-13,1994-11-13,1,186,4
+EMP01025,Empleado_1025,Ground Staff,Tierra,MIA,Indefinido,2019-07-07,1971-03-06,1,189,5
+EMP01026,Empleado_1026,Piloto Copiloto,Cockpit,SCL,Indefinido,2013-07-18,1987-02-16,,188,11
+EMP01027,Empleado_1027,Ground Staff,Tierra,MIA,Honorarios,2012-04-24,1999-09-05,1,161,12
+EMP01028,Empleado_1028,Ground Staff,Tierra,LIM,Part-time,2017-01-20,1973-10-30,1,169,7
+EMP01029,Empleado_1029,Ground Staff,Tierra,GRU,Plazo Fijo,2021-07-11,1989-08-01,1,172,3
+EMP01030,Empleado_1030,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2020-01-29,1987-11-26,1,160,4
+EMP01031,Empleado_1031,Supervisor Operaciones,Tierra,GRU,Indefinido,2014-09-14,1998-01-12,1,166,10
+EMP01032,Empleado_1032,Piloto Copiloto,Cockpit,SCL,Honorarios,2024-01-05,1987-05-07,1,183,0
+EMP01033,Empleado_1033,Tecnico Mantencion,Tierra,JFK,Part-time,2014-01-31,1992-04-20,0,182,10
+EMP01034,Empleado_1034,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2015-11-02,1997-11-25,1,190,9
+EMP01035,Empleado_1035,Piloto Copiloto,Cockpit,,Plazo Fijo,2012-04-13,1987-10-20,1,173,12
+EMP01036,Empleado_1036,Piloto Comandante,Cockpit,GRU,Indefinido,2022-11-04,1990-10-05,1,165,2
+EMP01037,Empleado_1037,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2023-11-25,1997-09-01,1,170,1
+EMP01038,Empleado_1038,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2012-09-18,1992-07-12,0,166,12
+EMP01039,Empleado_1039,Piloto Comandante,Cockpit,SCL,Part-time,2020-03-13,1992-03-25,1,169,4
+EMP01040,Empleado_1040,Supervisor Operaciones,Tierra,LIM,Plazo Fijo,2021-07-07,1997-08-04,1,185,3
+EMP01041,Empleado_1041,Ground Staff,Tierra,LIM,Indefinido,2019-10-30,1993-06-29,0,163,5
+EMP01042,Empleado_1042,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2019-01-25,1991-12-16,1,180,5
+EMP01043,Empleado_1043,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2021-11-25,1986-02-10,0,171,3
+EMP01044,Empleado_1044,Tripulante Cabina,Cabina,MAD,Indefinido,2018-02-15,1972-03-10,1,,6
+EMP01045,Empleado_1045,Ground Staff,Tierra,lima,Indefinido,2011-08-01,1979-09-26,1,177,13
+EMP01046,Empleado_1046,Ground Staff,Tierra,LIM,Plazo Fijo,2017-01-25,1985-10-05,1,176,7
+EMP01047,Empleado_1047,Agente Check-in,Tierra,MAD,Indefinido,2014-01-16,1992-09-28,1,,10
+EMP01048,Empleado_1048,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2016-12-05,1989-03-31,1,171,8
+EMP01049,Empleado_1049,Supervisor Operaciones,Tierra,MAD,Indefinido,2024-08-02,1979-01-05,1,175,0
+EMP01050,Empleado_1050,Piloto Comandante,Cockpit,MIA,Indefinido,2024-05-12,1979-09-17,1,164,0
+EMP01051,Empleado_1051,Tripulante Cabina Senior,Cabina,LIM,Part-time,2021-09-15,1994-02-08,1,161,3
+EMP01052,Empleado_1052,Agente Check-in,Tierra,BOG,Indefinido,2015-03-13,1974-03-01,1,169,9
+EMP01053,Empleado_1053,Tripulante Cabina,Cabina,SCL,Part-time,2024-07-29,1988-05-16,1,171,0
+EMP01054,Empleado_1054,Administrativo,Admin,SCL,Part-time,2018-07-05,1984-05-08,1,178,6
+EMP01055,Empleado_1055,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2022-03-11,1992-06-05,1,167,2
+EMP01056,Empleado_1056,Supervisor Operaciones,Tierra,SCL,Honorarios,2019-04-18,1997-05-30,1,184,5
+EMP01057,Empleado_1057,Supervisor Operaciones,Tierra,MIA,Part-time,2024-07-26,1997-08-24,1,183,0
+EMP01058,Empleado_1058,Tripulante Cabina,Cabina,SCL,Indefinido,2013-01-28,1987-04-05,1,162,11
+EMP01059,Empleado_1059,Piloto Copiloto,Cockpit,bogota,Indefinido,2012-01-11,1998-04-12,1,176,12
+EMP01060,Empleado_1060,Piloto Copiloto,Cockpit,GRU,Part-time,2017-10-14,1994-12-04,1,169,7
+EMP01061,Empleado_1061,Piloto Copiloto,Cockpit,EZE,Indefinido,2013-07-31,1995-08-16,1,187,11
+EMP01062,Empleado_1062,Tripulante Cabina,Cabina,LIM,Honorarios,2020-12-12,1985-12-28,1,,4
+EMP01063,Empleado_1063,Tripulante Cabina Senior,Cabina,SCL,Part-time,2013-08-21,1992-02-06,1,171,11
+EMP01064,Empleado_1064,Supervisor Operaciones,Tierra,BOG,Indefinido,2010-06-21,1986-10-06,0,160,14
+EMP01065,Empleado_1065,Agente Check-in,Tierra,JFK,Part-time,2023-01-18,1973-04-14,1,174,1
+EMP01066,Empleado_1066,Tripulante Cabina,Cabina,GRU,Part-time,2010-02-19,1980-12-31,0,185,14
+EMP01067,Empleado_1067,Tripulante Cabina Senior,Cabina,BOG,Honorarios,2011-07-21,1991-11-01,1,180,13
+EMP01068,Empleado_1068,Administrativo,Admin,LIM,Indefinido,2020-12-31,1970-01-07,1,189,4
+EMP01069,Empleado_1069,Agente Check-in,Tierra,Santiago,Indefinido,2024-03-15,1972-08-23,1,183,0
+EMP01070,Empleado_1070,Tripulante Cabina,Cabina,MIA,Part-time,2011-11-25,1978-08-05,1,170,13
+EMP01071,Empleado_1071,Agente Check-in,Tierra,SCL,Part-time,2017-07-13,1985-06-01,1,182,7
+EMP01072,Empleado_1072,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2019-02-13,1995-09-18,1,181,5
+EMP01073,Empleado_1073,Ground Staff,Tierra,MAD,Indefinido,2018-01-30,1982-06-04,1,187,6
+EMP01074,Empleado_1074,Ground Staff,Tierra,SCL,Part-time,2018-01-20,1999-12-09,0,169,6
+EMP01075,Empleado_1075,Piloto Comandante,Cockpit,EZE,Indefinido,2013-01-15,1972-07-02,1,174,11
+EMP01076,Empleado_1076,Tecnico Mantencion,Tierra,GRU,Honorarios,2015-06-30,1970-01-15,1,190,9
+EMP01077,Empleado_1077,Administrativo,Admin,GRU,Plazo Fijo,2019-09-18,1976-05-16,1,164,5
+EMP01078,Empleado_1078,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2010-01-23,1983-12-27,1,170,14
+EMP01079,Empleado_1079,Ground Staff,Tierra,GRU,Indefinido,2023-01-28,1981-09-16,1,172,1
+EMP01080,Empleado_1080,Tripulante Cabina,Cabina,MIA,Part-time,2021-01-24,1999-03-11,1,169,3
+EMP01081,Empleado_1081,Ground Staff,Tierra,BOG,Indefinido,2015-12-13,1980-11-16,1,181,9
+EMP01082,Empleado_1082,Piloto Copiloto,Cockpit,SCL,Part-time,2022-07-04,1970-11-04,1,184,2
+EMP01083,Empleado_1083,Tecnico Mantencion,Tierra,SCL,Part-time,2021-07-30,1978-05-04,1,180,3
+EMP01084,Empleado_1084,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2012-10-12,1988-11-16,,176,12
+EMP01085,Empleado_1085,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2013-09-18,1990-04-19,1,187,11
+EMP01086,Empleado_1086,Tripulante Cabina,Cabina,SCL,Indefinido,2020-01-28,1984-05-23,1,168,4
+EMP01087,Empleado_1087,Supervisor Operaciones,Tierra,SCL,Honorarios,2020-01-08,1976-07-16,1,185,4
+EMP01088,Empleado_1088,Supervisor Operaciones,Tierra,EZE,Indefinido,2014-06-09,1980-12-12,1,187,10
+EMP01089,Empleado_1089,Piloto Copiloto,Cockpit,LIM,Indefinido,2015-07-03,1997-06-18,1,168,9
+EMP01090,Empleado_1090,Agente Check-in,Tierra,GRU,Indefinido,2012-03-22,1977-05-24,1,172,12
+EMP01091,Empleado_1091,Piloto Copiloto,Cockpit,BOG,Indefinido,2013-11-08,1987-05-11,1,160,11
+EMP01092,Empleado_1092,Administrativo,Admin,SCL,Indefinido,2015-10-24,1974-12-21,0,181,9
+EMP01093,Empleado_1093,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2016-05-27,1991-09-20,1,177,8
+EMP01094,Empleado_1094,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2011-07-17,1974-02-22,1,187,13
+EMP01095,Empleado_1095,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-08-07,1992-09-24,1,173,3
+EMP01096,Empleado_1096,Administrativo,Admin,BOG,Indefinido,2017-07-11,1978-08-10,0,187,7
+EMP01097,Empleado_1097,Supervisor Operaciones,Tierra,GRU,Indefinido,2023-01-01,1979-05-07,1,185,1
+EMP01098,Empleado_1098,Ground Staff,Tierra,LIM,Indefinido,2016-05-14,1985-07-14,1,166,8
+EMP01099,Empleado_1099,Tripulante Cabina,Cabina,BOG,Indefinido,2014-04-07,1978-02-21,1,188,10
+EMP01100,Empleado_1100,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2014-01-21,1984-03-07,,184,10
+EMP01101,Empleado_1101,Piloto Comandante,Cockpit,EZE,Indefinido,2022-01-24,1978-01-02,1,174,2
+EMP01102,Empleado_1102,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2016-01-16,1982-11-30,1,178,8
+EMP01103,Empleado_1103,Tripulante Cabina,Cabina,GRU,Indefinido,2023-02-20,1995-09-02,1,186,1
+EMP01104,Empleado_1104,Piloto Copiloto,Cockpit,EZE,Plazo Fijo,2012-12-14,1997-03-26,1,164,12
+EMP01105,Empleado_1105,Ground Staff,Tierra,BOG,Indefinido,2013-05-24,1989-10-02,1,162,11
+EMP01106,Empleado_1106,Tripulante Cabina,Cabina,EZE,Part-time,2024-01-23,1980-01-22,1,189,0
+EMP01107,Empleado_1107,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2017-01-30,1971-09-29,1,186,7
+EMP01108,Empleado_1108,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2017-04-03,1995-04-04,1,174,7
+EMP01109,Empleado_1109,Piloto Comandante,Cockpit,GRU,Plazo Fijo,2021-03-15,1992-08-07,1,176,3
+EMP01110,Empleado_1110,Tripulante Cabina,Cabina,LIM,Indefinido,2014-01-27,1980-07-02,1,175,10
+EMP01111,Empleado_1111,Tripulante Cabina Senior,Cabina,sao paulo,Indefinido,2010-02-10,1981-07-30,1,,14
+EMP01112,Empleado_1112,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2024-08-19,1972-04-22,1,161,0
+EMP01113,Empleado_1113,Piloto Copiloto,Cockpit,SCL,Part-time,2017-10-02,1986-06-12,1,189,7
+EMP01114,Empleado_1114,Piloto Copiloto,Cockpit,MIA,Part-time,2012-03-28,1976-06-13,1,175,12
+EMP01115,Empleado_1115,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2021-11-22,1994-08-10,1,167,3
+EMP01116,Empleado_1116,Administrativo,Admin,GRU,Part-time,2023-01-29,1975-01-28,1,172,1
+EMP01117,Empleado_1117,Tecnico Mantencion,Tierra,GRU,Indefinido,2018-07-06,1970-10-07,1,190,6
+EMP01118,Empleado_1118,Piloto Copiloto,Cockpit,LIM,Honorarios,2011-01-16,1985-06-13,1,177,13
+EMP01119,Empleado_1119,Ground Staff,Tierra,BOG,Indefinido,2010-07-02,1989-02-12,0,176,14
+EMP01120,Empleado_1120,Tripulante Cabina,Cabina,BOG,Part-time,2012-10-11,1988-11-27,1,167,12
+EMP01121,Empleado_1121,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2015-05-28,1998-12-25,1,188,9
+EMP01122,Empleado_1122,Tripulante Cabina,Cabina,LIM,Indefinido,2011-01-29,1981-04-30,1,176,13
+EMP01123,Empleado_1123,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2010-01-27,1980-11-01,1,173,14
+EMP01124,Empleado_1124,Seguridad,Tierra,MAD,Indefinido,2021-07-09,1981-11-16,1,187,3
+EMP01125,Empleado_1125,Ground Staff,Tierra,MIA,Part-time,2010-08-11,1988-03-14,1,178,14
+EMP01126,Empleado_1126,Agente Check-in,Tierra,LIM,Indefinido,2013-07-25,1977-11-02,1,187,11
+EMP01127,Empleado_1127,Agente Check-in,Tierra,LIM,Indefinido,2015-01-29,1985-09-30,1,188,9
+EMP01128,Empleado_1128,Tripulante Cabina,Cabina,GRU,Indefinido,2019-01-25,1978-07-09,1,161,5
+EMP01129,Empleado_1129,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2010-04-15,1999-08-04,,169,14
+EMP01130,Empleado_1130,Ground Staff,Tierra,EZE,Honorarios,2015-11-06,1995-02-04,1,174,9
+EMP01131,Empleado_1131,Tecnico Mantencion,Tierra,EZE,Indefinido,2017-05-25,1974-05-20,1,188,7
+EMP01132,Empleado_1132,Piloto Copiloto,Cockpit,SCL,Indefinido,2018-03-03,1997-10-21,1,165,6
+EMP01133,Empleado_1133,Piloto Copiloto,Cockpit,GRU,Indefinido,2016-03-25,1975-07-25,1,176,8
+EMP01134,Empleado_1134,Piloto Comandante,Cockpit,LIM,Plazo Fijo,2012-01-21,1990-07-08,1,167,12
+EMP01135,Empleado_1135,Supervisor Operaciones,Tierra,EZE,Indefinido,2024-07-31,1973-08-29,,171,0
+EMP01136,Empleado_1136,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2011-01-29,1989-11-15,1,166,13
+EMP01137,Empleado_1137,Tripulante Cabina,Cabina,BOG,Part-time,2018-10-23,1992-12-29,1,181,6
+EMP01138,Empleado_1138,Agente Check-in,Tierra,BOG,Indefinido,2015-10-20,1994-10-08,,170,9
+EMP01139,Empleado_1139,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2020-11-05,1998-01-10,1,161,4
+EMP01140,Empleado_1140,Tecnico Mantencion,Tierra,EZE,Indefinido,2016-06-14,1999-03-19,1,174,8
+EMP01141,Empleado_1141,Tripulante Cabina,Cabina,GRU,Honorarios,2012-03-29,1976-11-01,0,,12
+EMP01142,Empleado_1142,Tecnico Mantencion,Tierra,LIM,Plazo Fijo,2018-07-10,1990-05-31,1,175,6
+EMP01143,Empleado_1143,Ground Staff,Tierra,SCL,Part-time,2014-03-05,1990-07-25,1,181,10
+EMP01144,Empleado_1144,Piloto Comandante,Cockpit,EZE,Indefinido,2021-10-27,1977-10-09,1,189,3
+EMP01145,Empleado_1145,Piloto Comandante,Cockpit,GRU,Honorarios,2019-07-30,1998-06-30,1,172,5
+EMP01146,Empleado_1146,Administrativo,Admin,MAD,Indefinido,2012-01-11,1974-04-04,1,186,12
+EMP01147,Empleado_1147,Piloto Copiloto,Cockpit,EZE,Indefinido,2019-11-29,1970-07-02,1,190,5
+EMP01148,Empleado_1148,Agente Check-in,Tierra,,Plazo Fijo,2021-09-03,1999-05-08,1,181,3
+EMP01149,Empleado_1149,Ground Staff,Tierra,SCL,Indefinido,2013-05-08,1971-07-04,,185,11
+EMP01150,Empleado_1150,Tecnico Mantencion,Tierra,EZE,Indefinido,2020-07-03,1982-04-16,1,170,4
+EMP01151,Empleado_1151,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2011-04-12,1971-11-14,1,166,13
+EMP01152,Empleado_1152,Supervisor Operaciones,Tierra,SCL,Indefinido,2013-01-25,1974-04-14,1,166,11
+EMP01153,Empleado_1153,Administrativo,Admin,sao paulo,Indefinido,2022-12-17,1970-09-14,1,170,2
+EMP01154,Empleado_1154,Agente Check-in,Tierra,GRU,Part-time,2014-06-10,1976-12-29,1,173,10
+EMP01155,Empleado_1155,Ground Staff,Tierra,SCL,Plazo Fijo,2023-07-08,1991-11-19,1,172,1
+EMP01156,Empleado_1156,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2017-07-15,1977-05-22,1,163,7
+EMP01157,Empleado_1157,Ground Staff,Tierra,SCL,Plazo Fijo,2014-12-23,1989-11-15,0,162,10
+EMP01158,Empleado_1158,Ground Staff,Tierra,SCL,Indefinido,2017-01-24,1975-08-07,1,167,7
+EMP01159,Empleado_1159,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2023-05-19,1990-02-25,1,189,1
+EMP01160,Empleado_1160,Administrativo,Admin,SCL,Indefinido,2022-03-22,1970-02-08,1,,2
+EMP01161,Empleado_1161,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2022-07-12,1993-05-12,1,,2
+EMP01162,Empleado_1162,Tripulante Cabina,Cabina,GRU,Indefinido,2021-10-06,1991-11-09,1,176,3
+EMP01163,Empleado_1163,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2017-07-06,1996-09-15,1,183,7
+EMP01164,Empleado_1164,Ground Staff,Tierra,Santiago,Indefinido,2019-04-18,1999-11-15,1,174,5
+EMP01165,Empleado_1165,Piloto Copiloto,Cockpit,MIA,Indefinido,2020-08-17,1996-04-23,1,189,4
+EMP01166,Empleado_1166,Piloto Copiloto,Cockpit,BOG,Indefinido,2016-05-28,1989-02-13,1,184,8
+EMP01167,Empleado_1167,Supervisor Operaciones,Tierra,EZE,Plazo Fijo,2019-05-03,1981-07-22,1,189,5
+EMP01168,Empleado_1168,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2023-07-21,1974-12-28,1,166,1
+EMP01169,Empleado_1169,Ground Staff,Tierra,LIM,Indefinido,2023-10-15,1990-01-11,1,177,1
+EMP01170,Empleado_1170,Tripulante Cabina Senior,Cabina,MIA,Part-time,2012-07-25,1975-10-25,0,187,12
+EMP01171,Empleado_1171,Tripulante Cabina,Cabina,EZE,Part-time,2023-02-12,1985-10-22,1,190,1
+EMP01172,Empleado_1172,Supervisor Operaciones,Tierra,GRU,Indefinido,2018-01-23,1999-06-15,1,,6
+EMP01173,Empleado_1173,Agente Check-in,Tierra,JFK,Part-time,2023-10-17,1979-12-25,1,178,1
+EMP01174,Empleado_1174,Tripulante Cabina Senior,Cabina,JFK,Plazo Fijo,2018-07-04,1995-03-24,1,176,6
+EMP01175,Empleado_1175,Tripulante Cabina,Cabina,MAD,Part-time,2010-07-09,1990-03-07,1,185,14
+EMP01176,Empleado_1176,Tecnico Mantencion,Tierra,BOG,Indefinido,2023-07-18,1991-10-10,0,160,1
+EMP01177,Empleado_1177,Ground Staff,Tierra,JFK,Indefinido,2013-04-28,1984-11-16,1,162,11
+EMP01178,Empleado_1178,Agente Check-in,Tierra,MIA,Part-time,2020-02-15,1999-05-04,1,185,4
+EMP01179,Empleado_1179,Tripulante Cabina,Cabina,LIM,Honorarios,2018-02-27,1987-12-02,1,188,6
+EMP01180,Empleado_1180,Supervisor Operaciones,Tierra,GRU,Indefinido,2019-12-27,1982-10-25,1,161,5
+EMP01181,Empleado_1181,Ground Staff,Tierra,GRU,Indefinido,2014-10-02,1990-04-02,1,187,10
+EMP01182,Empleado_1182,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2011-01-16,1970-07-31,1,175,13
+EMP01183,Empleado_1183,Tripulante Cabina,Cabina,LIM,Indefinido,2016-07-26,1980-12-21,1,166,8
+EMP01184,Empleado_1184,Supervisor Operaciones,Tierra,Santiago,Indefinido,2010-07-16,1975-12-31,1,177,14
+EMP01185,Empleado_1185,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2018-05-24,1995-03-13,1,171,6
+EMP01186,Empleado_1186,Ground Staff,Tierra,lima,Indefinido,2018-07-03,1999-12-23,0,190,6
+EMP01187,Empleado_1187,Tripulante Cabina Senior,Cabina,BOG,Part-time,2017-01-05,1986-08-13,0,183,7
+EMP01188,Empleado_1188,Supervisor Operaciones,Tierra,LIM,Indefinido,2021-01-29,1978-09-23,1,160,3
+EMP01189,Empleado_1189,Piloto Comandante,Cockpit,SCL,Part-time,2017-10-26,1999-05-22,1,183,7
+EMP01190,Empleado_1190,Supervisor Operaciones,Tierra,EZE,Indefinido,2019-02-05,1995-12-18,0,181,5
+EMP01191,Empleado_1191,Ground Staff,Tierra,SCL,Plazo Fijo,2015-12-27,1971-11-18,1,180,9
+EMP01192,Empleado_1192,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2012-10-14,1972-02-20,1,163,12
+EMP01193,Empleado_1193,Tecnico Mantencion,Tierra,SCL,Indefinido,2020-06-07,1991-03-22,1,169,4
+EMP01194,Empleado_1194,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2015-01-10,1990-09-13,1,190,9
+EMP01195,Empleado_1195,Piloto Comandante,Cockpit,SCL,Part-time,2015-04-26,1982-12-02,1,189,9
+EMP01196,Empleado_1196,Tripulante Cabina,Cabina,BOG,Indefinido,2024-01-15,1979-06-12,1,180,0
+EMP01197,Empleado_1197,Ground Staff,Tierra,BOG,Plazo Fijo,2018-12-08,1971-02-21,0,190,6
+EMP01198,Empleado_1198,Agente Check-in,Tierra,GRU,Indefinido,2020-01-25,1981-03-28,1,174,4
+EMP01199,Empleado_1199,Tecnico Mantencion,Tierra,SCL,Plazo Fijo,2011-01-03,1990-10-09,1,182,13
+EMP01200,Empleado_1200,Agente Check-in,Tierra,GRU,Indefinido,2011-01-04,1989-07-10,1,,13
+EMP01201,Empleado_1201,Agente Check-in,Tierra,SCL,Indefinido,2015-01-01,1980-06-23,1,182,9
+EMP01202,Empleado_1202,Tripulante Cabina Senior,Cabina,SCL,Part-time,2017-07-10,1984-11-10,1,169,7
+EMP01203,Empleado_1203,Tecnico Mantencion,Tierra,SCL,Indefinido,2022-02-18,1995-11-26,,186,2
+EMP01204,Empleado_1204,Tripulante Cabina,Cabina,SCL,Indefinido,2021-11-12,1970-05-24,1,181,3
+EMP01205,Empleado_1205,Ground Staff,Tierra,MAD,Indefinido,2010-02-15,1983-05-30,1,179,14
+EMP01206,Empleado_1206,Administrativo,Admin,EZE,Indefinido,2017-01-12,1972-01-29,1,186,7
+EMP01207,Empleado_1207,Tripulante Cabina Senior,Cabina,EZE,Part-time,2019-02-08,1985-04-02,1,189,5
+EMP01208,Empleado_1208,Administrativo,Admin,BOG,Honorarios,2012-11-24,1992-08-04,1,169,12
+EMP01209,Empleado_1209,Agente Check-in,Tierra,LIM,Indefinido,2018-09-17,1975-05-27,1,178,6
+EMP01210,Empleado_1210,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2014-01-21,1981-09-22,1,183,10
+EMP01211,Empleado_1211,Agente Check-in,Tierra,GRU,Indefinido,2022-01-26,1977-09-11,0,187,2
+EMP01212,Empleado_1212,Piloto Copiloto,Cockpit,SCL,Part-time,2021-11-20,1985-12-26,1,174,3
+EMP01213,Empleado_1213,Tripulante Cabina,Cabina,LIM,Indefinido,2012-01-02,1992-06-17,1,175,12
+EMP01214,Empleado_1214,Tripulante Cabina,Cabina,GRU,Indefinido,2012-09-05,1993-10-29,1,174,12
+EMP01215,Empleado_1215,Piloto Copiloto,Cockpit,SCL,Indefinido,2013-01-19,1979-11-30,1,170,11
+EMP01216,Empleado_1216,Piloto Copiloto,Cockpit,BOG,Indefinido,2016-07-08,1993-05-26,1,167,8
+EMP01217,Empleado_1217,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2010-03-08,1971-08-24,1,184,14
+EMP01218,Empleado_1218,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2019-08-15,1990-05-20,,187,5
+EMP01219,Empleado_1219,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2024-02-09,1981-08-25,1,190,0
+EMP01220,Empleado_1220,Tripulante Cabina,Cabina,MAD,Indefinido,2022-01-20,1977-12-12,1,179,2
+EMP01221,Empleado_1221,Supervisor Operaciones,Tierra,SCL,Indefinido,2019-08-04,1989-03-31,1,164,5
+EMP01222,Empleado_1222,Seguridad,Tierra,GRU,Indefinido,2018-02-15,1985-10-30,1,183,6
+EMP01223,Empleado_1223,Tripulante Cabina,Cabina,SCL,Part-time,2010-06-09,1987-02-20,1,170,14
+EMP01224,Empleado_1224,Tripulante Cabina,Cabina,MAD,Indefinido,2010-09-04,1988-11-19,0,172,14
+EMP01225,Empleado_1225,Agente Check-in,Tierra,LIM,Indefinido,2023-09-11,1999-11-24,1,172,1
+EMP01226,Empleado_1226,Tecnico Mantencion,Tierra,EZE,Indefinido,2019-01-22,1994-11-24,1,168,5
+EMP01227,Empleado_1227,Tripulante Cabina,Cabina,SCL,Indefinido,2023-03-14,1974-12-14,1,176,1
+EMP01228,Empleado_1228,Tripulante Cabina,Cabina,LIM,Indefinido,2013-12-16,1995-04-11,1,188,11
+EMP01229,Empleado_1229,Tecnico Mantencion,Tierra,lima,Plazo Fijo,2015-07-19,1991-03-09,1,187,9
+EMP01230,Empleado_1230,Administrativo,Admin,GRU,Indefinido,2011-04-09,1995-03-30,1,168,13
+EMP01231,Empleado_1231,Tripulante Cabina,Cabina,GRU,Indefinido,2020-09-25,1994-05-24,1,173,4
+EMP01232,Empleado_1232,Ground Staff,Tierra,SCL,Plazo Fijo,2012-07-04,1988-02-12,0,184,12
+EMP01233,Empleado_1233,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2022-03-11,1996-08-23,1,167,2
+EMP01234,Empleado_1234,Agente Check-in,Tierra,GRU,Indefinido,2010-07-07,1999-03-25,1,178,14
+EMP01235,Empleado_1235,Ground Staff,Tierra,EZE,Indefinido,2023-11-05,1991-03-05,1,190,1
+EMP01236,Empleado_1236,Piloto Copiloto,Cockpit,LIM,Indefinido,2020-06-21,1991-08-20,1,179,4
+EMP01237,Empleado_1237,Supervisor Operaciones,Tierra,GRU,Part-time,2010-04-03,1993-04-05,1,189,14
+EMP01238,Empleado_1238,Piloto Comandante,Cockpit,BOG,Indefinido,2019-06-09,1989-03-07,1,183,5
+EMP01239,Empleado_1239,Ground Staff,Tierra,LIM,Plazo Fijo,2011-10-13,1984-07-19,0,162,13
+EMP01240,Empleado_1240,Tripulante Cabina,Cabina,BOG,Indefinido,2013-10-09,1976-07-02,1,173,11
+EMP01241,Empleado_1241,Piloto Copiloto,Cockpit,GRU,Indefinido,2024-01-03,1973-01-30,0,163,0
+EMP01242,Empleado_1242,Ground Staff,Tierra,MIA,Part-time,2023-10-25,1995-05-14,1,185,1
+EMP01243,Empleado_1243,Administrativo,Admin,BOG,Honorarios,2019-01-31,1974-09-29,1,166,5
+EMP01244,Empleado_1244,Agente Check-in,Tierra,LIM,Honorarios,2024-02-18,1997-06-05,1,163,0
+EMP01245,Empleado_1245,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2014-07-30,1981-06-09,1,167,10
+EMP01246,Empleado_1246,Administrativo,Admin,LIM,Indefinido,2012-11-20,1988-08-03,1,177,12
+EMP01247,Empleado_1247,Agente Check-in,Tierra,LIM,Plazo Fijo,2010-04-21,1976-08-13,1,172,14
+EMP01248,Empleado_1248,Tripulante Cabina,Cabina,MIA,Indefinido,2023-10-08,1974-03-24,1,174,1
+EMP01249,Empleado_1249,Supervisor Operaciones,Tierra,LIM,Part-time,2015-01-02,1987-05-04,1,171,9
+EMP01250,Empleado_1250,Piloto Comandante,Cockpit,MAD,Indefinido,2010-06-18,1992-02-06,1,190,14
+EMP01251,Empleado_1251,Piloto Copiloto,Cockpit,LIM,Indefinido,2012-09-16,1995-10-14,1,177,12
+EMP01252,Empleado_1252,Tripulante Cabina,Cabina,GRU,Part-time,2011-02-27,1978-09-21,1,170,13
+EMP01253,Empleado_1253,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2023-06-05,1985-08-06,0,186,1
+EMP01254,Empleado_1254,Ground Staff,Tierra,SCL,Part-time,2020-09-10,1978-02-04,1,173,4
+EMP01255,Empleado_1255,Ground Staff,Tierra,LIM,Plazo Fijo,2023-01-09,1990-05-29,0,169,1
+EMP01256,Empleado_1256,Piloto Copiloto,Cockpit,SCL,Indefinido,2023-01-11,1981-10-26,1,183,1
+EMP01257,Empleado_1257,Tripulante Cabina,Cabina,BOG,Indefinido,2012-02-18,1978-10-18,1,167,12
+EMP01258,Empleado_1258,Tripulante Cabina,Cabina,LIM,Indefinido,2013-07-05,1998-11-18,1,178,11
+EMP01259,Empleado_1259,Tripulante Cabina,Cabina,SCL,Indefinido,2013-03-06,1986-08-23,1,169,11
+EMP01260,Empleado_1260,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2015-07-13,1988-10-22,1,183,9
+EMP01261,Empleado_1261,Tripulante Cabina,Cabina,SCL,Indefinido,2024-01-23,1989-12-21,1,185,0
+EMP01262,Empleado_1262,Ground Staff,Tierra,GRU,Honorarios,2017-07-09,1976-12-06,1,,7
+EMP01263,Empleado_1263,Ground Staff,Tierra,MIA,Honorarios,2021-03-26,1971-08-01,1,175,3
+EMP01264,Empleado_1264,Piloto Copiloto,Cockpit,BOG,Indefinido,2016-11-18,1982-06-01,1,174,8
+EMP01265,Empleado_1265,Ground Staff,Tierra,BOG,Indefinido,2020-10-25,1983-12-27,1,165,4
+EMP01266,Empleado_1266,Administrativo,Admin,GRU,Plazo Fijo,2011-04-06,1984-01-07,1,184,13
+EMP01267,Empleado_1267,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2017-08-04,1971-10-07,1,188,7
+EMP01268,Empleado_1268,Agente Check-in,Tierra,EZE,Indefinido,2022-11-04,1984-05-15,1,177,2
+EMP01269,Empleado_1269,Tecnico Mantencion,Tierra,SCL,Part-time,2024-07-04,1985-11-19,1,186,0
+EMP01270,Empleado_1270,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2023-11-01,1999-11-25,1,170,1
+EMP01271,Empleado_1271,Agente Check-in,Tierra,BOG,Part-time,2016-08-20,1978-12-29,0,174,8
+EMP01272,Empleado_1272,Tripulante Cabina Senior,Cabina,SCL,Honorarios,2015-04-06,1989-10-25,1,183,9
+EMP01273,Empleado_1273,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-07-27,1973-09-28,1,177,3
+EMP01274,Empleado_1274,Ground Staff,Tierra,LIM,Part-time,2013-12-13,1987-08-24,,184,11
+EMP01275,Empleado_1275,Tripulante Cabina,Cabina,MIA,Indefinido,2015-01-12,1975-11-16,1,174,9
+EMP01276,Empleado_1276,Piloto Comandante,Cockpit,GRU,Indefinido,2023-01-26,1978-02-19,1,183,1
+EMP01277,Empleado_1277,Agente Check-in,Tierra,SCL,Indefinido,2018-11-10,1987-08-21,0,176,6
+EMP01278,Empleado_1278,Agente Check-in,Tierra,BOG,Indefinido,2020-07-14,1994-01-19,1,190,4
+EMP01279,Empleado_1279,Tecnico Mantencion,Tierra,BOG,Indefinido,2015-01-13,1992-01-12,1,176,9
+EMP01280,Empleado_1280,Tecnico Mantencion,Tierra,BOG,Indefinido,2016-10-30,1998-12-01,1,189,8
+EMP01281,Empleado_1281,Tripulante Cabina,Cabina,BOG,Indefinido,2014-04-06,1977-05-31,1,189,10
+EMP01282,Empleado_1282,Piloto Comandante,Cockpit,LIM,Indefinido,2016-12-11,1995-05-18,1,177,8
+EMP01283,Empleado_1283,Tripulante Cabina Senior,Cabina,SCL,Part-time,2022-05-30,1985-12-22,1,160,2
+EMP01284,Empleado_1284,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2020-10-23,1979-05-11,0,189,4
+EMP01285,Empleado_1285,Ground Staff,Tierra,SCL,Indefinido,2019-01-11,1989-07-16,1,185,5
+EMP01286,Empleado_1286,Agente Check-in,Tierra,SCL,Plazo Fijo,2024-01-31,1976-09-22,1,162,0
+EMP01287,Empleado_1287,Administrativo,Admin,BOG,Indefinido,2011-01-18,1989-05-19,1,185,13
+EMP01288,Empleado_1288,Ground Staff,Tierra,MAD,Part-time,2020-03-27,1979-02-26,1,172,4
+EMP01289,Empleado_1289,Ground Staff,Tierra,LIM,Indefinido,2015-08-21,1999-11-18,1,163,9
+EMP01290,Empleado_1290,Piloto Comandante,Cockpit,SCL,Indefinido,2010-07-09,1979-06-21,1,167,14
+EMP01291,Empleado_1291,Tripulante Cabina,Cabina,EZE,Part-time,2018-08-14,1971-10-22,1,160,6
+EMP01292,Empleado_1292,Tripulante Cabina,Cabina,GRU,Indefinido,2012-03-22,1978-04-17,1,174,12
+EMP01293,Empleado_1293,Piloto Comandante,Cockpit,SCL,Indefinido,2012-12-21,1972-05-28,1,180,12
+EMP01294,Empleado_1294,Ground Staff,Tierra,GRU,Indefinido,2014-10-11,1998-02-20,1,188,10
+EMP01295,Empleado_1295,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2014-01-27,1975-02-10,1,178,10
+EMP01296,Empleado_1296,Ground Staff,Tierra,N/A,Part-time,2018-06-01,1982-02-24,1,173,6
+EMP01297,Empleado_1297,Piloto Comandante,Cockpit,GRU,Indefinido,2011-12-13,1983-05-17,1,173,13
+EMP01298,Empleado_1298,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2017-07-11,1970-06-06,,186,7
+EMP01299,Empleado_1299,Supervisor Operaciones,Tierra,GRU,Indefinido,2016-01-05,1986-07-21,1,178,8
+EMP01300,Empleado_1300,Tripulante Cabina Senior,Cabina,N/A,Part-time,2010-12-17,1971-12-27,1,181,14
+EMP01301,Empleado_1301,Administrativo,Admin,EZE,Plazo Fijo,2019-02-24,1988-11-17,1,180,5
+EMP01302,Empleado_1302,Tripulante Cabina,Cabina,SCL,Indefinido,2022-01-13,1991-11-29,0,176,2
+EMP01303,Empleado_1303,Piloto Copiloto,Cockpit,MIA,Indefinido,2011-01-13,1990-06-23,1,171,13
+EMP01304,Empleado_1304,Administrativo,Admin,LIM,Part-time,2012-07-13,1985-03-03,0,172,12
+EMP01305,Empleado_1305,Tripulante Cabina,Cabina,SCL,Indefinido,2010-01-19,1993-09-08,1,160,14
+EMP01306,Empleado_1306,Tripulante Cabina,Cabina,GRU,Indefinido,2017-02-16,1995-02-17,1,166,7
+EMP01307,Empleado_1307,Tripulante Cabina,Cabina,BOG,Indefinido,2013-04-25,1984-05-24,1,189,11
+EMP01308,Empleado_1308,Ground Staff,Tierra,bogota,Part-time,2016-06-30,1984-06-07,0,161,8
+EMP01309,Empleado_1309,Agente Check-in,Tierra,SCL,Indefinido,2022-02-19,1998-03-29,1,172,2
+EMP01310,Empleado_1310,Tripulante Cabina Senior,Cabina,GRU,Part-time,2023-06-02,1991-09-04,1,163,1
+EMP01311,Empleado_1311,Piloto Comandante,Cockpit,BOG,Indefinido,2024-05-21,1972-02-10,1,180,0
+EMP01312,Empleado_1312,Tripulante Cabina,Cabina,EZE,Part-time,2024-09-06,1974-05-29,1,180,0
+EMP01313,Empleado_1313,Administrativo,Admin,LIM,Indefinido,2011-07-25,1996-12-27,1,168,13
+EMP01314,Empleado_1314,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2017-10-03,1991-05-27,1,184,7
+EMP01315,Empleado_1315,Ground Staff,Tierra,LIM,Indefinido,2022-01-09,1974-11-14,1,175,2
+EMP01316,Empleado_1316,Ground Staff,Tierra,MIA,Part-time,2012-02-07,1974-10-27,1,189,12
+EMP01317,Empleado_1317,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2022-02-10,1978-11-11,1,169,2
+EMP01318,Empleado_1318,Piloto Comandante,Cockpit,MAD,Indefinido,2017-08-24,1990-03-08,1,173,7
+EMP01319,Empleado_1319,Supervisor Operaciones,Tierra,GRU,Indefinido,2017-09-16,1990-01-13,1,178,7
+EMP01320,Empleado_1320,Piloto Comandante,Cockpit,SCL,Indefinido,2013-12-08,1995-11-09,1,185,11
+EMP01321,Empleado_1321,Piloto Comandante,Cockpit,LIM,Indefinido,2011-07-06,1997-02-04,1,164,13
+EMP01322,Empleado_1322,Piloto Comandante,Cockpit,SCL,Indefinido,2017-09-28,1981-09-06,1,162,7
+EMP01323,Empleado_1323,Ground Staff,Tierra,SCL,Honorarios,2021-10-13,1992-01-14,1,161,3
+EMP01324,Empleado_1324,Ground Staff,Tierra,LIM,Plazo Fijo,2020-08-19,1989-08-22,0,161,4
+EMP01325,Empleado_1325,Administrativo,Admin,LIM,Indefinido,2024-04-09,1998-05-04,1,168,0
+EMP01326,Empleado_1326,Administrativo,Admin,SCL,Indefinido,2013-09-25,1980-05-27,1,173,11
+EMP01327,Empleado_1327,Piloto Copiloto,Cockpit,LIM,Honorarios,2020-07-21,1992-04-21,1,188,4
+EMP01328,Empleado_1328,Tripulante Cabina Senior,Cabina,MIA,Part-time,2018-12-03,1999-07-28,1,183,6
+EMP01329,Empleado_1329,Tripulante Cabina Senior,Cabina,SCL,Part-time,2021-04-25,1998-04-15,1,171,3
+EMP01330,Empleado_1330,Agente Check-in,Tierra,MIA,Indefinido,2021-10-16,1981-12-24,1,174,3
+EMP01331,Empleado_1331,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2016-02-04,1981-05-21,1,183,8
+EMP01332,Empleado_1332,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2012-01-17,1996-10-18,1,170,12
+EMP01333,Empleado_1333,Tripulante Cabina,Cabina,JFK,Indefinido,2017-05-28,1970-02-08,1,160,7
+EMP01334,Empleado_1334,Ground Staff,Tierra,BOG,Indefinido,2018-07-14,1970-04-02,1,175,6
+EMP01335,Empleado_1335,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2017-01-22,1970-02-17,0,162,7
+EMP01336,Empleado_1336,Tripulante Cabina,Cabina,JFK,Indefinido,2012-03-03,1998-07-18,1,165,12
+EMP01337,Empleado_1337,Tripulante Cabina,Cabina,GRU,Part-time,2022-09-20,1997-07-01,1,160,2
+EMP01338,Empleado_1338,Supervisor Operaciones,Tierra,BOG,Indefinido,2015-04-20,1978-12-25,1,174,9
+EMP01339,Empleado_1339,Agente Check-in,Tierra,BOG,Indefinido,2010-07-03,1993-01-30,0,170,14
+EMP01340,Empleado_1340,Tripulante Cabina,Cabina,SCL,Indefinido,2015-09-01,1974-10-12,1,184,9
+EMP01341,Empleado_1341,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2018-06-01,1973-12-21,1,181,6
+EMP01342,Empleado_1342,Administrativo,Admin,BOG,Part-time,2013-11-28,1984-01-19,,181,11
+EMP01343,Empleado_1343,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2011-07-31,1987-04-21,1,187,13
+EMP01344,Empleado_1344,Piloto Copiloto,Cockpit,BOG,Indefinido,2016-01-10,1973-02-19,1,182,8
+EMP01345,Empleado_1345,Administrativo,Admin,JFK,Indefinido,2018-10-05,1987-09-22,1,160,6
+EMP01346,Empleado_1346,Tripulante Cabina Senior,Cabina,SCL,Part-time,2010-09-30,1983-07-30,1,178,14
+EMP01347,Empleado_1347,Ground Staff,Tierra,MAD,Indefinido,2018-07-21,1971-02-15,1,162,6
+EMP01348,Empleado_1348,Tecnico Mantencion,Tierra,BOG,Indefinido,2017-12-01,1976-01-14,1,172,7
+EMP01349,Empleado_1349,Tripulante Cabina,Cabina,GRU,Part-time,2016-04-18,1972-11-24,1,177,8
+EMP01350,Empleado_1350,Supervisor Operaciones,Tierra,SCL,Indefinido,2013-07-02,1993-06-06,1,165,11
+EMP01351,Empleado_1351,Piloto Comandante,Cockpit,Santiago,Part-time,2018-01-22,1974-12-04,1,190,6
+EMP01352,Empleado_1352,Agente Check-in,Tierra,GRU,Plazo Fijo,2021-07-03,1981-12-28,1,183,3
+EMP01353,Empleado_1353,Supervisor Operaciones,Tierra,BOG,Indefinido,2014-01-06,1998-04-25,1,165,10
+EMP01354,Empleado_1354,Ground Staff,Tierra,GRU,Honorarios,2011-02-12,1999-04-30,1,172,13
+EMP01355,Empleado_1355,Ground Staff,Tierra,GRU,Indefinido,2012-07-21,1971-02-18,0,168,12
+EMP01356,Empleado_1356,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2023-02-19,1976-08-03,1,176,1
+EMP01357,Empleado_1357,Ground Staff,Tierra,EZE,Indefinido,2012-05-29,1978-09-08,1,174,12
+EMP01358,Empleado_1358,Piloto Comandante,Cockpit,,Part-time,2022-08-02,1998-10-02,0,177,2
+EMP01359,Empleado_1359,Tripulante Cabina,Cabina,EZE,Indefinido,2020-03-16,1992-10-15,0,190,4
+EMP01360,Empleado_1360,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2014-04-14,1975-09-06,1,166,10
+EMP01361,Empleado_1361,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2012-07-18,1971-04-09,1,182,12
+EMP01362,Empleado_1362,Tripulante Cabina,Cabina,LIM,Indefinido,2021-10-12,1993-12-06,1,165,3
+EMP01363,Empleado_1363,Tripulante Cabina,Cabina,MIA,Indefinido,2024-03-09,1977-10-11,1,161,0
+EMP01364,Empleado_1364,Ground Staff,Tierra,GRU,Plazo Fijo,2016-07-16,1973-09-11,1,182,8
+EMP01365,Empleado_1365,Agente Check-in,Tierra,JFK,Plazo Fijo,2023-06-09,1991-02-18,1,186,1
+EMP01366,Empleado_1366,,,GRU,Indefinido,2021-11-09,1976-05-02,1,190,3
+EMP01367,Empleado_1367,Piloto Copiloto,Cockpit,GRU,Part-time,2020-09-06,1988-02-09,1,186,4
+EMP01368,Empleado_1368,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-11-20,1983-11-27,1,170,3
+EMP01369,Empleado_1369,Supervisor Operaciones,Tierra,SCL,Honorarios,2014-07-10,1980-12-13,1,174,10
+EMP01370,Empleado_1370,Tripulante Cabina,Cabina,SCL,Indefinido,2016-04-13,1976-05-01,1,170,8
+EMP01371,Empleado_1371,Tecnico Mantencion,Tierra,EZE,Part-time,2013-07-21,1999-10-24,0,179,11
+EMP01372,Empleado_1372,Agente Check-in,Tierra,sao paulo,Honorarios,2021-04-09,1976-04-16,,190,3
+EMP01373,Empleado_1373,Agente Check-in,Tierra,BOG,Plazo Fijo,2016-02-07,1990-12-27,1,180,8
+EMP01374,Empleado_1374,Piloto Copiloto,Cockpit,EZE,Indefinido,2020-07-13,1976-11-16,1,166,4
+EMP01375,Empleado_1375,Supervisor Operaciones,Tierra,sao paulo,Part-time,2024-01-17,1998-06-03,1,161,0
+EMP01376,Empleado_1376,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2010-10-03,1979-10-15,1,164,14
+EMP01377,Empleado_1377,Supervisor Operaciones,Tierra,SCL,Indefinido,2023-04-07,1993-11-08,0,174,1
+EMP01378,Empleado_1378,Tecnico Mantencion,Tierra,GRU,Indefinido,2016-07-14,1999-01-02,1,,8
+EMP01379,Empleado_1379,Ground Staff,Tierra,EZE,Indefinido,2015-06-08,1998-02-26,1,,9
+EMP01380,Empleado_1380,Supervisor Operaciones,Tierra,SCL,Plazo Fijo,2024-11-22,1976-11-17,1,185,0
+EMP01381,Empleado_1381,Ground Staff,Tierra,SCL,Plazo Fijo,2014-11-12,1979-03-05,1,177,10
+EMP01382,Empleado_1382,Tecnico Mantencion,Tierra,MIA,Honorarios,2020-09-14,1996-03-10,1,166,4
+EMP01383,Empleado_1383,Tripulante Cabina Senior,Cabina,lima,Indefinido,2016-10-28,1973-09-15,1,184,8
+EMP01384,Empleado_1384,Piloto Copiloto,Cockpit,LIM,Indefinido,2015-12-19,1994-11-20,1,168,9
+EMP01385,Empleado_1385,Tecnico Mantencion,Tierra,LIM,Indefinido,2017-02-12,1978-10-26,1,168,7
+EMP01386,Empleado_1386,Piloto Copiloto,Cockpit,GRU,Indefinido,2010-01-02,1989-11-03,1,,14
+EMP01387,Empleado_1387,Piloto Comandante,Cockpit,LIM,Part-time,2017-01-04,1993-12-08,1,182,7
+EMP01388,Empleado_1388,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2012-07-09,1972-05-01,1,168,12
+EMP01389,Empleado_1389,Supervisor Operaciones,Tierra,EZE,Honorarios,2019-10-09,1982-01-15,1,174,5
+EMP01390,Empleado_1390,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2021-04-30,1999-10-03,0,171,3
+EMP01391,Empleado_1391,Tripulante Cabina Senior,Cabina,N/A,Indefinido,2022-11-05,1974-09-30,1,161,2
+EMP01392,Empleado_1392,Piloto Copiloto,Cockpit,SCL,Part-time,2012-02-15,1973-09-12,1,168,12
+EMP01393,Empleado_1393,Tripulante Cabina,Cabina,GRU,Indefinido,2018-07-19,1979-07-04,1,168,6
+EMP01394,Empleado_1394,Tripulante Cabina,Cabina,LIM,Indefinido,2010-10-28,1995-09-02,1,186,14
+EMP01395,Empleado_1395,Ground Staff,Tierra,SCL,Honorarios,2019-03-27,1997-10-22,1,189,5
+EMP01396,Empleado_1396,Agente Check-in,Tierra,lima,Plazo Fijo,2021-08-28,1973-10-11,1,162,3
+EMP01397,Empleado_1397,Supervisor Operaciones,Tierra,EZE,Indefinido,2017-09-11,1978-01-23,1,188,7
+EMP01398,Empleado_1398,Ground Staff,Tierra,SCL,Plazo Fijo,2013-03-24,1983-07-16,1,177,11
+EMP01399,Empleado_1399,Supervisor Operaciones,Tierra,MIA,Indefinido,2018-08-13,1998-01-03,1,161,6
+EMP01400,Empleado_1400,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2011-07-28,1998-02-22,1,171,13
+EMP01401,Empleado_1401,Administrativo,Admin,EZE,Indefinido,2011-12-21,1984-04-17,1,166,13
+EMP01402,Empleado_1402,Tripulante Cabina,Cabina,SCL,Indefinido,2022-07-02,1987-03-02,1,177,2
+EMP01403,Empleado_1403,Tripulante Cabina,Cabina,lima,Indefinido,2019-02-22,1974-08-29,,190,5
+EMP01404,Empleado_1404,Piloto Copiloto,Cockpit,GRU,Indefinido,2020-01-22,1973-04-10,1,,4
+EMP01405,Empleado_1405,Ground Staff,Tierra,BOG,Indefinido,2010-11-07,1977-04-21,1,170,14
+EMP01406,Empleado_1406,Tripulante Cabina,Cabina,MAD,Part-time,2012-03-06,1994-02-04,1,164,12
+EMP01407,Empleado_1407,Tripulante Cabina,Cabina,lima,Indefinido,2017-10-08,1992-01-21,1,165,7
+EMP01408,Empleado_1408,Piloto Copiloto,Cockpit,N/A,Indefinido,2021-01-26,1981-09-03,1,171,3
+EMP01409,Empleado_1409,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2012-07-17,1985-02-10,1,187,12
+EMP01410,Empleado_1410,Ground Staff,Tierra,JFK,Indefinido,2023-01-30,1999-04-25,1,165,1
+EMP01411,Empleado_1411,Tripulante Cabina Senior,Cabina,SCL,Part-time,2023-02-26,1976-11-27,0,164,1
+EMP01412,Empleado_1412,Administrativo,Admin,LIM,Indefinido,2016-05-14,1983-05-09,0,160,8
+EMP01413,Empleado_1413,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2017-09-03,1975-01-26,1,161,7
+EMP01414,Empleado_1414,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2016-05-19,1997-10-01,1,162,8
+EMP01415,Empleado_1415,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2017-05-07,1982-08-26,1,188,7
+EMP01416,Empleado_1416,Piloto Copiloto,Cockpit,MIA,Plazo Fijo,2012-04-23,1970-10-13,1,171,12
+EMP01417,Empleado_1417,Ground Staff,Tierra,BOG,Indefinido,2017-08-20,1987-04-09,1,177,7
+EMP01418,Empleado_1418,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2023-03-17,1971-10-24,0,172,1
+EMP01419,Empleado_1419,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2018-07-08,1981-08-01,0,169,6
+EMP01420,Empleado_1420,Piloto Comandante,Cockpit,GRU,Indefinido,2017-01-03,1971-02-07,1,190,7
+EMP01421,Empleado_1421,Agente Check-in,Tierra,BOG,Indefinido,2019-01-22,1980-08-08,,169,5
+EMP01422,Empleado_1422,Ground Staff,Tierra,BOG,Indefinido,2015-02-28,1971-11-22,1,176,9
+EMP01423,Empleado_1423,Ground Staff,Tierra,lima,Part-time,2017-07-17,1971-07-29,1,182,7
+EMP01424,Empleado_1424,Piloto Copiloto,Cockpit,EZE,Part-time,2012-12-18,1998-06-24,1,170,12
+EMP01425,Empleado_1425,Piloto Copiloto,Cockpit,BOG,Part-time,2010-08-08,1999-05-04,1,187,14
+EMP01426,Empleado_1426,Tecnico Mantencion,Tierra,GRU,Indefinido,2020-01-21,1986-06-18,1,172,4
+EMP01427,Empleado_1427,Ground Staff,Tierra,SCL,Indefinido,2019-12-06,1979-08-21,1,185,5
+EMP01428,Empleado_1428,Agente Check-in,Tierra,SCL,Indefinido,2017-03-11,1972-11-28,1,177,7
+EMP01429,Empleado_1429,Tripulante Cabina,Cabina,bogota,Indefinido,2014-10-18,1996-08-02,1,169,10
+EMP01430,Empleado_1430,Tripulante Cabina,Cabina,GRU,Part-time,2013-07-25,1996-05-15,1,185,11
+EMP01431,Empleado_1431,Tripulante Cabina Senior,Cabina,BOG,Part-time,2014-01-12,1970-07-08,1,190,10
+EMP01432,Empleado_1432,Agente Check-in,Tierra,LIM,Indefinido,2017-09-06,1987-01-10,1,167,7
+EMP01433,Empleado_1433,,,SCL,Plazo Fijo,2021-01-04,1974-02-14,1,189,3
+EMP01434,Empleado_1434,Piloto Comandante,Cockpit,EZE,Indefinido,2010-06-04,1994-10-31,1,190,14
+EMP01435,Empleado_1435,Supervisor Operaciones,Tierra,MIA,Part-time,2018-01-01,1982-10-12,1,174,6
+EMP01436,Empleado_1436,Supervisor Operaciones,Tierra,Santiago,Plazo Fijo,2011-09-01,1973-01-14,1,171,13
+EMP01437,Empleado_1437,Tripulante Cabina Senior,Cabina,SCL,Part-time,2022-01-05,1981-08-18,1,178,2
+EMP01438,Empleado_1438,Piloto Comandante,Cockpit,MAD,Honorarios,2020-09-12,1978-10-10,1,173,4
+EMP01439,Empleado_1439,Agente Check-in,Tierra,MAD,Plazo Fijo,2020-01-04,1992-04-25,1,161,4
+EMP01440,Empleado_1440,Tripulante Cabina,Cabina,MIA,Plazo Fijo,2019-04-24,1992-02-24,1,169,5
+EMP01441,Empleado_1441,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2015-01-15,1976-12-25,1,190,9
+EMP01442,Empleado_1442,Tripulante Cabina,Cabina,lima,Plazo Fijo,2011-07-06,1975-08-14,1,167,13
+EMP01443,Empleado_1443,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2016-03-21,1982-08-21,1,180,8
+EMP01444,Empleado_1444,Piloto Copiloto,Cockpit,GRU,Indefinido,2014-09-07,1987-02-10,1,164,10
+EMP01445,Empleado_1445,Tripulante Cabina Senior,Cabina,MIA,Plazo Fijo,2012-04-10,1981-09-20,1,180,12
+EMP01446,Empleado_1446,Tripulante Cabina,Cabina,LIM,Indefinido,2012-01-25,1977-12-29,1,188,12
+EMP01447,Empleado_1447,Piloto Comandante,Cockpit,SCL,Indefinido,2024-08-25,1982-03-17,1,171,0
+EMP01448,Empleado_1448,Tripulante Cabina Senior,Cabina,N/A,Plazo Fijo,2017-04-08,1971-10-12,1,170,7
+EMP01449,Empleado_1449,Tecnico Mantencion,Tierra,sao paulo,Indefinido,2020-07-09,1976-12-21,1,183,4
+EMP01450,Empleado_1450,Ground Staff,Tierra,LIM,Indefinido,2017-07-19,1989-04-02,1,190,7
+EMP01451,Empleado_1451,Tripulante Cabina,Cabina,SCL,Indefinido,2018-01-30,1976-09-18,,184,6
+EMP01452,Empleado_1452,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2011-02-22,1993-04-28,1,190,13
+EMP01453,Empleado_1453,Agente Check-in,Tierra,MAD,Indefinido,2020-11-18,1994-01-01,1,184,4
+EMP01454,Empleado_1454,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2023-04-04,1984-12-20,0,180,1
+EMP01455,Empleado_1455,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2020-01-18,1990-02-18,1,178,4
+EMP01456,Empleado_1456,Tecnico Mantencion,Tierra,LIM,Indefinido,2018-02-23,1997-02-22,1,166,6
+EMP01457,Empleado_1457,Piloto Copiloto,Cockpit,,Indefinido,2013-06-11,1984-09-26,1,162,11
+EMP01458,Empleado_1458,Piloto Copiloto,Cockpit,GRU,Plazo Fijo,2016-10-07,1971-10-10,1,179,8
+EMP01459,Empleado_1459,Ground Staff,Tierra,LIM,Indefinido,2018-07-09,1991-09-26,0,180,6
+EMP01460,Empleado_1460,Administrativo,Admin,SCL,Part-time,2024-07-29,1977-10-20,,173,0
+EMP01461,Empleado_1461,Tripulante Cabina,Cabina,SCL,Indefinido,2023-01-18,1983-02-01,1,164,1
+EMP01462,Empleado_1462,Ground Staff,Tierra,sao paulo,Part-time,2010-02-15,1987-01-06,1,186,14
+EMP01463,Empleado_1463,Administrativo,Admin,BOG,Indefinido,2011-07-26,1997-02-11,1,185,13
+EMP01464,Empleado_1464,Tripulante Cabina,Cabina,MIA,Indefinido,2011-04-25,1975-02-08,1,189,13
+EMP01465,Empleado_1465,Supervisor Operaciones,Tierra,LIM,Plazo Fijo,2018-09-10,1987-01-01,1,170,6
+EMP01466,Empleado_1466,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2018-03-16,1984-09-09,0,178,6
+EMP01467,Empleado_1467,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2012-02-25,1994-11-25,1,174,12
+EMP01468,Empleado_1468,Piloto Copiloto,Cockpit,SCL,Indefinido,2011-08-18,1982-07-15,1,174,13
+EMP01469,Empleado_1469,Administrativo,Admin,SCL,Part-time,2023-01-07,1972-12-26,1,172,1
+EMP01470,Empleado_1470,Agente Check-in,Tierra,LIM,Plazo Fijo,2017-07-06,1983-10-05,1,184,7
+EMP01471,Empleado_1471,Tripulante Cabina Senior,Cabina,MIA,Plazo Fijo,2013-03-10,1996-03-20,1,161,11
+EMP01472,Empleado_1472,Piloto Copiloto,Cockpit,BOG,Part-time,2015-02-19,1976-06-03,1,160,9
+EMP01473,Empleado_1473,Ground Staff,Tierra,SCL,Indefinido,2010-08-06,1973-06-19,1,167,14
+EMP01474,Empleado_1474,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2013-11-10,1972-08-01,1,166,11
+EMP01475,Empleado_1475,Tecnico Mantencion,Tierra,MAD,Indefinido,2018-07-23,1999-11-11,0,179,6
+EMP01476,Empleado_1476,Piloto Copiloto,Cockpit,SCL,Part-time,2022-07-05,1976-08-28,1,187,2
+EMP01477,Empleado_1477,Agente Check-in,Tierra,MIA,Plazo Fijo,2017-09-20,1977-07-13,1,176,7
+EMP01478,Empleado_1478,Supervisor Operaciones,Tierra,EZE,Part-time,2012-01-07,1989-10-20,,169,12
+EMP01479,Empleado_1479,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2018-06-21,1984-01-18,1,177,6
+EMP01480,Empleado_1480,Piloto Copiloto,Cockpit,GRU,Part-time,2023-05-09,1975-02-18,1,166,1
+EMP01481,Empleado_1481,Tecnico Mantencion,Tierra,EZE,Plazo Fijo,2022-04-30,1986-12-24,1,173,2
+EMP01482,Empleado_1482,Piloto Copiloto,Cockpit,LIM,Honorarios,2019-01-16,1988-07-24,1,188,5
+EMP01483,Empleado_1483,Tripulante Cabina Senior,Cabina,JFK,Honorarios,2011-12-27,1984-07-26,,189,13
+EMP01484,Empleado_1484,Piloto Comandante,Cockpit,BOG,Part-time,2017-07-27,1978-07-15,0,164,7
+EMP01485,Empleado_1485,Ground Staff,Tierra,EZE,Plazo Fijo,2020-10-05,1992-04-07,1,179,4
+EMP01486,Empleado_1486,Tecnico Mantencion,Tierra,EZE,Plazo Fijo,2010-10-16,1985-03-04,1,162,14
+EMP01487,Empleado_1487,Agente Check-in,Tierra,SCL,Indefinido,2014-10-02,1972-02-12,1,180,10
+EMP01488,Empleado_1488,Tripulante Cabina,Cabina,MIA,Indefinido,2023-06-04,1982-06-30,1,171,1
+EMP01489,Empleado_1489,Agente Check-in,Tierra,SCL,Indefinido,2011-09-05,1988-12-11,1,161,13
+EMP01490,Empleado_1490,Tripulante Cabina,Cabina,GRU,Indefinido,2023-07-19,1994-07-04,1,182,1
+EMP01491,Empleado_1491,Tripulante Cabina Senior,Cabina,,Part-time,2012-07-19,1982-08-16,1,183,12
+EMP01492,Empleado_1492,Ground Staff,Tierra,EZE,Indefinido,2023-03-02,1981-09-03,1,162,1
+EMP01493,Empleado_1493,Tripulante Cabina,Cabina,N/A,Indefinido,2012-06-12,1992-05-15,1,162,12
+EMP01494,Empleado_1494,Tripulante Cabina,Cabina,EZE,Part-time,2013-06-27,1994-04-20,0,180,11
+EMP01495,Empleado_1495,Administrativo,Admin,SCL,Indefinido,2021-06-23,1998-11-17,0,174,3
+EMP01496,Empleado_1496,Piloto Comandante,Cockpit,GRU,Indefinido,2022-07-30,1999-06-02,1,180,2
+EMP01497,Empleado_1497,Supervisor Operaciones,Tierra,SCL,Indefinido,2013-05-28,1982-11-14,1,189,11
+EMP01498,Empleado_1498,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2019-08-02,1997-10-17,1,188,5
+EMP01499,Empleado_1499,Ground Staff,Tierra,LIM,Honorarios,2019-09-27,1978-04-18,1,170,5
+EMP01500,Empleado_1500,Piloto Comandante,Cockpit,GRU,Indefinido,2015-02-25,1972-03-13,1,183,9
+EMP01501,Empleado_1501,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2013-10-17,1993-03-19,1,176,11
+EMP01502,Empleado_1502,Ground Staff,Tierra,SCL,Indefinido,2014-07-12,1971-11-30,1,185,10
+EMP01503,Empleado_1503,Tripulante Cabina,Cabina,MIA,Part-time,2017-09-20,1992-05-24,1,190,7
+EMP01504,Empleado_1504,Tripulante Cabina,Cabina,BOG,Indefinido,2021-03-05,1974-03-25,1,175,3
+EMP01505,Empleado_1505,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2017-12-20,1972-02-19,1,178,7
+EMP01506,Empleado_1506,Piloto Copiloto,Cockpit,GRU,Indefinido,2021-06-11,1971-05-18,1,189,3
+EMP01507,Empleado_1507,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2019-11-05,1998-09-27,1,168,5
+EMP01508,Empleado_1508,Tripulante Cabina Senior,Cabina,Santiago,Indefinido,2022-11-18,1979-05-08,1,,2
+EMP01509,Empleado_1509,Piloto Comandante,Cockpit,MAD,Indefinido,2017-01-24,1983-03-13,1,174,7
+EMP01510,Empleado_1510,Tecnico Mantencion,Tierra,MAD,Indefinido,2018-01-15,1972-03-18,1,175,6
+EMP01511,Empleado_1511,Ground Staff,Tierra,MIA,Indefinido,2019-10-09,1970-11-04,1,171,5
+EMP01512,Empleado_1512,Tripulante Cabina,Cabina,SCL,Honorarios,2019-06-04,1999-08-13,1,175,5
+EMP01513,Empleado_1513,Tecnico Mantencion,Tierra,EZE,Plazo Fijo,2019-01-29,1995-01-23,1,176,5
+EMP01514,Empleado_1514,Ground Staff,Tierra,MIA,Part-time,2019-01-15,1986-05-03,1,177,5
+EMP01515,Empleado_1515,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2015-08-24,1988-10-02,0,182,9
+EMP01516,Empleado_1516,Ground Staff,Tierra,BOG,Plazo Fijo,2020-07-26,1991-11-15,1,168,4
+EMP01517,Empleado_1517,Tripulante Cabina,Cabina,JFK,Plazo Fijo,2022-01-19,1980-01-11,1,186,2
+EMP01518,Empleado_1518,Agente Check-in,Tierra,SCL,Part-time,2010-06-17,1992-07-28,1,182,14
+EMP01519,Empleado_1519,Tripulante Cabina Senior,Cabina,GRU,Part-time,2014-05-30,1975-10-28,1,173,10
+EMP01520,Empleado_1520,Supervisor Operaciones,Tierra,GRU,Indefinido,2018-10-03,1986-03-30,1,174,6
+EMP01521,Empleado_1521,Ground Staff,Tierra,SCL,Honorarios,2023-07-05,1985-11-06,0,188,1
+EMP01522,Empleado_1522,Supervisor Operaciones,Tierra,GRU,Indefinido,2022-01-18,1982-07-23,1,166,2
+EMP01523,Empleado_1523,Administrativo,Admin,BOG,Honorarios,2015-06-17,1985-02-15,1,178,9
+EMP01524,Empleado_1524,Ground Staff,Tierra,EZE,Indefinido,2019-12-19,1988-09-13,1,179,5
+EMP01525,Empleado_1525,Supervisor Operaciones,Tierra,EZE,Plazo Fijo,2010-08-17,1982-06-16,1,180,14
+EMP01526,Empleado_1526,Agente Check-in,Tierra,JFK,Indefinido,2021-07-26,1973-09-25,1,161,3
+EMP01527,Empleado_1527,Piloto Copiloto,Cockpit,LIM,Indefinido,2013-01-10,1989-09-24,1,181,11
+EMP01528,Empleado_1528,Ground Staff,Tierra,MIA,Indefinido,2024-05-29,1984-05-13,,181,0
+EMP01529,Empleado_1529,Piloto Comandante,Cockpit,MAD,Plazo Fijo,2020-01-27,1995-11-17,1,190,4
+EMP01530,Empleado_1530,Agente Check-in,Tierra,BOG,Part-time,2010-12-17,1986-12-09,1,166,14
+EMP01531,Empleado_1531,Tripulante Cabina,Cabina,SCL,Part-time,2017-03-26,1988-09-15,1,167,7
+EMP01532,Empleado_1532,Agente Check-in,Tierra,GRU,Indefinido,2022-07-18,1994-07-19,1,185,2
+EMP01533,Empleado_1533,Tripulante Cabina,Cabina,sao paulo,Part-time,2018-01-10,1987-07-22,1,184,6
+EMP01534,Empleado_1534,Piloto Copiloto,Cockpit,MIA,Indefinido,2023-12-05,1996-03-02,1,,1
+EMP01535,Empleado_1535,Agente Check-in,Tierra,MIA,Plazo Fijo,2014-07-31,1971-01-09,1,171,10
+EMP01536,Empleado_1536,Piloto Copiloto,Cockpit,EZE,Plazo Fijo,2021-05-16,1982-03-29,1,168,3
+EMP01537,Empleado_1537,Piloto Copiloto,Cockpit,BOG,Indefinido,2019-07-01,1997-06-18,1,171,5
+EMP01538,Empleado_1538,Piloto Copiloto,Cockpit,SCL,Part-time,2024-03-25,1990-07-22,1,163,0
+EMP01539,Empleado_1539,Tecnico Mantencion,Tierra,JFK,Plazo Fijo,2020-07-31,1976-11-24,1,182,4
+EMP01540,Empleado_1540,Ground Staff,Tierra,SCL,Plazo Fijo,2011-11-19,1974-04-18,1,189,13
+EMP01541,Empleado_1541,Piloto Copiloto,Cockpit,LIM,Plazo Fijo,2017-12-23,1990-03-30,1,163,7
+EMP01542,Empleado_1542,Ground Staff,Tierra,LIM,Plazo Fijo,2013-01-30,1984-11-05,1,182,11
+EMP01543,Empleado_1543,Tripulante Cabina,Cabina,BOG,Part-time,2013-07-09,1994-11-17,1,161,11
+EMP01544,Empleado_1544,Tripulante Cabina,Cabina,BOG,Indefinido,2021-01-30,1980-07-02,1,162,3
+EMP01545,Empleado_1545,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2011-05-30,1983-05-21,1,184,13
+EMP01546,Empleado_1546,Supervisor Operaciones,Tierra,SCL,Indefinido,2016-04-20,1996-03-18,1,182,8
+EMP01547,Empleado_1547,Administrativo,Admin,LIM,Indefinido,2010-04-24,1982-07-26,1,169,14
+EMP01548,Empleado_1548,Piloto Comandante,Cockpit,LIM,Indefinido,2013-09-17,1982-03-15,1,177,11
+EMP01549,Empleado_1549,Ground Staff,Tierra,GRU,Part-time,2016-01-16,1971-12-25,1,167,8
+EMP01550,Empleado_1550,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2010-06-29,1994-08-20,1,187,14
+EMP01551,Empleado_1551,Administrativo,Admin,EZE,Plazo Fijo,2024-05-29,1982-08-04,1,182,0
+EMP01552,Empleado_1552,Piloto Copiloto,Cockpit,BOG,Indefinido,2011-10-26,1976-04-17,1,168,13
+EMP01553,Empleado_1553,Piloto Copiloto,Cockpit,SCL,Indefinido,2024-07-01,1983-08-22,1,174,0
+EMP01554,Empleado_1554,Tripulante Cabina Senior,Cabina,JFK,Part-time,2015-01-13,1986-02-18,1,173,9
+EMP01555,Empleado_1555,Ground Staff,Tierra,GRU,Indefinido,2019-07-13,1987-05-19,1,160,5
+EMP01556,Empleado_1556,Piloto Comandante,Cockpit,EZE,Indefinido,2024-10-30,1998-10-17,1,175,0
+EMP01557,Empleado_1557,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2023-07-05,1975-08-13,1,181,1
+EMP01558,Empleado_1558,Agente Check-in,Tierra,BOG,Plazo Fijo,2022-05-14,1971-09-08,1,178,2
+EMP01559,Empleado_1559,Tripulante Cabina,Cabina,LIM,Plazo Fijo,2016-11-20,1998-05-06,1,173,8
+EMP01560,Empleado_1560,Seguridad,Tierra,LIM,Part-time,2013-10-28,1980-11-11,1,170,11
+EMP01561,Empleado_1561,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2018-01-28,1996-06-17,1,172,6
+EMP01562,Empleado_1562,Agente Check-in,Tierra,BOG,Indefinido,2013-04-17,1984-04-08,1,167,11
+EMP01563,Empleado_1563,Administrativo,Admin,LIM,Indefinido,2020-08-04,1994-02-14,0,163,4
+EMP01564,Empleado_1564,Agente Check-in,Tierra,EZE,Part-time,2014-10-21,1980-08-04,1,185,10
+EMP01565,Empleado_1565,Ground Staff,Tierra,SCL,Indefinido,2013-01-06,1986-02-13,0,189,11
+EMP01566,Empleado_1566,Supervisor Operaciones,Tierra,SCL,Indefinido,2017-06-08,1994-12-14,0,172,7
+EMP01567,Empleado_1567,Supervisor Operaciones,Tierra,SCL,Indefinido,2015-08-14,1974-12-05,1,172,9
+EMP01568,Empleado_1568,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2023-11-24,1999-06-13,1,173,1
+EMP01569,Empleado_1569,Tripulante Cabina,Cabina,SCL,Indefinido,2014-07-01,1976-03-11,,162,10
+EMP01570,Empleado_1570,Piloto Copiloto,Cockpit,lima,Part-time,2023-10-31,1973-05-03,1,171,1
+EMP01571,Empleado_1571,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2023-07-25,1983-08-06,1,160,1
+EMP01572,Empleado_1572,Supervisor Operaciones,Tierra,SCL,Honorarios,2023-11-03,1995-02-20,1,165,1
+EMP01573,Empleado_1573,Ground Staff,Tierra,SCL,Indefinido,2011-10-25,1978-04-03,1,169,13
+EMP01574,Empleado_1574,Tripulante Cabina,Cabina,LIM,Indefinido,2018-01-23,1982-03-25,1,190,6
+EMP01575,Empleado_1575,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2020-07-09,1999-02-21,0,183,4
+EMP01576,Empleado_1576,Supervisor Operaciones,Tierra,BOG,Indefinido,2020-05-25,1988-08-21,1,161,4
+EMP01577,Empleado_1577,Piloto Copiloto,Cockpit,GRU,Part-time,2018-01-25,1972-10-29,1,183,6
+EMP01578,Empleado_1578,Agente Check-in,Tierra,MAD,Part-time,2017-08-14,1973-05-05,1,181,7
+EMP01579,Empleado_1579,Tripulante Cabina,Cabina,SCL,Indefinido,2016-07-17,1982-04-18,1,179,8
+EMP01580,Empleado_1580,Ground Staff,Tierra,EZE,Indefinido,2012-07-26,1978-05-18,1,180,12
+EMP01581,Empleado_1581,Piloto Copiloto,Cockpit,LIM,Indefinido,2019-07-01,1990-09-06,1,162,5
+EMP01582,Empleado_1582,Agente Check-in,Tierra,SCL,Plazo Fijo,2015-01-07,1970-05-10,1,173,9
+EMP01583,Empleado_1583,Agente Check-in,Tierra,MAD,Honorarios,2022-09-27,1983-12-16,1,163,2
+EMP01584,Empleado_1584,Supervisor Operaciones,Tierra,BOG,Indefinido,2011-07-04,1999-01-03,,175,13
+EMP01585,Empleado_1585,Piloto Copiloto,Cockpit,SCL,Indefinido,2019-10-21,1989-09-06,1,175,5
+EMP01586,Empleado_1586,Ground Staff,Tierra,SCL,Plazo Fijo,2015-03-22,1982-06-22,0,180,9
+EMP01587,Empleado_1587,Tripulante Cabina,Cabina,SCL,Indefinido,2023-01-21,1977-05-03,1,184,1
+EMP01588,Empleado_1588,Seguridad,Tierra,LIM,Part-time,2015-01-15,1971-05-17,1,170,9
+EMP01589,Empleado_1589,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2010-02-27,1998-04-20,0,188,14
+EMP01590,Empleado_1590,Piloto Copiloto,Cockpit,GRU,Indefinido,2017-07-11,1979-07-23,1,178,7
+EMP01591,Empleado_1591,Piloto Copiloto,Cockpit,MAD,Indefinido,2023-08-23,1987-07-01,1,170,1
+EMP01592,Empleado_1592,Agente Check-in,Tierra,lima,Indefinido,2016-02-21,1979-12-08,1,186,8
+EMP01593,Empleado_1593,Supervisor Operaciones,Tierra,LIM,Indefinido,2015-01-05,1985-01-19,1,172,9
+EMP01594,Empleado_1594,Tripulante Cabina,Cabina,Santiago,Indefinido,2011-08-12,1984-12-03,1,179,13
+EMP01595,Empleado_1595,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2016-07-30,1971-04-17,1,178,8
+EMP01596,Empleado_1596,Tripulante Cabina,Cabina,GRU,Part-time,2013-06-28,1973-06-05,0,162,11
+EMP01597,Empleado_1597,Ground Staff,Tierra,SCL,Plazo Fijo,2017-06-01,1972-09-29,1,178,7
+EMP01598,Empleado_1598,Agente Check-in,Tierra,SCL,Indefinido,2024-06-24,1995-03-11,1,183,0
+EMP01599,Empleado_1599,Tripulante Cabina,Cabina,MIA,Indefinido,2021-05-14,1976-01-01,1,166,3
+EMP01600,Empleado_1600,Ground Staff,Tierra,MAD,Plazo Fijo,2024-10-06,1973-08-05,1,177,0
+EMP01601,Empleado_1601,Ground Staff,Tierra,GRU,Indefinido,2018-07-20,1993-12-09,1,179,6
+EMP01602,Empleado_1602,Tripulante Cabina Senior,Cabina,MAD,Plazo Fijo,2023-02-16,1975-10-31,1,184,1
+EMP01603,Empleado_1603,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-09-08,1984-02-06,1,,3
+EMP01604,Empleado_1604,Tripulante Cabina Senior,Cabina,MIA,Honorarios,2012-10-07,1990-12-17,1,168,12
+EMP01605,Empleado_1605,Tripulante Cabina,Cabina,SCL,Indefinido,2017-01-16,1972-10-02,1,181,7
+EMP01606,Empleado_1606,Agente Check-in,Tierra,GRU,Part-time,2010-07-24,1974-11-16,1,170,14
+EMP01607,Empleado_1607,Administrativo,Admin,GRU,Indefinido,2014-07-25,1991-09-10,1,164,10
+EMP01608,Empleado_1608,Seguridad,Tierra,GRU,Indefinido,2016-01-08,1985-07-02,1,169,8
+EMP01609,Empleado_1609,Tecnico Mantencion,Tierra,GRU,Plazo Fijo,2019-05-11,1984-03-08,1,172,5
+EMP01610,Empleado_1610,Agente Check-in,Tierra,EZE,Plazo Fijo,2014-08-14,1972-07-09,1,190,10
+EMP01611,Empleado_1611,Piloto Comandante,Cockpit,EZE,Indefinido,2012-10-14,1979-07-18,0,166,12
+EMP01612,Empleado_1612,Piloto Comandante,Cockpit,LIM,Indefinido,2017-01-07,1997-08-26,1,167,7
+EMP01613,Empleado_1613,Agente Check-in,Tierra,BOG,Indefinido,2021-09-29,1983-06-26,0,185,3
+EMP01614,Empleado_1614,Ground Staff,Tierra,SCL,Indefinido,2019-08-19,1990-12-06,1,169,5
+EMP01615,Empleado_1615,Ground Staff,Tierra,JFK,Part-time,2014-12-11,1982-05-12,1,164,10
+EMP01616,Empleado_1616,Piloto Comandante,Cockpit,LIM,Part-time,2010-10-23,1997-07-23,0,163,14
+EMP01617,Empleado_1617,Agente Check-in,Tierra,MIA,Indefinido,2010-07-23,1990-02-04,1,187,14
+EMP01618,Empleado_1618,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2018-04-14,1979-01-09,1,181,6
+EMP01619,Empleado_1619,Agente Check-in,Tierra,LIM,Honorarios,2016-09-11,1994-05-10,1,165,8
+EMP01620,Empleado_1620,Tripulante Cabina,Cabina,lima,Indefinido,2023-10-26,1997-12-02,1,180,1
+EMP01621,Empleado_1621,Tripulante Cabina,Cabina,GRU,Part-time,2011-05-23,1971-05-08,1,180,13
+EMP01622,Empleado_1622,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2013-07-29,1988-08-19,1,174,11
+EMP01623,Empleado_1623,Piloto Copiloto,Cockpit,MAD,Indefinido,2011-03-08,1970-10-14,1,180,13
+EMP01624,Empleado_1624,Seguridad,Tierra,GRU,Indefinido,2010-04-30,1980-07-17,1,165,14
+EMP01625,Empleado_1625,Tripulante Cabina,Cabina,SCL,Indefinido,2015-07-08,1983-06-25,1,190,9
+EMP01626,Empleado_1626,Tripulante Cabina,Cabina,SCL,Indefinido,2024-07-16,1976-05-03,1,184,0
+EMP01627,Empleado_1627,Piloto Copiloto,Cockpit,sao paulo,Indefinido,2010-01-17,1975-07-27,0,190,14
+EMP01628,Empleado_1628,Tripulante Cabina,Cabina,SCL,Indefinido,2018-01-26,1973-08-10,1,168,6
+EMP01629,Empleado_1629,Piloto Comandante,Cockpit,GRU,Indefinido,2020-08-05,1992-01-16,1,168,4
+EMP01630,Empleado_1630,Agente Check-in,Tierra,MAD,Part-time,2020-09-21,1997-07-10,1,167,4
+EMP01631,Empleado_1631,Agente Check-in,Tierra,GRU,Indefinido,2017-03-08,1998-07-03,1,169,7
+EMP01632,Empleado_1632,Ground Staff,Tierra,MAD,Indefinido,2015-12-30,1976-05-20,1,182,9
+EMP01633,Empleado_1633,Piloto Copiloto,Cockpit,SCL,Indefinido,2013-07-10,1995-03-20,1,181,11
+EMP01634,Empleado_1634,Tecnico Mantencion,Tierra,BOG,Part-time,2022-07-03,1993-09-06,1,190,2
+EMP01635,Empleado_1635,Ground Staff,Tierra,SCL,Part-time,2020-07-25,1977-01-07,1,185,4
+EMP01636,Empleado_1636,Tecnico Mantencion,Tierra,MIA,Indefinido,2012-06-23,1983-11-30,1,169,12
+EMP01637,Empleado_1637,Tecnico Mantencion,Tierra,GRU,Plazo Fijo,2020-04-20,1980-01-09,1,173,4
+EMP01638,Empleado_1638,Agente Check-in,Tierra,GRU,Indefinido,2022-09-15,1987-02-23,1,167,2
+EMP01639,Empleado_1639,Piloto Comandante,Cockpit,lima,Indefinido,2020-08-22,1984-10-21,1,167,4
+EMP01640,Empleado_1640,Agente Check-in,Tierra,BOG,Plazo Fijo,2010-02-22,1989-10-18,0,183,14
+EMP01641,Empleado_1641,Tecnico Mantencion,Tierra,SCL,Part-time,2011-09-17,1974-09-07,1,185,13
+EMP01642,Empleado_1642,Tripulante Cabina Senior,Cabina,LIM,Part-time,2014-11-24,1975-06-11,1,167,10
+EMP01643,Empleado_1643,Tripulante Cabina,Cabina,SCL,Part-time,2022-05-19,1986-04-03,1,164,2
+EMP01644,Empleado_1644,Agente Check-in,Tierra,N/A,Indefinido,2012-01-12,1992-12-25,1,162,12
+EMP01645,Empleado_1645,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2024-10-29,1978-07-12,1,172,0
+EMP01646,Empleado_1646,Piloto Comandante,Cockpit,LIM,Indefinido,2018-08-01,1989-03-20,1,175,6
+EMP01647,Empleado_1647,Ground Staff,Tierra,MIA,Part-time,2024-02-26,1972-11-18,1,189,0
+EMP01648,Empleado_1648,Supervisor Operaciones,Tierra,BOG,Indefinido,2024-01-15,1987-11-18,1,188,0
+EMP01649,Empleado_1649,Seguridad,Tierra,SCL,Plazo Fijo,2014-01-31,1980-11-18,1,181,10
+EMP01650,Empleado_1650,Tripulante Cabina,Cabina,GRU,Indefinido,2012-05-09,1985-05-28,1,180,12
+EMP01651,Empleado_1651,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2019-10-12,1988-03-28,1,181,5
+EMP01652,Empleado_1652,Tripulante Cabina,Cabina,GRU,Part-time,2022-08-05,1973-10-05,1,170,2
+EMP01653,Empleado_1653,Seguridad,Tierra,SCL,Indefinido,2023-08-22,1990-06-20,1,,1
+EMP01654,Empleado_1654,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2015-01-29,1977-03-01,1,182,9
+EMP01655,Empleado_1655,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2015-04-29,1998-01-06,1,165,9
+EMP01656,Empleado_1656,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2020-01-28,1979-05-04,1,171,4
+EMP01657,Empleado_1657,Tripulante Cabina,Cabina,LIM,Indefinido,2013-08-23,1975-12-28,1,178,11
+EMP01658,Empleado_1658,Agente Check-in,Tierra,SCL,Indefinido,2015-04-28,1988-04-17,1,190,9
+EMP01659,Empleado_1659,Tripulante Cabina Senior,Cabina,SCL,Part-time,2024-07-01,1987-09-21,1,178,0
+EMP01660,Empleado_1660,Agente Check-in,Tierra,MAD,Indefinido,2017-07-21,1998-03-13,0,182,7
+EMP01661,Empleado_1661,Ground Staff,Tierra,SCL,Indefinido,2024-02-22,1975-05-23,1,180,0
+EMP01662,Empleado_1662,Ground Staff,Tierra,LIM,Indefinido,2014-04-19,1992-12-11,1,177,10
+EMP01663,Empleado_1663,Piloto Comandante,Cockpit,LIM,Indefinido,2018-07-19,1999-01-16,1,188,6
+EMP01664,Empleado_1664,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2011-07-14,1986-10-10,0,161,13
+EMP01665,Empleado_1665,Seguridad,Tierra,EZE,Plazo Fijo,2024-04-07,1982-03-22,1,187,0
+EMP01666,Empleado_1666,Piloto Copiloto,Cockpit,LIM,Plazo Fijo,2013-10-20,1972-04-10,1,185,11
+EMP01667,Empleado_1667,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2015-06-29,1980-09-30,1,174,9
+EMP01668,Empleado_1668,Supervisor Operaciones,Tierra,GRU,Part-time,2022-01-05,1999-05-28,1,186,2
+EMP01669,Empleado_1669,Ground Staff,Tierra,SCL,Indefinido,2016-07-02,1987-07-24,1,170,8
+EMP01670,Empleado_1670,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2013-11-27,1973-10-05,1,164,11
+EMP01671,Empleado_1671,Tripulante Cabina,Cabina,BOG,Indefinido,2015-01-04,1980-11-08,1,176,9
+EMP01672,Empleado_1672,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2016-01-17,1975-01-30,1,163,8
+EMP01673,Empleado_1673,Piloto Comandante,Cockpit,GRU,Indefinido,2012-07-01,1974-05-28,1,171,12
+EMP01674,Empleado_1674,Tripulante Cabina,Cabina,EZE,Part-time,2022-01-10,1970-06-28,1,183,2
+EMP01675,Empleado_1675,Tripulante Cabina,Cabina,SCL,Indefinido,2018-07-11,1996-06-10,1,165,6
+EMP01676,Empleado_1676,Tripulante Cabina,Cabina,EZE,Part-time,2019-07-15,1984-06-07,1,187,5
+EMP01677,Empleado_1677,Supervisor Operaciones,Tierra,MIA,Part-time,2015-07-21,1970-06-08,1,165,9
+EMP01678,Empleado_1678,Tripulante Cabina,Cabina,GRU,Indefinido,2012-12-09,1998-08-18,1,181,12
+EMP01679,Empleado_1679,Tecnico Mantencion,Tierra,GRU,Indefinido,2020-07-06,1992-05-19,1,180,4
+EMP01680,Empleado_1680,Agente Check-in,Tierra,MIA,Plazo Fijo,2015-01-21,1998-01-22,1,173,9
+EMP01681,Empleado_1681,Tecnico Mantencion,Tierra,BOG,Indefinido,2013-03-31,1972-05-19,1,162,11
+EMP01682,Empleado_1682,Tecnico Mantencion,Tierra,LIM,Indefinido,2011-01-13,1993-07-13,1,165,13
+EMP01683,Empleado_1683,Supervisor Operaciones,Tierra,EZE,Plazo Fijo,2015-06-05,1998-02-23,1,170,9
+EMP01684,Empleado_1684,Tripulante Cabina,Cabina,EZE,Indefinido,2019-07-19,1990-05-03,,180,5
+EMP01685,Empleado_1685,Piloto Copiloto,Cockpit,GRU,Indefinido,2011-02-19,1985-05-31,1,188,13
+EMP01686,Empleado_1686,Supervisor Operaciones,Tierra,GRU,Indefinido,2016-01-28,1990-08-31,1,165,8
+EMP01687,Empleado_1687,Agente Check-in,Tierra,SCL,Plazo Fijo,2023-08-09,1999-06-30,1,184,1
+EMP01688,Empleado_1688,Tripulante Cabina,Cabina,MIA,Indefinido,2012-10-30,1973-01-27,1,178,12
+EMP01689,Empleado_1689,Ground Staff,Tierra,SCL,Indefinido,2012-11-25,1974-07-03,1,161,12
+EMP01690,Empleado_1690,Supervisor Operaciones,Tierra,SCL,Indefinido,2014-01-13,1983-11-01,1,183,10
+EMP01691,Empleado_1691,Tripulante Cabina,Cabina,BOG,Indefinido,2016-01-22,1995-07-07,1,185,8
+EMP01692,Empleado_1692,Agente Check-in,Tierra,SCL,Indefinido,2018-01-08,1985-01-29,1,188,6
+EMP01693,Empleado_1693,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2020-03-03,1983-01-26,1,186,4
+EMP01694,Empleado_1694,Ground Staff,Tierra,LIM,Honorarios,2014-01-23,1983-07-27,1,182,10
+EMP01695,Empleado_1695,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2019-03-31,1980-12-28,1,167,5
+EMP01696,Empleado_1696,Ground Staff,Tierra,EZE,Indefinido,2020-05-07,1980-12-05,1,185,4
+EMP01697,Empleado_1697,Tripulante Cabina,Cabina,Santiago,Part-time,2014-11-16,1974-03-01,1,161,10
+EMP01698,Empleado_1698,Supervisor Operaciones,Tierra,MIA,Indefinido,2019-08-01,1995-09-11,0,163,5
+EMP01699,Empleado_1699,Tripulante Cabina,Cabina,BOG,Indefinido,2011-01-24,1983-05-12,0,170,13
+EMP01700,Empleado_1700,Piloto Comandante,Cockpit,LIM,Indefinido,2021-07-09,1997-10-30,1,183,3
+EMP01701,Empleado_1701,Tecnico Mantencion,Tierra,Santiago,Indefinido,2017-07-12,1979-03-27,1,189,7
+EMP01702,Empleado_1702,Agente Check-in,Tierra,BOG,Indefinido,2011-04-24,1996-02-17,0,181,13
+EMP01703,Empleado_1703,Piloto Copiloto,Cockpit,SCL,Part-time,2019-07-07,1980-05-24,1,189,5
+EMP01704,Empleado_1704,Tripulante Cabina,Cabina,BOG,Part-time,2017-06-04,1976-11-12,1,170,7
+EMP01705,Empleado_1705,Agente Check-in,Tierra,LIM,Indefinido,2014-01-20,1998-07-15,1,186,10
+EMP01706,Empleado_1706,Tripulante Cabina,Cabina,EZE,Plazo Fijo,2014-11-11,1985-03-16,1,164,10
+EMP01707,Empleado_1707,Seguridad,Tierra,LIM,Indefinido,2012-03-06,1984-05-13,1,183,12
+EMP01708,Empleado_1708,Agente Check-in,Tierra,SCL,Plazo Fijo,2022-01-15,1997-03-18,1,169,2
+EMP01709,Empleado_1709,Tripulante Cabina,Cabina,LIM,Part-time,2022-02-26,1977-11-23,1,181,2
+EMP01710,Empleado_1710,Piloto Copiloto,Cockpit,GRU,Indefinido,2016-09-19,1980-11-01,1,166,8
+EMP01711,Empleado_1711,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2019-01-31,1983-10-31,1,167,5
+EMP01712,Empleado_1712,Ground,,GRU,Indefinido,2018-02-24,1991-03-18,1,190,6
+EMP01713,Empleado_1713,Tripulante Cabina Senior,Cabina,N/A,Indefinido,2014-05-14,1973-06-23,1,164,10
+EMP01714,Empleado_1714,Agente Check-in,Tierra,EZE,Indefinido,2018-04-11,1997-02-19,1,176,6
+EMP01715,Empleado_1715,Supervisor Operaciones,Tierra,LIM,Indefinido,2011-01-23,1987-01-21,1,176,13
+EMP01716,Empleado_1716,Piloto Comandante,Cockpit,EZE,Indefinido,2021-11-22,1979-06-12,1,187,3
+EMP01717,Empleado_1717,Piloto Comandante,Cockpit,JFK,Indefinido,2015-05-18,1996-01-21,1,172,9
+EMP01718,Empleado_1718,Supervisor Operaciones,Tierra,,Indefinido,2019-11-03,1993-10-29,1,167,5
+EMP01719,Empleado_1719,Ground Staff,Tierra,SCL,Indefinido,2018-08-22,1998-03-23,1,178,6
+EMP01720,Empleado_1720,Tripulante Cabina Senior,Cabina,GRU,Part-time,2017-04-21,1986-09-08,1,174,7
+EMP01721,Empleado_1721,Tripulante Cabina,Cabina,LIM,Part-time,2014-05-02,1978-12-02,1,187,10
+EMP01722,Empleado_1722,Seguridad,Tierra,SCL,Part-time,2011-11-17,1995-10-10,1,175,13
+EMP01723,Empleado_1723,Agente Check-in,Tierra,EZE,Indefinido,2017-11-28,1980-06-04,1,164,7
+EMP01724,Empleado_1724,Supervisor Operaciones,Tierra,BOG,Plazo Fijo,2017-06-13,1976-10-15,1,190,7
+EMP01725,Empleado_1725,Ground Staff,Tierra,LIM,Plazo Fijo,2010-01-15,1987-08-05,1,190,14
+EMP01726,Empleado_1726,Agente Check-in,Tierra,GRU,Indefinido,2018-09-01,1998-10-10,1,185,6
+EMP01727,Empleado_1727,Piloto Comandante,Cockpit,GRU,Plazo Fijo,2024-04-20,1996-01-14,1,166,0
+EMP01728,Empleado_1728,Tripulante Cabina,Cabina,GRU,Indefinido,2024-01-17,1995-07-02,1,175,0
+EMP01729,Empleado_1729,Ground Staff,Tierra,BOG,Indefinido,2017-07-27,1986-12-16,1,167,7
+EMP01730,Empleado_1730,Supervisor Operaciones,Tierra,MAD,Indefinido,2019-10-06,1971-09-18,1,184,5
+EMP01731,Empleado_1731,Ground Staff,Tierra,SCL,Indefinido,2011-11-16,1996-09-11,1,171,13
+EMP01732,Empleado_1732,Ground Staff,Tierra,GRU,Part-time,2011-06-04,1982-04-06,1,163,13
+EMP01733,Empleado_1733,Ground Staff,Tierra,BOG,Plazo Fijo,2011-05-20,1996-08-21,1,168,13
+EMP01734,Empleado_1734,Agente Check-in,Tierra,SCL,Indefinido,2010-01-01,1987-07-31,1,185,14
+EMP01735,Empleado_1735,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2012-11-08,1991-01-21,1,160,12
+EMP01736,Empleado_1736,Tripulante Cabina,Cabina,SCL,Indefinido,2023-12-10,1981-11-18,1,184,1
+EMP01737,Empleado_1737,Ground Staff,Tierra,GRU,Indefinido,2023-10-06,1994-05-26,1,175,1
+EMP01738,Empleado_1738,Ground Staff,Tierra,GRU,Indefinido,2016-07-15,1981-01-13,1,186,8
+EMP01739,Empleado_1739,Piloto Comandante,Cockpit,bogota,Plazo Fijo,2013-11-22,1999-04-13,0,,11
+EMP01740,Empleado_1740,Tripulante Cabina,Cabina,LIM,Indefinido,2013-01-16,1986-09-08,0,167,11
+EMP01741,Empleado_1741,Tripulante Cabina,Cabina,LIM,Indefinido,2019-11-23,1974-03-25,1,190,5
+EMP01742,Empleado_1742,Tripulante Cabina,Cabina,EZE,Indefinido,2022-09-22,1972-03-03,0,185,2
+EMP01743,Empleado_1743,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2018-10-30,1970-02-23,1,187,6
+EMP01744,Empleado_1744,Ground Staff,Tierra,LIM,Indefinido,2016-07-20,1978-09-24,,189,8
+EMP01745,Empleado_1745,Piloto Comandante,Cockpit,BOG,Plazo Fijo,2020-08-27,1990-06-13,1,184,4
+EMP01746,Empleado_1746,Ground Staff,Tierra,MIA,Indefinido,2012-07-12,1988-04-23,1,,12
+EMP01747,Empleado_1747,Ground Staff,Tierra,BOG,Plazo Fijo,2015-07-20,1987-10-31,1,162,9
+EMP01748,Empleado_1748,Supervisor Operaciones,Tierra,SCL,Honorarios,2023-04-17,1982-05-11,1,186,1
+EMP01749,Empleado_1749,Seguridad,Tierra,JFK,Indefinido,2022-10-24,1983-01-23,1,172,2
+EMP01750,Empleado_1750,Piloto Copiloto,Cockpit,GRU,Plazo Fijo,2018-11-28,1998-08-01,1,190,6
+EMP01751,Empleado_1751,Agente Check-in,Tierra,SCL,Indefinido,2018-01-24,1972-05-12,1,167,6
+EMP01752,Empleado_1752,Agente Check-in,Tierra,SCL,Indefinido,2017-11-04,1980-06-20,1,185,7
+EMP01753,Empleado_1753,Ground Staff,Tierra,BOG,Indefinido,2010-04-23,1998-03-05,1,,14
+EMP01754,Empleado_1754,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2013-03-10,1988-05-06,1,164,11
+EMP01755,Empleado_1755,Agente Check-in,Tierra,SCL,Part-time,2020-12-11,1980-09-15,1,170,4
+EMP01756,Empleado_1756,Ground Staff,Tierra,LIM,Honorarios,2020-09-27,1994-04-27,1,160,4
+EMP01757,Empleado_1757,Supervisor Operaciones,Tierra,LIM,Part-time,2020-01-12,1987-02-11,,174,4
+EMP01758,Empleado_1758,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2013-08-22,1988-05-04,1,177,11
+EMP01759,Empleado_1759,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2023-05-23,1998-11-09,1,184,1
+EMP01760,Empleado_1760,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2017-06-14,1998-06-27,1,172,7
+EMP01761,Empleado_1761,Piloto Copiloto,Cockpit,BOG,Part-time,2020-09-27,1982-09-22,1,166,4
+EMP01762,Empleado_1762,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2016-01-30,1989-03-22,1,171,8
+EMP01763,Empleado_1763,Tecnico Mantencion,Tierra,GRU,Indefinido,2015-11-07,1986-11-12,1,175,9
+EMP01764,Empleado_1764,Ground Staff,Tierra,BOG,Plazo Fijo,2017-03-14,1980-07-28,0,164,7
+EMP01765,Empleado_1765,Tripulante Cabina Senior,Cabina,LIM,Part-time,2024-08-30,1985-07-09,1,175,0
+EMP01766,Empleado_1766,Tecnico Mantencion,Tierra,SCL,Indefinido,2023-07-07,1987-10-14,0,162,1
+EMP01767,Empleado_1767,Tecnico Mantencion,Tierra,GRU,Indefinido,2015-08-24,1995-03-03,0,186,9
+EMP01768,Empleado_1768,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2024-08-20,1986-04-22,1,175,0
+EMP01769,Empleado_1769,Tripulante Cabina Senior,Cabina,JFK,Indefinido,2016-10-01,1998-01-17,1,172,8
+EMP01770,Empleado_1770,Tecnico Mantencion,Tierra,EZE,Indefinido,2021-09-12,1984-09-25,1,177,3
+EMP01771,Empleado_1771,Administrativo,Admin,GRU,Indefinido,2016-01-28,1985-05-10,1,176,8
+EMP01772,Empleado_1772,Administrativo,Admin,LIM,Honorarios,2023-10-01,1971-03-05,1,189,1
+EMP01773,Empleado_1773,Agente Check-in,Tierra,BOG,Indefinido,2021-04-05,1997-07-06,1,168,3
+EMP01774,Empleado_1774,Ground Staff,Tierra,SCL,Indefinido,2018-01-24,1980-02-05,1,176,6
+EMP01775,Empleado_1775,Administrativo,Admin,MIA,Indefinido,2015-09-08,1985-04-23,1,178,9
+EMP01776,Empleado_1776,Agente Check-in,Tierra,JFK,Honorarios,2016-07-06,1978-07-31,1,172,8
+EMP01777,Empleado_1777,Piloto Copiloto,Cockpit,EZE,Indefinido,2012-01-28,1996-05-20,1,178,12
+EMP01778,Empleado_1778,Seguridad,Tierra,SCL,Indefinido,2023-04-04,1971-02-16,1,169,1
+EMP01779,Empleado_1779,Agente Check-in,Tierra,MIA,Indefinido,2011-09-21,1971-12-18,1,176,13
+EMP01780,Empleado_1780,Piloto Copiloto,Cockpit,GRU,Indefinido,2011-07-11,1975-07-10,1,172,13
+EMP01781,Empleado_1781,Agente Check-in,Tierra,bogota,Indefinido,2010-01-11,1970-02-07,1,169,14
+EMP01782,Empleado_1782,Piloto Comandante,Cockpit,BOG,Part-time,2010-07-22,1982-04-22,1,178,14
+EMP01783,Empleado_1783,Ground Staff,Tierra,MIA,Indefinido,2011-06-21,1999-05-24,1,185,13
+EMP01784,Empleado_1784,Piloto Comandante,Cockpit,SCL,Indefinido,2019-06-04,1974-02-26,1,172,5
+EMP01785,Empleado_1785,Ground Staff,Tierra,LIM,Part-time,2017-10-26,1986-03-19,0,181,7
+EMP01786,Empleado_1786,Piloto Copiloto,Cockpit,SCL,Part-time,2020-06-16,1982-01-24,1,185,4
+EMP01787,Empleado_1787,Ground Staff,Tierra,SCL,Indefinido,2015-10-21,1991-02-23,1,163,9
+EMP01788,Empleado_1788,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2014-11-09,1989-07-17,1,168,10
+EMP01789,Empleado_1789,Ground Staff,Tierra,LIM,Indefinido,2017-08-04,1980-12-17,1,185,7
+EMP01790,Empleado_1790,Ground Staff,Tierra,BOG,Indefinido,2023-09-18,1998-11-23,1,161,1
+EMP01791,Empleado_1791,Piloto Copiloto,Cockpit,JFK,Indefinido,2023-09-03,1984-12-13,1,179,1
+EMP01792,Empleado_1792,Tecnico Mantencion,Tierra,MIA,Part-time,2011-07-17,1978-09-26,1,184,13
+EMP01793,Empleado_1793,Supervisor Operaciones,Tierra,,Indefinido,2017-08-08,1978-06-29,,186,7
+EMP01794,Empleado_1794,Piloto Comandante,Cockpit,LIM,Indefinido,2015-07-31,1985-11-22,1,163,9
+EMP01795,Empleado_1795,Administrativo,Admin,SCL,Indefinido,2019-05-01,1976-08-10,1,168,5
+EMP01796,Empleado_1796,Tripulante Cabina,Cabina,LIM,Indefinido,2024-03-04,1996-09-15,1,188,0
+EMP01797,Empleado_1797,Supervisor Operaciones,Tierra,SCL,Indefinido,2023-05-21,1977-10-20,1,171,1
+EMP01798,Empleado_1798,Supervisor Operaciones,Tierra,LIM,Part-time,2024-04-02,1985-12-23,1,180,0
+EMP01799,Empleado_1799,Agente Check-in,Tierra,EZE,Part-time,2014-12-20,1974-08-21,1,176,10
+EMP01800,Empleado_1800,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2023-11-18,1981-10-02,1,171,1
+EMP01801,Empleado_1801,Ground Staff,Tierra,LIM,Indefinido,2024-07-01,1985-11-17,,164,0
+EMP01802,Empleado_1802,Tripulante Cabina,Cabina,SCL,Indefinido,2010-07-09,1995-06-11,1,182,14
+EMP01803,Empleado_1803,Tripulante Cabina,Cabina,GRU,Part-time,2012-02-29,1971-10-03,1,177,12
+EMP01804,Empleado_1804,Tripulante Cabina,Cabina,bogota,Indefinido,2016-01-28,1987-08-07,1,190,8
+EMP01805,Empleado_1805,Tripulante Cabina Senior,Cabina,SCL,Honorarios,2021-03-16,1979-06-29,1,165,3
+EMP01806,Empleado_1806,Piloto Comandante,Cockpit,SCL,Honorarios,2022-02-10,1979-05-20,1,161,2
+EMP01807,Empleado_1807,Tripulante Cabina,Cabina,GRU,Indefinido,2017-05-09,1977-07-17,1,176,7
+EMP01808,Empleado_1808,Piloto Comandante,Cockpit,SCL,Indefinido,2020-05-26,1985-08-05,1,169,4
+EMP01809,Empleado_1809,Administrativo,Admin,BOG,Indefinido,2024-01-09,1986-12-26,1,189,0
+EMP01810,Empleado_1810,Piloto Copiloto,Cockpit,LIM,Honorarios,2017-01-16,1996-07-29,1,188,7
+EMP01811,Empleado_1811,Tripulante Cabina,Cabina,GRU,Part-time,2022-01-06,1990-08-24,0,171,2
+EMP01812,Empleado_1812,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2024-07-04,1994-12-28,1,172,0
+EMP01813,Empleado_1813,Piloto Comandante,Cockpit,SCL,Indefinido,2013-08-18,1976-02-09,1,165,11
+EMP01814,Empleado_1814,Piloto Copiloto,Cockpit,BOG,Plazo Fijo,2024-07-02,1993-05-26,1,189,0
+EMP01815,Empleado_1815,Agente Check-in,Tierra,SCL,Plazo Fijo,2021-01-19,1987-01-04,1,160,3
+EMP01816,Empleado_1816,Seguridad,Tierra,MIA,Indefinido,2011-07-22,1988-09-02,1,160,13
+EMP01817,Empleado_1817,Supervisor Operaciones,Tierra,BOG,Indefinido,2020-08-17,1986-11-16,1,180,4
+EMP01818,Empleado_1818,Tripulante Cabina,Cabina,LIM,Indefinido,2018-12-12,1991-11-05,1,178,6
+EMP01819,Empleado_1819,Tripulante Cabina,Cabina,BOG,Indefinido,2014-01-07,1971-10-23,1,160,10
+EMP01820,Empleado_1820,Piloto Comandante,Cockpit,SCL,Plazo Fijo,2022-11-19,1990-11-03,1,189,2
+EMP01821,Empleado_1821,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2013-01-28,1994-12-21,1,172,11
+EMP01822,Empleado_1822,Tripulante Cabina,Cabina,SCL,Plazo Fijo,2019-07-20,1977-02-14,1,184,5
+EMP01823,Empleado_1823,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2020-06-05,1985-07-19,1,172,4
+EMP01824,Empleado_1824,Tripulante Cabina,Cabina,MIA,Indefinido,2016-07-02,1992-05-09,,183,8
+EMP01825,Empleado_1825,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2020-07-03,1984-03-25,,177,4
+EMP01826,Empleado_1826,Tripulante Cabina,Cabina,EZE,Indefinido,2019-08-16,1995-04-06,0,165,5
+EMP01827,Empleado_1827,Ground Staff,Tierra,SCL,Part-time,2014-04-09,1995-05-07,1,168,10
+EMP01828,Empleado_1828,Tecnico Mantencion,Tierra,LIM,Indefinido,2017-07-22,1990-08-21,1,182,7
+EMP01829,Empleado_1829,Tripulante Cabina Senior,Cabina,BOG,Plazo Fijo,2012-07-15,1988-01-21,1,172,12
+EMP01830,Empleado_1830,Agente Check-in,Tierra,LIM,Plazo Fijo,2014-05-20,1998-05-12,1,166,10
+EMP01831,Empleado_1831,Tripulante Cabina,Cabina,BOG,Indefinido,2010-01-01,1981-04-06,0,188,14
+EMP01832,Empleado_1832,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2016-01-18,1972-07-16,1,165,8
+EMP01833,Empleado_1833,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2023-02-28,1973-01-30,1,175,1
+EMP01834,Empleado_1834,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2019-11-14,1973-03-11,1,182,5
+EMP01835,Empleado_1835,Tripulante Cabina,Cabina,GRU,Indefinido,2014-07-16,1983-02-11,1,189,10
+EMP01836,Empleado_1836,Tripulante Cabina,Cabina,sao paulo,Indefinido,2018-07-06,1975-08-08,1,175,6
+EMP01837,Empleado_1837,Seguridad,Tierra,GRU,Indefinido,2015-07-05,1970-07-03,1,164,9
+EMP01838,Empleado_1838,Tecnico Mantencion,Tierra,LIM,Indefinido,2017-11-07,1976-05-22,0,170,7
+EMP01839,Empleado_1839,Piloto Copiloto,Cockpit,GRU,Indefinido,2010-02-07,1980-08-29,1,166,14
+EMP01840,Empleado_1840,Tripulante Cabina,Cabina,LIM,Indefinido,2019-10-30,1973-06-04,1,187,5
+EMP01841,Empleado_1841,Piloto Comandante,Cockpit,LIM,Indefinido,2021-07-07,1989-06-29,1,161,3
+EMP01842,Empleado_1842,Tecnico Mantencion,Tierra,GRU,Part-time,2013-01-30,1970-06-12,0,188,11
+EMP01843,Empleado_1843,Tripulante Cabina,Cabina,EZE,Indefinido,2024-07-08,1998-06-21,,164,0
+EMP01844,Empleado_1844,Ground Staff,Tierra,SCL,Indefinido,2020-07-06,1977-03-27,1,163,4
+EMP01845,Empleado_1845,Tripulante Cabina Senior,Cabina,SCL,Part-time,2010-10-12,1998-02-03,1,,14
+EMP01846,Empleado_1846,Seguridad,Tierra,MIA,Indefinido,2019-01-02,1984-06-25,1,171,5
+EMP01847,Empleado_1847,Piloto Comandante,Cockpit,BOG,Plazo Fijo,2024-01-10,1992-11-20,1,167,0
+EMP01848,Empleado_1848,Piloto Comandante,Cockpit,MIA,Indefinido,2013-03-20,1977-06-18,1,172,11
+EMP01849,Empleado_1849,Agente Check-in,Tierra,LIM,Part-time,2011-10-03,1976-02-03,1,,13
+EMP01850,Empleado_1850,Agente Check-in,Tierra,LIM,Indefinido,2017-07-12,1971-03-06,1,,7
+EMP01851,Empleado_1851,Ground Staff,Tierra,BOG,Indefinido,2011-06-13,1990-01-19,1,180,13
+EMP01852,Empleado_1852,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2013-10-15,1991-06-09,1,176,11
+EMP01853,Empleado_1853,Tecnico Mantencion,Tierra,MIA,Indefinido,2021-12-21,1996-11-15,1,172,3
+EMP01854,Empleado_1854,Supervisor Operaciones,Tierra,N/A,Indefinido,2017-07-17,1994-12-10,0,161,7
+EMP01855,Empleado_1855,Tripulante Cabina,Cabina,GRU,Part-time,2021-11-18,1980-01-31,1,,3
+EMP01856,Empleado_1856,Administrativo,Admin,LIM,Indefinido,2018-01-24,1996-09-15,0,164,6
+EMP01857,Empleado_1857,Agente Check-in,Tierra,GRU,Indefinido,2023-10-05,1985-02-05,1,190,1
+EMP01858,Empleado_1858,Ground Staff,Tierra,JFK,Indefinido,2020-08-23,1998-08-11,1,164,4
+EMP01859,Empleado_1859,Tripulante Cabina,Cabina,MAD,Indefinido,2016-05-24,1996-09-06,1,168,8
+EMP01860,Empleado_1860,Piloto Comandante,Cockpit,LIM,Part-time,2021-01-05,1989-07-06,1,186,3
+EMP01861,Empleado_1861,Piloto Comandante,Cockpit,GRU,Indefinido,2010-05-15,1985-03-26,1,173,14
+EMP01862,Empleado_1862,Ground Staff,Tierra,BOG,Indefinido,2024-02-01,1994-05-07,1,161,0
+EMP01863,Empleado_1863,Tripulante Cabina Senior,Cabina,JFK,Indefinido,2023-09-06,1998-05-03,1,179,1
+EMP01864,Empleado_1864,Tripulante Cabina,Cabina,GRU,Indefinido,2023-06-03,1998-06-28,0,177,1
+EMP01865,Empleado_1865,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2019-01-30,1989-05-24,1,190,5
+EMP01866,Empleado_1866,Agente Check-in,Tierra,EZE,Indefinido,2024-07-21,1979-11-23,1,170,0
+EMP01867,Empleado_1867,Supervisor Operaciones,Tierra,SCL,Indefinido,2013-07-11,1998-09-20,1,183,11
+EMP01868,Empleado_1868,Ground Staff,Tierra,LIM,Indefinido,2022-07-06,1986-08-11,1,177,2
+EMP01869,Empleado_1869,Piloto Copiloto,Cockpit,LIM,Indefinido,2017-05-30,1994-08-28,0,175,7
+EMP01870,Empleado_1870,Agente Check-in,Tierra,SCL,Indefinido,2016-09-04,1979-10-09,0,160,8
+EMP01871,Empleado_1871,Tripulante Cabina Senior,Cabina,LIM,Plazo Fijo,2016-12-13,1999-03-08,1,178,8
+EMP01872,Empleado_1872,Supervisor Operaciones,Tierra,GRU,Indefinido,2023-01-03,1972-10-23,,162,1
+EMP01873,Empleado_1873,Tripulante Cabina,Cabina,GRU,Indefinido,2011-11-02,1982-09-23,1,162,13
+EMP01874,Empleado_1874,Agente Check-in,Tierra,LIM,Part-time,2015-02-14,1990-10-02,1,160,9
+EMP01875,Empleado_1875,Tripulante Cabina,Cabina,LIM,Indefinido,2021-07-09,1975-12-10,1,186,3
+EMP01876,Empleado_1876,Piloto Copiloto,Cockpit,SCL,Plazo Fijo,2016-01-20,1999-06-14,1,177,8
+EMP01877,Empleado_1877,Ground Staff,Tierra,LIM,Indefinido,2021-05-11,1979-08-14,1,170,3
+EMP01878,Empleado_1878,Piloto Copiloto,Cockpit,sao paulo,Indefinido,2017-05-01,1979-06-06,1,163,7
+EMP01879,Empleado_1879,Tripulante Cabina,Cabina,lima,Indefinido,2017-08-23,1997-01-03,1,172,7
+EMP01880,Empleado_1880,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2017-07-31,1978-05-18,,163,7
+EMP01881,Empleado_1881,Agente Check-in,Tierra,BOG,Honorarios,2015-10-26,1976-10-19,1,176,9
+EMP01882,Empleado_1882,Tripulante Cabina,Cabina,Santiago,Indefinido,2024-07-26,1986-08-27,1,160,0
+EMP01883,Empleado_1883,Piloto Comandante,Cockpit,SCL,Indefinido,2015-07-25,1998-09-27,1,187,9
+EMP01884,Empleado_1884,Piloto Copiloto,Cockpit,GRU,Part-time,2016-09-21,1979-10-09,0,179,8
+EMP01885,Empleado_1885,Agente Check-in,Tierra,BOG,Indefinido,2010-05-20,1980-06-21,1,165,14
+EMP01886,Empleado_1886,Agente Check-in,Tierra,SCL,Indefinido,2018-05-12,1979-12-29,1,190,6
+EMP01887,Empleado_1887,Ground Staff,Tierra,SCL,Indefinido,2020-07-13,1979-08-14,0,172,4
+EMP01888,Empleado_1888,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2011-07-07,1991-03-04,1,161,13
+EMP01889,Empleado_1889,Ground Staff,Tierra,SCL,Part-time,2015-11-01,1976-02-28,1,179,9
+EMP01890,Empleado_1890,Tripulante Cabina Senior,Cabina,MAD,Indefinido,2013-07-12,1981-01-07,1,168,11
+EMP01891,Empleado_1891,Tripulante Cabina Senior,Cabina,SCL,Part-time,2013-01-08,1991-12-07,1,188,11
+EMP01892,Empleado_1892,Administrativo,Admin,GRU,Indefinido,2018-01-12,1983-11-06,0,190,6
+EMP01893,Empleado_1893,Supervisor Operaciones,Tierra,SCL,Indefinido,2015-09-27,1996-04-06,1,179,9
+EMP01894,Empleado_1894,Tripulante Cabina,Cabina,BOG,Indefinido,2015-07-30,1981-07-02,0,190,9
+EMP01895,Empleado_1895,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2019-07-11,1990-11-27,1,176,5
+EMP01896,Empleado_1896,Supervisor Operaciones,Tierra,GRU,Indefinido,2020-11-02,1986-05-22,1,189,4
+EMP01897,Empleado_1897,Ground Staff,Tierra,MIA,Indefinido,2024-07-12,1986-12-30,1,174,0
+EMP01898,Empleado_1898,Administrativo,Admin,GRU,Plazo Fijo,2023-07-24,1984-06-02,1,167,1
+EMP01899,Empleado_1899,Piloto Copiloto,Cockpit,SCL,Part-time,2023-08-03,1991-02-15,1,169,1
+EMP01900,Empleado_1900,Piloto Copiloto,Cockpit,EZE,Indefinido,2017-09-28,1979-10-31,1,163,7
+EMP01901,Empleado_1901,Ground Staff,Tierra,bogota,Indefinido,2010-07-09,1996-05-05,1,170,14
+EMP01902,Empleado_1902,Ground Staff,Tierra,EZE,Plazo Fijo,2013-01-12,1976-02-23,1,188,11
+EMP01903,Empleado_1903,Piloto Comandante,Cockpit,GRU,Indefinido,2016-12-13,1987-09-16,1,184,8
+EMP01904,Empleado_1904,Ground Staff,Tierra,LIM,Indefinido,2020-06-23,1994-05-10,1,185,4
+EMP01905,Empleado_1905,Supervisor Operaciones,Tierra,lima,Indefinido,2013-05-01,1988-02-25,1,176,11
+EMP01906,Empleado_1906,Agente Check-in,Tierra,EZE,Part-time,2011-06-10,1980-07-24,1,188,13
+EMP01907,Empleado_1907,Tripulante Cabina Senior,Cabina,SCL,Plazo Fijo,2018-12-26,1985-11-19,1,171,6
+EMP01908,Empleado_1908,Tripulante Cabina Senior,Cabina,Santiago,Indefinido,2016-07-03,1991-08-13,1,179,8
+EMP01909,Empleado_1909,Agente Check-in,Tierra,bogota,Plazo Fijo,2012-05-30,1971-05-20,1,160,12
+EMP01910,Empleado_1910,Tripulante Cabina,Cabina,SCL,Indefinido,2016-01-30,1978-08-19,1,184,8
+EMP01911,Empleado_1911,Tripulante Cabina,Cabina,BOG,Indefinido,2024-01-22,1990-03-28,1,163,0
+EMP01912,Empleado_1912,Piloto Copiloto,Cockpit,SCL,Indefinido,2014-07-18,1975-09-18,1,175,10
+EMP01913,Empleado_1913,Tecnico Mantencion,Tierra,GRU,Indefinido,2023-02-24,1979-07-26,1,176,1
+EMP01914,Empleado_1914,Tecnico Mantencion,Tierra,EZE,Indefinido,2023-12-15,1983-03-04,1,188,1
+EMP01915,Empleado_1915,Ground Staff,Tierra,SCL,Indefinido,2015-10-16,1983-01-18,1,185,9
+EMP01916,Empleado_1916,Administrativo,Admin,GRU,Honorarios,2023-07-10,1995-06-18,1,171,1
+EMP01917,Empleado_1917,Tripulante Cabina,Cabina,LIM,Part-time,2017-04-12,1997-09-09,1,184,7
+EMP01918,Empleado_1918,Tripulante Cabina Senior,Cabina,GRU,Plazo Fijo,2022-07-12,1993-09-14,1,176,2
+EMP01919,Empleado_1919,Piloto Copiloto,Cockpit,EZE,Plazo Fijo,2016-12-06,1979-06-24,1,163,8
+EMP01920,Empleado_1920,Supervisor Operaciones,Tierra,GRU,Indefinido,2019-08-03,1972-11-15,0,162,5
+EMP01921,Empleado_1921,Agente Check-in,Tierra,LIM,Indefinido,2023-09-24,1993-11-22,0,161,1
+EMP01922,Empleado_1922,Piloto Copiloto,Cockpit,MAD,Indefinido,2018-03-02,1995-07-13,1,167,6
+EMP01923,Empleado_1923,Tecnico Mantencion,Tierra,EZE,Indefinido,2013-07-01,1991-09-14,1,160,11
+EMP01924,Empleado_1924,Tripulante Cabina,Cabina,EZE,Part-time,2018-08-07,1988-12-17,1,176,6
+EMP01925,Empleado_1925,Piloto Comandante,Cockpit,SCL,Indefinido,2023-07-27,1977-01-25,1,187,1
+EMP01926,Empleado_1926,Ground Staff,Tierra,MIA,Part-time,2017-04-09,1981-07-19,0,171,7
+EMP01927,Empleado_1927,Tripulante Cabina Senior,Cabina,EZE,Indefinido,2021-12-22,1986-08-09,1,170,3
+EMP01928,Empleado_1928,Piloto Comandante,Cockpit,Santiago,Indefinido,2017-03-18,1996-09-07,1,178,7
+EMP01929,Empleado_1929,Tripulante Cabina,Cabina,BOG,Indefinido,2024-03-20,1988-07-28,1,160,0
+EMP01930,Empleado_1930,Ground Staff,Tierra,SCL,Part-time,2011-10-27,1990-03-18,1,176,13
+EMP01931,Empleado_1931,Agente Check-in,Tierra,BOG,Indefinido,2021-01-07,1987-08-04,1,172,3
+EMP01932,Empleado_1932,Tripulante Cabina,Cabina,MIA,Part-time,2016-07-10,1987-08-06,1,160,8
+EMP01933,Empleado_1933,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2016-05-25,1984-12-07,1,181,8
+EMP01934,Empleado_1934,Tecnico Mantencion,Tierra,BOG,Plazo Fijo,2023-11-18,1972-08-01,0,167,1
+EMP01935,Empleado_1935,Piloto Comandante,Cockpit,BOG,Indefinido,2015-01-01,1973-05-16,1,166,9
+EMP01936,Empleado_1936,Agente Check-in,Tierra,BOG,Honorarios,2013-02-26,1984-07-11,0,171,11
+EMP01937,Empleado_1937,Agente Check-in,Tierra,SCL,Indefinido,2024-09-23,1980-03-29,1,166,0
+EMP01938,Empleado_1938,Tecnico Mantencion,Tierra,BOG,Indefinido,2018-07-08,1991-05-09,1,165,6
+EMP01939,Empleado_1939,Tripulante Cabina Senior,Cabina,SCL,Indefinido,2023-10-29,1971-06-05,1,189,1
+EMP01940,Empleado_1940,Ground Staff,Tierra,BOG,Part-time,2017-12-18,1983-06-12,1,181,7
+EMP01941,Empleado_1941,Administrativo,Admin,EZE,Plazo Fijo,2023-07-30,1997-05-12,1,169,1
+EMP01942,Empleado_1942,Ground Staff,Tierra,BOG,Indefinido,2017-06-08,1996-10-25,1,173,7
+EMP01943,Empleado_1943,Tripulante Cabina Senior,Cabina,BOG,Part-time,2019-08-12,1983-08-06,1,184,5
+EMP01944,Empleado_1944,Administrativo,Admin,BOG,Part-time,2016-07-04,1975-06-22,1,189,8
+EMP01945,Empleado_1945,Agente Check-in,Tierra,GRU,Indefinido,2022-01-03,1973-01-05,1,183,2
+EMP01946,Empleado_1946,Tripulante Cabina Senior,Cabina,MAD,Plazo Fijo,2015-12-17,1980-08-14,1,186,9
+EMP01947,Empleado_1947,Ground Staff,Tierra,SCL,Honorarios,2020-05-18,1988-09-28,1,160,4
+EMP01948,Empleado_1948,Tripulante Cabina Senior,Cabina,LIM,Indefinido,2019-12-09,1970-08-02,1,170,5
+EMP01949,Empleado_1949,Agente Check-in,Tierra,Santiago,Part-time,2019-11-20,1985-01-02,1,162,5
+EMP01950,Empleado_1950,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2017-03-19,1976-04-04,1,184,7
+EMP01951,Empleado_1951,Tecnico Mantencion,Tierra,EZE,Plazo Fijo,2015-12-19,1987-10-03,1,166,9
+EMP01952,Empleado_1952,Tripulante Cabina Senior,Cabina,LIM,Honorarios,2016-01-27,1980-04-20,0,174,8
+EMP01953,Empleado_1953,Ground Staff,Tierra,GRU,Part-time,2012-02-24,1988-10-26,1,173,12
+EMP01954,Empleado_1954,Tripulante Cabina,Cabina,GRU,Indefinido,2014-11-21,1970-03-28,1,182,10
+EMP01955,Empleado_1955,Tripulante Cabina,Cabina,LIM,Part-time,2012-07-13,1991-03-07,1,179,12
+EMP01956,Empleado_1956,Administrativo,Admin,SCL,Indefinido,2019-06-04,1993-11-10,1,186,5
+EMP01957,Empleado_1957,Agente Check-in,Tierra,SCL,Indefinido,2015-01-04,1984-06-27,1,160,9
+EMP01958,Empleado_1958,Tecnico Mantencion,Tierra,MAD,Plazo Fijo,2023-12-08,1978-02-03,1,162,1
+EMP01959,Empleado_1959,Piloto Comandante,Cockpit,BOG,Indefinido,2015-10-07,1996-02-11,1,,9
+EMP01960,Empleado_1960,Ground Staff,Tierra,SCL,Indefinido,2024-01-01,1996-04-20,1,179,0
+EMP01961,Empleado_1961,Supervisor Operaciones,Tierra,SCL,Indefinido,2024-10-25,1973-10-27,1,172,0
+EMP01962,Empleado_1962,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2018-07-27,1983-09-21,1,176,6
+EMP01963,Empleado_1963,Piloto Copiloto,Cockpit,SCL,Part-time,2016-01-05,1993-12-15,,171,8
+EMP01964,Empleado_1964,Piloto Comandante,Cockpit,LIM,Indefinido,2013-01-26,1998-12-08,1,168,11
+EMP01965,Empleado_1965,Tripulante Cabina,Cabina,SCL,Indefinido,2020-01-15,1990-07-11,1,163,4
+EMP01966,Empleado_1966,Tripulante Cabina Senior,Cabina,BOG,Indefinido,2021-12-24,1989-02-17,1,162,3
+EMP01967,Empleado_1967,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2017-04-25,1995-03-26,1,175,7
+EMP01968,Empleado_1968,Tecnico Mantencion,Tierra,MAD,Part-time,2017-07-01,1991-04-22,0,167,7
+EMP01969,Empleado_1969,Ground Staff,Tierra,LIM,Indefinido,2016-11-02,1992-05-03,1,175,8
+EMP01970,Empleado_1970,Ground Staff,Tierra,MIA,Indefinido,2022-01-10,1979-08-30,1,163,2
+EMP01971,Empleado_1971,Tripulante Cabina Senior,Cabina,EZE,Plazo Fijo,2010-10-16,1995-01-08,0,161,14
+EMP01972,Empleado_1972,Agente Check-in,Tierra,BOG,Indefinido,2012-10-11,1985-11-02,1,170,12
+EMP01973,Empleado_1973,Tripulante Cabina Senior,Cabina,GRU,Indefinido,2021-03-14,1990-02-28,1,169,3
+EMP01974,Empleado_1974,Piloto Copiloto,Cockpit,BOG,Indefinido,2015-10-13,1993-08-20,1,181,9
+EMP01975,Empleado_1975,Piloto Comandante,Cockpit,GRU,Indefinido,2013-06-18,1991-06-14,,168,11
+EMP01976,Empleado_1976,Piloto Copiloto,Cockpit,sao paulo,Indefinido,2024-12-09,1989-05-18,0,184,0
+EMP01977,Empleado_1977,Ground Staff,Tierra,GRU,Indefinido,2014-07-16,1972-11-03,1,169,10
+EMP01978,Empleado_1978,Piloto Copiloto,Cockpit,MIA,Indefinido,2024-04-15,1981-06-11,1,160,0
+EMP01979,Empleado_1979,Agente Check-in,Tierra,EZE,Part-time,2013-01-22,1977-03-01,1,180,11
+EMP01980,Empleado_1980,Agente Check-in,Tierra,SCL,Part-time,2018-07-01,1993-07-07,1,178,6
+EMP01981,Empleado_1981,Tripulante Cabina,Cabina,MIA,Honorarios,2016-07-04,1988-08-03,1,181,8
+EMP01982,Empleado_1982,Agente Check-in,Tierra,EZE,Plazo Fijo,2017-06-17,1978-12-30,1,169,7
+EMP01983,Empleado_1983,Piloto Comandante,Cockpit,BOG,Part-time,2024-08-25,1975-10-20,1,175,0
+EMP01984,Empleado_1984,Agente Check-in,Tierra,LIM,Part-time,2011-07-30,1987-08-04,1,162,13
+EMP01985,Empleado_1985,Piloto Copiloto,Cockpit,MIA,Indefinido,2024-08-17,1997-11-15,1,171,0
+EMP01986,Empleado_1986,Ground Staff,Tierra,LIM,Plazo Fijo,2014-11-27,1986-05-10,0,162,10
+EMP01987,Empleado_1987,Tripulante Cabina,Cabina,LIM,Indefinido,2023-11-24,1979-12-05,1,180,1
+EMP01988,Empleado_1988,Supervisor Operaciones,Tierra,GRU,Indefinido,2012-01-17,1992-08-17,1,172,12
+EMP01989,Empleado_1989,Piloto Comandante,Cockpit,GRU,Plazo Fijo,2013-09-21,1991-09-22,1,160,11
+EMP01990,Empleado_1990,Piloto Comandante,Cockpit,SCL,Indefinido,2017-01-24,1992-04-24,1,187,7
+EMP01991,Empleado_1991,Seguridad,Tierra,GRU,Plazo Fijo,2020-09-26,1999-12-31,0,168,4
+EMP01992,Empleado_1992,Supervisor Operaciones,Tierra,N/A,Part-time,2010-04-21,1988-02-05,1,165,14
+EMP01993,Empleado_1993,Tripulante Cabina Senior,Cabina,MIA,Indefinido,2020-07-06,1982-05-02,1,189,4
+EMP01994,Empleado_1994,Tripulante Cabina,Cabina,MAD,Indefinido,2012-07-09,1974-05-22,,188,12
+EMP01995,Empleado_1995,Seguridad,Tierra,BOG,Indefinido,2011-10-10,1989-12-13,1,182,13
+EMP01996,Empleado_1996,Tripulante Cabina,Cabina,MAD,Indefinido,2016-10-22,1990-11-05,1,180,8
+EMP01997,Empleado_1997,Tripulante Cabina,Cabina,BOG,Plazo Fijo,2022-11-20,1987-04-12,,179,2
+EMP01998,Empleado_1998,Ground Staff,Tierra,BOG,Indefinido,2024-01-04,1983-05-10,1,164,0
+EMP01999,Empleado_1999,Piloto Copiloto,Cockpit,BOG,Plazo Fijo,2012-07-19,1999-02-06,1,169,12
+EMP02000,Empleado_2000,Tripulante Cabina,Cabina,GRU,Plazo Fijo,2013-06-01,1984-11-07,1,185,11

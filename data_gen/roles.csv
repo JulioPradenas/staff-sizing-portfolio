@@ -1,0 +1,11 @@
+role_name,category,max_monthly_hours,min_rest_hours,requires_license,license_type,avg_training_days
+Piloto Comandante,Cockpit,100,12,1,ATPL,30
+Piloto Copiloto,Cockpit,100,12,1,CPL,25
+Tripulante Cabina Senior,Cabina,120,10,1,CSS,15
+Tripulante Cabina,Cabina,120,10,1,CAS,10
+Ground Staff,Tierra,190,8,0,,5
+Agente Check-in,Tierra,190,8,0,,3
+Supervisor Operaciones,Tierra,190,8,0,,7
+Tecnico Mantencion,Tierra,190,8,1,AME,20
+Administrativo,Admin,190,8,0,,2
+Seguridad,Tierra,190,8,0,,5

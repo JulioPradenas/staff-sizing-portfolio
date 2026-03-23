@@ -1,0 +1,1501 @@
+attrition_id,employee_id,base_code,role,category,exit_date,reason,seniority_years,contract_type,was_replaced
+ATT000001,EMP00808,SCL,Tecnico Mantencion,Tierra,2024-05-02,Despido,11,Part-time,1
+ATT000002,EMP00824,MIA,Supervisor Operaciones,Tierra,2023-09-11,Renuncia Voluntaria,13,Indefinido,0
+ATT000003,EMP01745,GRU,Tripulante Cabina,Cabina,2024-03-12,Termino Contrato,14,Indefinido,1
+ATT000004,EMP00270,SCL,Agente Check-in,Tierra,2022-01-07,Renuncia Voluntaria,4,Plazo Fijo,1
+ATT000005,EMP01103,JFK,Piloto Copiloto,Cockpit,2022-01-23,Jubilacion,11,Indefinido,0
+ATT000006,EMP01942,BOG,Ground Staff,Tierra,2024-05-21,Termino Contrato,15,Indefinido,1
+ATT000007,EMP01276,SCL,Tripulante Cabina Senior,Cabina,2024-07-01,Renuncia Voluntaria,7,Plazo Fijo,
+ATT000008,EMP01096,LIM,Tecnico Mantencion,Tierra,2024-10-10,Despido,11,Indefinido,1
+ATT000009,EMP01018,BOG,Ground Staff,Tierra,2024-01-20,Renuncia Voluntaria,6,Plazo Fijo,1
+ATT000010,EMP01602,BOG,Agente Check-in,Tierra,2022-01-21,Termino Contrato,13,Indefinido,1
+ATT000011,EMP01726,LIM,Agente Check-in,Tierra,2024-01-16,Renuncia Voluntaria,,Plazo Fijo,1
+ATT000012,EMP01075,EZE,Tripulante Cabina Senior,Cabina,2024-07-17,Termino Contrato,14,Indefinido,0
+ATT000013,EMP00154,GRU,Piloto Copiloto,Cockpit,2024-11-20,Renuncia Voluntaria,13,Part-time,1
+ATT000014,EMP00136,MIA,Ground Staff,Tierra,2022-01-28,Termino Contrato,0,Plazo Fijo,1
+ATT000015,EMP00230,GRU,Ground Staff,Tierra,2022-07-06,Termino Contrato,12,Indefinido,0
+ATT000016,EMP00794,BOG,Ground Staff,Tierra,2024-07-24,Renuncia Voluntaria,1,Indefinido,0
+ATT000017,EMP00731,MIA,Tripulante Cabina,Cabina,2024-05-17,Termino Contrato,12,Indefinido,1
+ATT000018,EMP00518,SCL,Tripulante Cabina Senior,Cabina,2022-07-15,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT000019,EMP00321,GRU,Tripulante Cabina,Cabina,2022-01-06,Termino Contrato,7,Indefinido,1
+ATT000020,EMP00709,SCL,Tripulante Cabina,Cabina,2022-02-03,Renuncia Voluntaria,8,Plazo Fijo,1
+ATT000021,EMP00693,GRU,Piloto Comandante,Cockpit,2024-04-21,Termino Contrato,12,Plazo Fijo,
+ATT000022,EMP01180,LIM,Administrativo,Admin,2024-09-17,Termino Contrato,13,Indefinido,1
+ATT000023,EMP00316,BOG,Agente Check-in,Tierra,2023-02-01,Renuncia Voluntaria,6,Part-time,
+ATT000024,EMP01946,BOG,Tripulante Cabina,Cabina,2024-01-15,Termino Contrato,10,Indefinido,1
+ATT000025,EMP00378,LIM,Supervisor Operaciones,Tierra,2022-04-24,Jubilacion,8,Honorarios,1
+ATT000026,EMP00533,LIM,Agente Check-in,Tierra,2023-12-14,Termino Contrato,14,Plazo Fijo,
+ATT000027,EMP00211,LIM,Agente Check-in,Tierra,2022-08-07,Renuncia Voluntaria,13,Plazo Fijo,1
+ATT000028,EMP00916,EZE,Tecnico Mantencion,Tierra,2023-11-07,Termino Contrato,5,Indefinido,1
+ATT000029,EMP00469,BOG,Ground Staff,Tierra,2024-09-15,Traslado Base,11,Indefinido,0
+ATT000030,EMP01430,LIM,Tripulante Cabina,Cabina,2024-10-06,Jubilacion,9,Indefinido,1
+ATT000031,EMP00240,MAD,Ground Staff,Tierra,2023-03-21,Renuncia Voluntaria,10,Plazo Fijo,
+ATT000032,EMP01524,GRU,Piloto Copiloto,Cockpit,2024-05-15,Despido,15,Indefinido,0
+ATT000033,EMP01913,LIM,Administrativo,Admin,2023-12-26,Renuncia Voluntaria,13,Plazo Fijo,0
+ATT000034,EMP01682,EZE,Ground Staff,Tierra,2022-02-22,Termino Contrato,1,Plazo Fijo,1
+ATT000035,EMP00632,GRU,Tripulante Cabina Senior,Cabina,2023-02-27,Despido,8,Indefinido,0
+ATT000036,EMP01787,GRU,Tripulante Cabina,Cabina,2023-12-08,Jubilacion,7,Indefinido,0
+ATT000037,EMP00852,MIA,Tripulante Cabina,Cabina,2024-08-12,Jubilacion,5,Indefinido,1
+ATT000038,EMP00638,GRU,Piloto Copiloto,Cockpit,2024-07-18,Renuncia Voluntaria,,Indefinido,0
+ATT000039,EMP00853,GRU,Supervisor Operaciones,Tierra,2022-01-04,Jubilacion,10,Indefinido,1
+ATT000040,EMP01287,MIA,Ground Staff,Tierra,2023-01-31,Despido,9,Plazo Fijo,1
+ATT000041,EMP01693,GRU,Ground Staff,Tierra,2022-01-16,Renuncia Voluntaria,1,Indefinido,1
+ATT000042,EMP00455,GRU,Tripulante Cabina Senior,Cabina,2024-01-22,Renuncia Voluntaria,2,Part-time,1
+ATT000043,EMP00686,GRU,Tripulante Cabina Senior,Cabina,2022-07-29,Despido,7,Part-time,1
+ATT000044,EMP01604,SCL,Supervisor Operaciones,Tierra,2024-07-15,Traslado Base,9,Indefinido,0
+ATT000045,EMP00094,GRU,Supervisor Operaciones,Tierra,2023-11-22,Renuncia Voluntaria,14,Indefinido,1
+ATT000046,EMP00151,EZE,Administrativo,Admin,2023-03-16,Renuncia Voluntaria,5,Plazo Fijo,1
+ATT000047,EMP01316,LIM,Agente Check-in,Tierra,2022-04-03,Renuncia Voluntaria,2,Part-time,0
+ATT000048,EMP00113,BOG,Tripulante Cabina Senior,Cabina,2022-03-20,Renuncia Voluntaria,,Indefinido,1
+ATT000049,EMP00132,LIM,Piloto Copiloto,Cockpit,2023-01-29,Renuncia Voluntaria,13,Part-time,1
+ATT000050,EMP00945,MIA,Piloto Copiloto,Cockpit,2023-01-29,Traslado Base,14,Part-time,1
+ATT000051,EMP01584,GRU,Tripulante Cabina,Cabina,2022-06-23,Renuncia Voluntaria,3,Indefinido,
+ATT000052,EMP00377,SCL,Piloto Copiloto,Cockpit,2024-07-06,Termino Contrato,6,Plazo Fijo,1
+ATT000053,EMP01207,MAD,Tripulante Cabina,Cabina,2024-01-26,Renuncia Voluntaria,10,Indefinido,1
+ATT000054,EMP01272,BOG,Tripulante Cabina,Cabina,2023-09-28,Jubilacion,11,Plazo Fijo,1
+ATT000055,EMP00592,GRU,Tripulante Cabina Senior,Cabina,2022-03-28,Termino Contrato,10,Part-time,0
+ATT000056,EMP01906,LIM,Ground Staff,Tierra,2024-07-27,Renuncia Voluntaria,3,Indefinido,1
+ATT000057,EMP00203,EZE,Supervisor Operaciones,Tierra,2024-07-14,Despido,3,Plazo Fijo,
+ATT000058,EMP01265,BOG,Agente Check-in,Tierra,2024-07-10,Jubilacion,3,Indefinido,0
+ATT000059,EMP01013,GRU,Supervisor Operaciones,Tierra,2023-09-05,Renuncia Voluntaria,15,Part-time,1
+ATT000060,EMP01315,GRU,Ground Staff,Tierra,2023-07-08,Renuncia Voluntaria,7,Indefinido,1
+ATT000061,EMP00113,MIA,Tecnico Mantencion,Tierra,2024-10-15,Termino Contrato,5,Indefinido,1
+ATT000062,EMP00113,LIM,Tripulante Cabina Senior,Cabina,2024-02-02,Traslado Base,,Plazo Fijo,1
+ATT000063,EMP00848,BOG,Supervisor Operaciones,Tierra,2022-01-18,Jubilacion,4,Indefinido,
+ATT000064,EMP00266,MIA,Piloto Copiloto,Cockpit,2024-01-10,Jubilacion,3,Indefinido,1
+ATT000065,EMP01279,GRU,Tripulante Cabina Senior,Cabina,2022-07-20,Despido,4,Indefinido,1
+ATT000066,EMP01397,EZE,Agente Check-in,Tierra,2022-03-28,Renuncia Voluntaria,2,Indefinido,0
+ATT000067,EMP01190,GRU,Tripulante Cabina,Cabina,2022-10-21,Jubilacion,9,Plazo Fijo,1
+ATT000068,EMP01355,SCL,Piloto Copiloto,Cockpit,2024-01-09,Termino Contrato,14,Indefinido,1
+ATT000069,EMP01297,GRU,Piloto Comandante,Cockpit,2024-07-07,Termino Contrato,13,Indefinido,1
+ATT000070,EMP01959,BOG,Tripulante Cabina Senior,Cabina,2024-07-20,Jubilacion,13,Plazo Fijo,1
+ATT000071,EMP00998,BOG,Administrativo,Admin,2022-11-08,Despido,2,Indefinido,0
+ATT000072,EMP00787,GRU,Tripulante Cabina Senior,Cabina,2024-08-18,Renuncia Voluntaria,8,Part-time,1
+ATT000073,EMP01109,MIA,Tripulante Cabina,Cabina,2024-07-29,Renuncia Voluntaria,6,Plazo Fijo,1
+ATT000074,EMP01079,MIA,Tripulante Cabina Senior,Cabina,2024-04-23,Termino Contrato,11,Indefinido,1
+ATT000075,EMP00965,SCL,Tripulante Cabina,Cabina,2024-04-08,Renuncia Voluntaria,4,Honorarios,1
+ATT000076,EMP01613,MAD,Tripulante Cabina,Cabina,2024-04-30,Renuncia Voluntaria,15,Indefinido,0
+ATT000077,EMP01297,SCL,Administrativo,Admin,2022-09-06,Despido,2,Indefinido,1
+ATT000078,EMP01664,GRU,Tripulante Cabina,Cabina,2022-07-07,Termino Contrato,4,Indefinido,0
+ATT000079,EMP00987,GRU,Piloto Comandante,Cockpit,2022-02-07,Despido,15,Part-time,1
+ATT000080,EMP01332,SCL,Ground Staff,Tierra,2023-01-29,Renuncia Voluntaria,13,Indefinido,1
+ATT000081,EMP01568,SCL,Tecnico Mantencion,Tierra,2022-01-20,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000082,EMP00341,MIA,Piloto Copiloto,Cockpit,2024-07-09,Despido,6,Indefinido,1
+ATT000083,EMP01751,SCL,Ground Staff,Tierra,2022-06-20,Renuncia Voluntaria,12,Indefinido,1
+ATT000084,EMP00779,GRU,Piloto Copiloto,Cockpit,2023-07-19,Renuncia Voluntaria,2,Plazo Fijo,0
+ATT000085,EMP01827,MIA,Ground Staff,Tierra,2024-11-04,Renuncia Voluntaria,4,Indefinido,
+ATT000086,EMP01765,LIM,Tripulante Cabina,Cabina,2023-07-06,Renuncia Voluntaria,14,Indefinido,1
+ATT000087,EMP01186,LIM,Piloto Comandante,Cockpit,2024-09-21,Jubilacion,4,Plazo Fijo,1
+ATT000088,EMP00952,BOG,Ground Staff,Tierra,2023-07-18,Renuncia Voluntaria,12,Honorarios,1
+ATT000089,EMP01437,LIM,Tripulante Cabina,Cabina,2024-06-26,Renuncia Voluntaria,2,Part-time,0
+ATT000090,EMP00123,SCL,Tripulante Cabina,Cabina,2024-01-15,Despido,4,Part-time,1
+ATT000091,EMP00340,BOG,Agente Check-in,Tierra,2022-02-11,Renuncia Voluntaria,8,Plazo Fijo,1
+ATT000092,EMP01347,GRU,Tripulante Cabina Senior,Cabina,2023-04-04,Renuncia Voluntaria,1,Plazo Fijo,0
+ATT000093,EMP00300,BOG,Seguridad,Tierra,2024-09-05,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT000094,EMP01442,LIM,Tripulante Cabina,Cabina,2022-10-04,Despido,7,Indefinido,1
+ATT000095,EMP01273,SCL,Ground Staff,Tierra,2023-01-09,Jubilacion,3,Indefinido,
+ATT000096,EMP01321,EZE,Piloto Copiloto,Cockpit,2024-01-30,Renuncia Voluntaria,5,Indefinido,1
+ATT000097,EMP01496,SCL,Tripulante Cabina Senior,Cabina,2024-12-01,Termino Contrato,1,Part-time,1
+ATT000098,EMP00791,GRU,Supervisor Operaciones,Tierra,2023-05-31,Renuncia Voluntaria,10,Plazo Fijo,0
+ATT000099,EMP01685,MAD,Tripulante Cabina,Cabina,2023-11-30,Termino Contrato,13,Indefinido,0
+ATT000100,EMP00161,GRU,Tecnico Mantencion,Tierra,2024-01-01,Termino Contrato,7,Part-time,1
+ATT000101,EMP00392,MIA,Supervisor Operaciones,Tierra,2024-08-26,Renuncia Voluntaria,15,Indefinido,0
+ATT000102,EMP00815,SCL,Agente Check-in,Tierra,2024-03-14,Jubilacion,7,Plazo Fijo,1
+ATT000103,EMP01393,GRU,Tripulante Cabina,Cabina,2022-04-05,Renuncia Voluntaria,8,Indefinido,1
+ATT000104,EMP00376,SCL,Supervisor Operaciones,Tierra,2022-04-21,Jubilacion,,Plazo Fijo,1
+ATT000105,EMP01857,GRU,Supervisor Operaciones,Tierra,2022-11-12,Renuncia Voluntaria,7,Plazo Fijo,0
+ATT000106,EMP00369,LIM,Piloto Copiloto,Cockpit,2023-08-28,Renuncia Voluntaria,10,Indefinido,1
+ATT000107,EMP01438,GRU,Administrativo,Admin,2023-07-05,Traslado Base,6,Part-time,1
+ATT000108,EMP00751,JFK,Ground Staff,Tierra,2022-08-22,Despido,11,Indefinido,1
+ATT000109,EMP01966,MIA,Ground Staff,Tierra,2023-07-10,Renuncia Voluntaria,12,Part-time,1
+ATT000110,EMP01473,BOG,Agente Check-in,Tierra,2023-05-22,Renuncia Voluntaria,12,Indefinido,1
+ATT000111,EMP01964,EZE,Piloto Copiloto,Cockpit,2022-01-11,Traslado Base,15,Indefinido,0
+ATT000112,EMP01309,SCL,Tripulante Cabina Senior,Cabina,2023-05-18,Jubilacion,5,Plazo Fijo,0
+ATT000113,EMP01975,EZE,Tripulante Cabina Senior,Cabina,2023-07-01,Termino Contrato,4,Plazo Fijo,1
+ATT000114,EMP00104,MIA,Agente Check-in,Tierra,2022-01-28,Despido,6,Indefinido,0
+ATT000115,EMP00725,EZE,Ground Staff,Tierra,2024-06-22,Renuncia Voluntaria,8,Plazo Fijo,1
+ATT000116,EMP00424,GRU,Agente Check-in,Tierra,2022-10-22,Despido,,Indefinido,1
+ATT000117,EMP00740,GRU,Tripulante Cabina Senior,Cabina,2024-01-23,Termino Contrato,9,Honorarios,0
+ATT000118,EMP00635,LIM,Supervisor Operaciones,Tierra,2023-07-23,Renuncia Voluntaria,3,Plazo Fijo,0
+ATT000119,EMP01526,SCL,Agente Check-in,Tierra,2022-12-20,Renuncia Voluntaria,5,Part-time,1
+ATT000120,EMP01256,MIA,Tripulante Cabina Senior,Cabina,2023-09-24,Termino Contrato,8,Indefinido,1
+ATT000121,EMP01502,GRU,Piloto Copiloto,Cockpit,2022-02-27,Renuncia Voluntaria,7,Indefinido,0
+ATT000122,EMP00737,GRU,Tecnico Mantencion,Tierra,2024-07-07,Termino Contrato,10,Plazo Fijo,0
+ATT000123,EMP00514,SCL,Piloto Copiloto,Cockpit,2022-03-31,Renuncia Voluntaria,0,Indefinido,1
+ATT000124,EMP00990,GRU,Tripulante Cabina,Cabina,2023-10-15,Termino Contrato,12,Indefinido,1
+ATT000125,EMP01065,BOG,Tripulante Cabina,Cabina,2024-02-27,Renuncia Voluntaria,2,Indefinido,1
+ATT000126,EMP01191,GRU,Tripulante Cabina Senior,Cabina,2022-01-21,Despido,13,Plazo Fijo,0
+ATT000127,EMP00538,BOG,Piloto Comandante,Cockpit,2023-12-14,Termino Contrato,13,Plazo Fijo,
+ATT000128,EMP00579,SCL,Tripulante Cabina Senior,Cabina,2022-06-05,Termino Contrato,10,Plazo Fijo,1
+ATT000129,EMP00996,GRU,Ground Staff,Tierra,2023-01-24,Renuncia Voluntaria,14,Indefinido,1
+ATT000130,EMP01119,MIA,Ground Staff,Tierra,2024-05-13,Renuncia Voluntaria,10,Indefinido,1
+ATT000131,EMP00489,GRU,Piloto Comandante,Cockpit,2023-06-01,Termino Contrato,10,Indefinido,0
+ATT000132,EMP01471,GRU,Piloto Comandante,Cockpit,2023-10-27,Traslado Base,1,Indefinido,1
+ATT000133,EMP01936,GRU,Piloto Copiloto,Cockpit,2024-01-19,Renuncia Voluntaria,11,Indefinido,0
+ATT000134,EMP01827,MIA,Tecnico Mantencion,Tierra,2022-01-10,Despido,4,Honorarios,1
+ATT000135,EMP00943,LIM,Ground Staff,Tierra,2024-04-08,Termino Contrato,5,Indefinido,1
+ATT000136,EMP00559,SCL,Agente Check-in,Tierra,2022-08-05,Termino Contrato,3,Plazo Fijo,0
+ATT000137,EMP00640,BOG,Agente Check-in,Tierra,2023-01-30,Traslado Base,14,Plazo Fijo,1
+ATT000138,EMP01085,BOG,Agente Check-in,Tierra,2024-07-09,Jubilacion,14,Indefinido,1
+ATT000139,EMP01062,GRU,Tripulante Cabina Senior,Cabina,2022-01-24,Renuncia Voluntaria,13,Indefinido,1
+ATT000140,EMP00214,EZE,Supervisor Operaciones,Tierra,2022-06-30,Jubilacion,12,Indefinido,1
+ATT000141,EMP00967,SCL,Tripulante Cabina,Cabina,2023-06-02,Renuncia Voluntaria,9,Indefinido,
+ATT000142,EMP00310,LIM,Ground Staff,Tierra,2023-01-04,Traslado Base,6,Indefinido,1
+ATT000143,EMP00187,SCL,Ground Staff,Tierra,2022-01-24,Renuncia Voluntaria,3,Indefinido,1
+ATT000144,EMP00207,SCL,Tripulante Cabina Senior,Cabina,2024-02-20,Despido,12,Indefinido,1
+ATT000145,EMP01570,JFK,Ground Staff,Tierra,2022-01-02,Traslado Base,4,Indefinido,1
+ATT000146,EMP01731,BOG,Agente Check-in,Tierra,2022-07-19,Traslado Base,2,Plazo Fijo,
+ATT000147,EMP01217,EZE,Supervisor Operaciones,Tierra,2022-07-12,Jubilacion,7,Part-time,1
+ATT000148,EMP00967,EZE,Tecnico Mantencion,Tierra,2023-06-14,Despido,3,Indefinido,1
+ATT000149,EMP00294,BOG,Tripulante Cabina,Cabina,2023-04-27,Renuncia Voluntaria,,Indefinido,1
+ATT000150,EMP00421,LIM,Piloto Copiloto,Cockpit,2024-01-23,Termino Contrato,6,Indefinido,
+ATT000151,EMP01316,LIM,Tripulante Cabina Senior,Cabina,2023-06-18,Traslado Base,3,Plazo Fijo,0
+ATT000152,EMP01435,LIM,Piloto Copiloto,Cockpit,2024-01-25,Jubilacion,2,Indefinido,0
+ATT000153,EMP00033,GRU,Tripulante Cabina,Cabina,2023-08-14,Jubilacion,0,Indefinido,1
+ATT000154,EMP00322,GRU,Ground Staff,Tierra,2022-08-19,Termino Contrato,0,Plazo Fijo,1
+ATT000155,EMP00882,GRU,Tripulante Cabina,Cabina,2023-09-26,Termino Contrato,10,Indefinido,1
+ATT000156,EMP00096,SCL,Tripulante Cabina,Cabina,2024-02-24,Renuncia Voluntaria,15,Indefinido,1
+ATT000157,EMP00645,LIM,Agente Check-in,Tierra,2024-05-27,Termino Contrato,0,Indefinido,1
+ATT000158,EMP01737,BOG,Seguridad,Tierra,2023-07-28,Jubilacion,14,Plazo Fijo,1
+ATT000159,EMP01174,SCL,Piloto Copiloto,Cockpit,2023-06-18,Jubilacion,13,Indefinido,1
+ATT000160,EMP00239,GRU,Seguridad,Tierra,2024-09-12,Traslado Base,9,Indefinido,0
+ATT000161,EMP00103,SCL,Tripulante Cabina,Cabina,2023-05-20,Termino Contrato,8,Plazo Fijo,0
+ATT000162,EMP00475,MIA,Ground Staff,Tierra,2023-03-20,Termino Contrato,14,Plazo Fijo,0
+ATT000163,EMP00001,BOG,Ground Staff,Tierra,2023-09-27,Jubilacion,5,Plazo Fijo,0
+ATT000164,EMP01026,GRU,Tripulante Cabina Senior,Cabina,2023-07-01,Termino Contrato,4,Plazo Fijo,1
+ATT000165,EMP00739,LIM,Agente Check-in,Tierra,2024-01-06,Renuncia Voluntaria,7,Part-time,0
+ATT000166,EMP01354,SCL,Tripulante Cabina Senior,Cabina,2024-07-06,Despido,14,Part-time,1
+ATT000167,EMP01197,GRU,Tripulante Cabina,Cabina,2024-09-09,Despido,13,Indefinido,0
+ATT000168,EMP01297,SCL,Tripulante Cabina Senior,Cabina,2022-01-07,Termino Contrato,10,Indefinido,1
+ATT000169,EMP01052,SCL,Seguridad,Tierra,2024-04-01,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000170,EMP00236,MIA,Piloto Comandante,Cockpit,2022-11-16,Renuncia Voluntaria,6,Part-time,
+ATT000171,EMP01803,GRU,Tripulante Cabina,Cabina,2024-01-26,Renuncia Voluntaria,7,Plazo Fijo,1
+ATT000172,EMP01254,MAD,Ground Staff,Tierra,2022-01-23,Traslado Base,0,Part-time,0
+ATT000173,EMP01312,SCL,Supervisor Operaciones,Tierra,2024-09-18,Jubilacion,12,Part-time,0
+ATT000174,EMP01803,EZE,Piloto Copiloto,Cockpit,2024-06-10,Jubilacion,4,Part-time,0
+ATT000175,EMP00273,GRU,Agente Check-in,Tierra,2024-03-07,Renuncia Voluntaria,12,Indefinido,1
+ATT000176,EMP01696,EZE,Tripulante Cabina,Cabina,2022-02-16,Despido,14,Indefinido,1
+ATT000177,EMP01065,GRU,Tripulante Cabina Senior,Cabina,2022-12-29,Despido,8,Part-time,1
+ATT000178,EMP01494,SCL,Tripulante Cabina,Cabina,2022-10-07,Jubilacion,12,Indefinido,1
+ATT000179,EMP00302,GRU,Tripulante Cabina,Cabina,2024-10-03,Jubilacion,7,Indefinido,1
+ATT000180,EMP00237,GRU,Agente Check-in,Tierra,2024-12-22,Termino Contrato,8,Indefinido,1
+ATT000181,EMP00448,BOG,Agente Check-in,Tierra,2022-03-20,Termino Contrato,6,Part-time,0
+ATT000182,EMP00006,SCL,Agente Check-in,Tierra,2022-06-28,Renuncia Voluntaria,10,Plazo Fijo,0
+ATT000183,EMP00421,SCL,Agente Check-in,Tierra,2023-09-19,Termino Contrato,4,Plazo Fijo,0
+ATT000184,EMP00464,LIM,Ground Staff,Tierra,2023-08-21,Termino Contrato,8,Part-time,1
+ATT000185,EMP00430,EZE,Tripulante Cabina,Cabina,2024-02-19,Renuncia Voluntaria,5,Indefinido,1
+ATT000186,EMP01638,BOG,Supervisor Operaciones,Tierra,2022-03-15,Traslado Base,5,Indefinido,1
+ATT000187,EMP01713,GRU,Ground Staff,Tierra,2022-08-12,Despido,6,Indefinido,1
+ATT000188,EMP01127,GRU,Ground Staff,Tierra,2024-02-26,Renuncia Voluntaria,12,Indefinido,1
+ATT000189,EMP00380,EZE,Tripulante Cabina,Cabina,2024-02-03,Despido,11,Part-time,1
+ATT000190,EMP00177,EZE,Agente Check-in,Tierra,2022-11-12,Renuncia Voluntaria,7,Plazo Fijo,
+ATT000191,EMP01526,LIM,Tecnico Mantencion,Tierra,2022-05-24,Traslado Base,10,Plazo Fijo,0
+ATT000192,EMP01477,EZE,Ground Staff,Tierra,2024-07-05,Renuncia Voluntaria,7,Indefinido,1
+ATT000193,EMP01340,GRU,Piloto Comandante,Cockpit,2024-07-04,Renuncia Voluntaria,5,Indefinido,1
+ATT000194,EMP00412,MIA,Tripulante Cabina,Cabina,2022-01-09,Renuncia Voluntaria,7,Plazo Fijo,0
+ATT000195,EMP01604,GRU,Tripulante Cabina Senior,Cabina,2023-10-14,Renuncia Voluntaria,4,Indefinido,0
+ATT000196,EMP00714,JFK,Piloto Copiloto,Cockpit,2024-06-09,Despido,11,Plazo Fijo,1
+ATT000197,EMP01171,BOG,Piloto Copiloto,Cockpit,2022-01-28,Jubilacion,,Indefinido,1
+ATT000198,EMP00736,SCL,Tripulante Cabina,Cabina,2022-03-24,Termino Contrato,11,Indefinido,1
+ATT000199,EMP00258,SCL,Tripulante Cabina Senior,Cabina,2023-10-30,Termino Contrato,13,Indefinido,0
+ATT000200,EMP00063,JFK,Tripulante Cabina Senior,Cabina,2023-06-10,Renuncia Voluntaria,9,Plazo Fijo,0
+ATT000201,EMP00245,BOG,Piloto Copiloto,Cockpit,2024-07-15,Jubilacion,6,Part-time,1
+ATT000202,EMP01038,BOG,Seguridad,Tierra,2022-08-14,Renuncia Voluntaria,3,Part-time,1
+ATT000203,EMP01520,SCL,Tripulante Cabina Senior,Cabina,2024-04-20,Jubilacion,4,Indefinido,0
+ATT000204,EMP01001,SCL,Tripulante Cabina Senior,Cabina,2023-07-23,Renuncia Voluntaria,15,Indefinido,1
+ATT000205,EMP00385,EZE,Tripulante Cabina Senior,Cabina,2023-06-14,Traslado Base,13,Indefinido,0
+ATT000206,EMP01185,LIM,Piloto Copiloto,Cockpit,2024-11-14,Termino Contrato,0,Indefinido,
+ATT000207,EMP00857,BOG,Tripulante Cabina Senior,Cabina,2024-04-15,Renuncia Voluntaria,13,Indefinido,0
+ATT000208,EMP01301,SCL,Tripulante Cabina,Cabina,2023-12-30,Renuncia Voluntaria,3,Indefinido,1
+ATT000209,EMP00927,SCL,Supervisor Operaciones,Tierra,2023-02-22,Jubilacion,8,Indefinido,0
+ATT000210,EMP01411,SCL,Tripulante Cabina,Cabina,2023-07-26,Renuncia Voluntaria,6,Indefinido,0
+ATT000211,EMP01019,EZE,Ground Staff,Tierra,2023-03-29,Despido,3,Indefinido,0
+ATT000212,EMP01114,SCL,Ground Staff,Tierra,2023-07-06,Renuncia Voluntaria,5,Indefinido,0
+ATT000213,EMP01311,GRU,Tripulante Cabina,Cabina,2024-07-21,Renuncia Voluntaria,3,Honorarios,1
+ATT000214,EMP00958,SCL,Tripulante Cabina,Cabina,2024-12-18,Traslado Base,4,Indefinido,1
+ATT000215,EMP00565,JFK,Supervisor Operaciones,Tierra,2023-01-28,Renuncia Voluntaria,3,Indefinido,1
+ATT000216,EMP01691,SCL,Ground Staff,Tierra,2023-02-13,Termino Contrato,10,Indefinido,1
+ATT000217,EMP00383,SCL,Tripulante Cabina,Cabina,2022-09-21,Renuncia Voluntaria,10,Indefinido,1
+ATT000218,EMP00230,GRU,Tripulante Cabina,Cabina,2022-01-07,Termino Contrato,12,Part-time,0
+ATT000219,EMP01151,LIM,Tripulante Cabina,Cabina,2024-11-03,Despido,6,Indefinido,1
+ATT000220,EMP00630,SCL,Tripulante Cabina Senior,Cabina,2022-07-07,Termino Contrato,6,Indefinido,0
+ATT000221,EMP00701,GRU,Piloto Comandante,Cockpit,2024-09-11,Renuncia Voluntaria,,Honorarios,1
+ATT000222,EMP00774,BOG,Tecnico Mantencion,Tierra,2022-10-02,Renuncia Voluntaria,4,Indefinido,1
+ATT000223,EMP00384,MAD,Piloto Copiloto,Cockpit,2024-07-06,Renuncia Voluntaria,14,Plazo Fijo,0
+ATT000224,EMP01374,BOG,Supervisor Operaciones,Tierra,2024-07-22,Jubilacion,12,Indefinido,1
+ATT000225,EMP01171,SCL,Piloto Copiloto,Cockpit,2023-11-08,Renuncia Voluntaria,13,Indefinido,1
+ATT000226,EMP00652,GRU,Tripulante Cabina Senior,Cabina,2022-07-09,Renuncia Voluntaria,14,Indefinido,1
+ATT000227,EMP00601,SCL,Piloto Copiloto,Cockpit,2022-06-10,Despido,14,Indefinido,1
+ATT000228,EMP01956,GRU,Ground Staff,Tierra,2024-05-30,Termino Contrato,0,Indefinido,1
+ATT000229,EMP01850,lima,Agente Check-in,Tierra,2023-08-17,Renuncia Voluntaria,10,Indefinido,1
+ATT000230,EMP01880,SCL,Ground Staff,Tierra,2022-07-03,Termino Contrato,15,Indefinido,1
+ATT000231,EMP01149,GRU,Agente Check-in,Tierra,2022-02-20,Jubilacion,13,Indefinido,1
+ATT000232,EMP01757,SCL,Agente Check-in,Tierra,2024-01-05,Termino Contrato,2,Indefinido,0
+ATT000233,EMP01618,BOG,Agente Check-in,Tierra,2023-05-01,Despido,10,Indefinido,1
+ATT000234,EMP00857,EZE,Administrativo,Admin,2022-01-13,Renuncia Voluntaria,15,Indefinido,1
+ATT000235,EMP01199,SCL,Piloto Comandante,Cockpit,2024-12-18,Jubilacion,0,Plazo Fijo,0
+ATT000236,EMP01414,SCL,Piloto Comandante,Cockpit,2022-06-28,Renuncia Voluntaria,14,Indefinido,0
+ATT000237,EMP00706,GRU,Piloto Copiloto,Cockpit,2023-01-19,Traslado Base,4,Indefinido,1
+ATT000238,EMP01769,GRU,Piloto Copiloto,Cockpit,2022-01-29,Renuncia Voluntaria,7,Indefinido,1
+ATT000239,EMP01549,BOG,Agente Check-in,Tierra,2023-07-13,Renuncia Voluntaria,0,Plazo Fijo,1
+ATT000240,EMP00640,LIM,Ground Staff,Tierra,2022-11-08,Renuncia Voluntaria,3,Honorarios,0
+ATT000241,EMP00654,JFK,Tripulante Cabina,Cabina,2024-07-21,Renuncia Voluntaria,6,Indefinido,0
+ATT000242,EMP00832,EZE,Agente Check-in,Tierra,2022-08-03,Renuncia Voluntaria,2,Indefinido,1
+ATT000243,EMP01109,MAD,Tripulante Cabina,Cabina,2022-08-28,Termino Contrato,,Indefinido,1
+ATT000244,EMP01419,LIM,Administrativo,Admin,2023-09-01,Traslado Base,11,Part-time,1
+ATT000245,EMP01909,EZE,Seguridad,Tierra,2023-03-09,Renuncia Voluntaria,10,Indefinido,1
+ATT000246,EMP01942,EZE,Tecnico Mantencion,Tierra,2022-02-18,Renuncia Voluntaria,1,Indefinido,1
+ATT000247,EMP01220,BOG,Supervisor Operaciones,Tierra,2024-07-31,Jubilacion,1,Indefinido,1
+ATT000248,EMP00373,GRU,Agente Check-in,Tierra,2024-01-24,Termino Contrato,0,Indefinido,1
+ATT000249,EMP00826,EZE,Tripulante Cabina,Cabina,2024-07-02,Termino Contrato,7,Indefinido,1
+ATT000250,EMP00520,GRU,Administrativo,Admin,2024-09-09,Renuncia Voluntaria,,Plazo Fijo,0
+ATT000251,EMP00150,LIM,Tripulante Cabina Senior,Cabina,2023-07-10,Renuncia Voluntaria,12,Honorarios,0
+ATT000252,EMP00385,SCL,Tripulante Cabina,Cabina,2022-04-18,Renuncia Voluntaria,15,Indefinido,1
+ATT000253,EMP01117,GRU,Administrativo,Admin,2024-07-13,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000254,EMP01568,SCL,Tripulante Cabina Senior,Cabina,2023-07-31,Renuncia Voluntaria,6,Indefinido,0
+ATT000255,EMP00885,EZE,Piloto Copiloto,Cockpit,2024-01-02,Termino Contrato,,Plazo Fijo,0
+ATT000256,EMP01590,MIA,Ground Staff,Tierra,2023-09-12,Renuncia Voluntaria,8,Honorarios,1
+ATT000257,EMP00933,SCL,Piloto Comandante,Cockpit,2024-10-24,Despido,11,Part-time,
+ATT000258,EMP00916,MIA,Piloto Copiloto,Cockpit,2023-07-26,Renuncia Voluntaria,14,Part-time,1
+ATT000259,EMP01216,SCL,Tripulante Cabina Senior,Cabina,2023-11-08,Renuncia Voluntaria,3,Indefinido,0
+ATT000260,EMP00943,MAD,Piloto Comandante,Cockpit,2023-10-18,Renuncia Voluntaria,3,Indefinido,0
+ATT000261,EMP01282,BOG,Agente Check-in,Tierra,2023-02-13,Renuncia Voluntaria,1,Indefinido,0
+ATT000262,EMP00503,SCL,Tripulante Cabina,Cabina,2022-04-28,Traslado Base,1,Indefinido,1
+ATT000263,EMP00202,BOG,Administrativo,Admin,2024-12-07,Termino Contrato,11,Plazo Fijo,0
+ATT000264,EMP01837,LIM,Ground Staff,Tierra,2022-10-25,Termino Contrato,12,Indefinido,1
+ATT000265,EMP01297,MIA,Ground Staff,Tierra,2023-09-10,Traslado Base,4,Part-time,1
+ATT000266,EMP00761,LIM,Piloto Copiloto,Cockpit,2024-07-25,Despido,3,Plazo Fijo,1
+ATT000267,EMP00213,GRU,Tripulante Cabina Senior,Cabina,2023-08-04,Jubilacion,10,Indefinido,0
+ATT000268,EMP00962,SCL,Piloto Copiloto,Cockpit,2022-01-12,Despido,13,Indefinido,1
+ATT000269,EMP00002,MAD,Tripulante Cabina Senior,Cabina,2023-08-22,Despido,9,Indefinido,1
+ATT000270,EMP01446,GRU,Agente Check-in,Tierra,2023-07-29,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000271,EMP01964,GRU,Tripulante Cabina Senior,Cabina,2024-05-18,Termino Contrato,,Indefinido,1
+ATT000272,EMP01613,GRU,Tripulante Cabina,Cabina,2024-03-23,Termino Contrato,5,Indefinido,1
+ATT000273,EMP01551,GRU,Agente Check-in,Tierra,2024-01-21,Renuncia Voluntaria,6,Indefinido,0
+ATT000274,EMP00031,SCL,Administrativo,Admin,2024-04-28,Renuncia Voluntaria,1,Part-time,1
+ATT000275,EMP01422,SCL,Tripulante Cabina,Cabina,2024-01-01,Renuncia Voluntaria,3,Indefinido,0
+ATT000276,EMP01240,GRU,Piloto Comandante,Cockpit,2024-09-25,Renuncia Voluntaria,13,Honorarios,1
+ATT000277,EMP01402,SCL,Piloto Comandante,Cockpit,2023-07-02,Renuncia Voluntaria,8,Indefinido,1
+ATT000278,EMP01480,EZE,Tripulante Cabina Senior,Cabina,2024-05-12,Renuncia Voluntaria,14,Indefinido,1
+ATT000279,EMP01812,EZE,Piloto Copiloto,Cockpit,2024-03-27,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT000280,EMP01116,BOG,Ground Staff,Tierra,2022-01-17,Renuncia Voluntaria,7,Indefinido,1
+ATT000281,EMP01148,GRU,Tripulante Cabina Senior,Cabina,2023-05-27,Traslado Base,8,Plazo Fijo,0
+ATT000282,EMP01646,BOG,Piloto Copiloto,Cockpit,2022-06-18,Termino Contrato,7,Part-time,1
+ATT000283,EMP00041,BOG,Ground Staff,Tierra,2024-03-27,Despido,12,Honorarios,0
+ATT000284,EMP01855,BOG,Piloto Copiloto,Cockpit,2024-01-17,Renuncia Voluntaria,4,Indefinido,0
+ATT000285,EMP01891,MIA,Piloto Comandante,Cockpit,2022-06-13,Traslado Base,13,Indefinido,0
+ATT000286,EMP01889,GRU,Tripulante Cabina,Cabina,2024-01-29,Termino Contrato,6,Indefinido,0
+ATT000287,EMP00745,GRU,Tripulante Cabina Senior,Cabina,2023-12-03,Jubilacion,14,Indefinido,1
+ATT000288,EMP00332,GRU,Agente Check-in,Tierra,2022-07-15,Renuncia Voluntaria,10,Indefinido,0
+ATT000289,EMP00676,GRU,Supervisor Operaciones,Tierra,2022-01-25,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT000290,EMP00538,MAD,Tripulante Cabina,Cabina,2022-07-26,Jubilacion,8,Indefinido,0
+ATT000291,EMP00590,SCL,Tripulante Cabina,Cabina,2024-09-04,Renuncia Voluntaria,2,Indefinido,0
+ATT000292,EMP00222,GRU,Tripulante Cabina,Cabina,2024-10-07,Renuncia Voluntaria,,Indefinido,1
+ATT000293,EMP00387,Santiago,Supervisor Operaciones,Tierra,2024-03-30,Despido,13,Indefinido,1
+ATT000294,EMP00966,LIM,Ground Staff,Tierra,2024-01-29,Renuncia Voluntaria,0,Indefinido,
+ATT000295,EMP01559,BOG,Tecnico Mantencion,Tierra,2022-07-28,Despido,13,Indefinido,0
+ATT000296,EMP00868,MIA,Tripulante Cabina Senior,Cabina,2022-05-13,Despido,0,Indefinido,0
+ATT000297,EMP00735,SCL,Tripulante Cabina,Cabina,2022-12-02,Renuncia Voluntaria,7,Indefinido,0
+ATT000298,EMP01979,LIM,Supervisor Operaciones,Tierra,2023-07-20,Despido,14,Plazo Fijo,1
+ATT000299,EMP00036,BOG,Tripulante Cabina,Cabina,2022-07-26,Traslado Base,12,Indefinido,1
+ATT000300,EMP00266,SCL,Administrativo,Admin,2023-05-15,Renuncia Voluntaria,14,Indefinido,1
+ATT000301,EMP00491,LIM,Piloto Copiloto,Cockpit,2024-01-13,Termino Contrato,6,Indefinido,1
+ATT000302,EMP01731,GRU,Piloto Comandante,Cockpit,2023-10-20,Termino Contrato,9,Indefinido,1
+ATT000303,EMP01105,BOG,Ground Staff,Tierra,2024-02-23,Traslado Base,13,Indefinido,1
+ATT000304,EMP01095,GRU,Tripulante Cabina,Cabina,2022-01-03,Jubilacion,0,Indefinido,0
+ATT000305,EMP01280,SCL,Tripulante Cabina Senior,Cabina,2023-01-24,Despido,15,Indefinido,0
+ATT000306,EMP01373,SCL,Ground Staff,Tierra,2023-06-16,Despido,8,Indefinido,1
+ATT000307,EMP00165,BOG,Tripulante Cabina,Cabina,2023-12-26,Traslado Base,12,Plazo Fijo,1
+ATT000308,EMP00365,MIA,Tripulante Cabina,Cabina,2024-03-23,Traslado Base,13,Plazo Fijo,1
+ATT000309,EMP00819,BOG,Supervisor Operaciones,Tierra,2024-07-19,Renuncia Voluntaria,14,Indefinido,0
+ATT000310,EMP00054,GRU,Seguridad,Tierra,2024-02-02,Renuncia Voluntaria,11,Indefinido,1
+ATT000311,EMP00295,GRU,Tripulante Cabina Senior,Cabina,2023-01-25,Renuncia Voluntaria,11,Indefinido,0
+ATT000312,EMP00470,BOG,Tripulante Cabina,Cabina,2024-11-13,Renuncia Voluntaria,14,Indefinido,1
+ATT000313,EMP01069,GRU,Supervisor Operaciones,Tierra,2023-12-08,Renuncia Voluntaria,5,Indefinido,1
+ATT000314,EMP01630,Santiago,Ground Staff,Tierra,2024-07-02,Jubilacion,,Indefinido,0
+ATT000315,EMP00344,EZE,Tripulante Cabina,Cabina,2024-12-27,Renuncia Voluntaria,13,Part-time,1
+ATT000316,EMP00643,GRU,Agente Check-in,Tierra,2024-08-22,Despido,2,Indefinido,1
+ATT000317,EMP01017,LIM,Administrativo,Admin,2024-03-23,Jubilacion,15,Indefinido,
+ATT000318,EMP01322,GRU,Administrativo,Admin,2024-10-03,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000319,EMP00481,GRU,Ground Staff,Tierra,2022-07-09,Renuncia Voluntaria,10,Indefinido,1
+ATT000320,EMP00394,SCL,Tripulante Cabina,Cabina,2024-07-28,Termino Contrato,5,Plazo Fijo,1
+ATT000321,EMP01063,SCL,Piloto Comandante,Cockpit,2022-11-13,Renuncia Voluntaria,5,Plazo Fijo,1
+ATT000322,EMP00532,GRU,Administrativo,Admin,2024-01-10,Jubilacion,1,Indefinido,1
+ATT000323,EMP00740,LIM,Tripulante Cabina Senior,Cabina,2023-04-16,Renuncia Voluntaria,2,Honorarios,1
+ATT000324,EMP00185,SCL,Tripulante Cabina,Cabina,2022-07-30,Termino Contrato,15,Indefinido,1
+ATT000325,EMP00462,SCL,Ground Staff,Tierra,2024-07-01,Renuncia Voluntaria,13,Plazo Fijo,
+ATT000326,EMP01120,SCL,Tripulante Cabina Senior,Cabina,2023-10-05,Termino Contrato,10,Plazo Fijo,1
+ATT000327,EMP01115,SCL,Tripulante Cabina Senior,Cabina,2024-05-23,Termino Contrato,14,Honorarios,1
+ATT000328,EMP01181,SCL,Tecnico Mantencion,Tierra,2022-03-09,Despido,10,Indefinido,1
+ATT000329,EMP01526,BOG,Tripulante Cabina Senior,Cabina,2022-03-16,Termino Contrato,5,Indefinido,1
+ATT000330,EMP00371,MIA,Agente Check-in,Tierra,2024-01-15,Termino Contrato,8,Indefinido,1
+ATT000331,EMP01407,EZE,Tripulante Cabina,Cabina,2022-02-24,Jubilacion,11,Part-time,1
+ATT000332,EMP00814,SCL,Agente Check-in,Tierra,2024-07-14,Renuncia Voluntaria,10,Indefinido,1
+ATT000333,EMP00269,BOG,Agente Check-in,Tierra,2022-08-12,Renuncia Voluntaria,3,Indefinido,1
+ATT000334,EMP00024,MAD,Administrativo,Admin,2023-04-04,Despido,8,Part-time,1
+ATT000335,EMP01415,BOG,Tripulante Cabina Senior,Cabina,2022-07-20,Termino Contrato,9,Plazo Fijo,1
+ATT000336,EMP00339,LIM,Agente Check-in,Tierra,2024-03-20,Renuncia Voluntaria,1,Indefinido,1
+ATT000337,EMP01345,BOG,Administrativo,Admin,2022-01-03,Renuncia Voluntaria,8,Honorarios,1
+ATT000338,EMP00425,LIM,Supervisor Operaciones,Tierra,2024-02-20,Traslado Base,13,Indefinido,0
+ATT000339,EMP01368,LIM,Tripulante Cabina Senior,Cabina,2024-02-09,Jubilacion,13,Part-time,1
+ATT000340,EMP00071,SCL,Tripulante Cabina Senior,Cabina,2023-01-06,Traslado Base,9,Plazo Fijo,1
+ATT000341,EMP00369,SCL,Tripulante Cabina,Cabina,2022-01-26,Despido,5,Part-time,1
+ATT000342,EMP00350,lima,Ground Staff,Tierra,2024-01-09,Termino Contrato,8,Indefinido,0
+ATT000343,EMP00305,SCL,Administrativo,Admin,2023-07-08,Despido,7,Plazo Fijo,0
+ATT000344,EMP01617,SCL,Supervisor Operaciones,Tierra,2022-02-07,Termino Contrato,14,Indefinido,1
+ATT000345,EMP00387,SCL,Ground Staff,Tierra,2024-12-19,Renuncia Voluntaria,7,Indefinido,1
+ATT000346,EMP01660,EZE,Agente Check-in,Tierra,2024-10-07,Termino Contrato,13,Indefinido,1
+ATT000347,EMP00024,LIM,Tripulante Cabina Senior,Cabina,2022-07-01,Renuncia Voluntaria,4,Honorarios,1
+ATT000348,EMP01074,LIM,Ground Staff,Tierra,2023-10-23,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT000349,EMP00592,GRU,Tripulante Cabina,Cabina,2024-01-29,Renuncia Voluntaria,11,Honorarios,1
+ATT000350,EMP01051,GRU,Administrativo,Admin,2024-04-25,Renuncia Voluntaria,11,Part-time,1
+ATT000351,EMP01948,LIM,Tripulante Cabina Senior,Cabina,2024-06-27,Jubilacion,11,Indefinido,1
+ATT000352,EMP00396,GRU,Tripulante Cabina Senior,Cabina,2024-05-20,Jubilacion,5,Indefinido,1
+ATT000353,EMP01247,SCL,Tecnico Mantencion,Tierra,2024-10-18,Despido,0,Indefinido,0
+ATT000354,EMP00262,SCL,Piloto Comandante,Cockpit,2023-03-07,Despido,,Indefinido,1
+ATT000355,EMP01991,LIM,Piloto Comandante,Cockpit,2023-05-30,Renuncia Voluntaria,12,Indefinido,1
+ATT000356,EMP00970,GRU,Tripulante Cabina Senior,Cabina,2022-02-09,Renuncia Voluntaria,4,Indefinido,1
+ATT000357,EMP00708,SCL,Tripulante Cabina,Cabina,2022-09-12,Termino Contrato,10,Plazo Fijo,0
+ATT000358,EMP00763,EZE,Seguridad,Tierra,2024-06-18,Renuncia Voluntaria,0,Plazo Fijo,
+ATT000359,EMP00953,SCL,Tripulante Cabina,Cabina,2022-06-21,Traslado Base,3,Indefinido,1
+ATT000360,EMP00248,MIA,Tripulante Cabina,Cabina,2022-06-29,Renuncia Voluntaria,14,Indefinido,1
+ATT000361,EMP01708,LIM,Tripulante Cabina,Cabina,2022-07-05,Despido,0,Plazo Fijo,1
+ATT000362,EMP00736,GRU,Ground Staff,Tierra,2022-07-30,Renuncia Voluntaria,9,Part-time,1
+ATT000363,EMP01486,LIM,Tripulante Cabina,Cabina,2024-07-24,Termino Contrato,10,Indefinido,1
+ATT000364,EMP01395,MIA,Supervisor Operaciones,Tierra,2023-10-09,Termino Contrato,1,Indefinido,1
+ATT000365,EMP01263,MAD,Tripulante Cabina Senior,Cabina,2023-01-26,Jubilacion,12,Indefinido,
+ATT000366,EMP01960,JFK,Administrativo,Admin,2022-04-19,Termino Contrato,2,Indefinido,1
+ATT000367,EMP00476,MIA,Piloto Copiloto,Cockpit,2024-02-17,Jubilacion,6,Indefinido,0
+ATT000368,EMP00959,SCL,Tripulante Cabina,Cabina,2022-04-15,Jubilacion,8,Plazo Fijo,0
+ATT000369,EMP00386,MAD,Administrativo,Admin,2023-11-28,Despido,11,Indefinido,0
+ATT000370,EMP00617,SCL,Tripulante Cabina Senior,Cabina,2023-06-26,Traslado Base,6,Indefinido,1
+ATT000371,EMP00728,EZE,Piloto Copiloto,Cockpit,2023-01-14,Renuncia Voluntaria,15,Part-time,1
+ATT000372,EMP01122,GRU,Administrativo,Admin,2024-03-11,Renuncia Voluntaria,6,Indefinido,1
+ATT000373,EMP00772,GRU,Supervisor Operaciones,Tierra,2024-07-24,Renuncia Voluntaria,4,Honorarios,1
+ATT000374,EMP00517,LIM,Tripulante Cabina,Cabina,2023-07-12,Despido,12,Plazo Fijo,1
+ATT000375,EMP00211,SCL,Tripulante Cabina,Cabina,2022-08-24,Despido,14,Indefinido,1
+ATT000376,EMP01289,SCL,Supervisor Operaciones,Tierra,2024-07-24,Termino Contrato,13,Plazo Fijo,1
+ATT000377,EMP00008,MAD,Supervisor Operaciones,Tierra,2023-05-20,Renuncia Voluntaria,6,Indefinido,1
+ATT000378,EMP00334,SCL,Agente Check-in,Tierra,2022-05-06,Termino Contrato,7,Plazo Fijo,0
+ATT000379,EMP01739,JFK,Ground Staff,Tierra,2023-04-25,Jubilacion,13,Part-time,1
+ATT000380,EMP00813,MIA,Piloto Comandante,Cockpit,2023-05-26,Renuncia Voluntaria,13,Indefinido,1
+ATT000381,EMP00064,EZE,Supervisor Operaciones,Tierra,2024-03-16,Renuncia Voluntaria,,Indefinido,1
+ATT000382,EMP00931,BOG,Ground Staff,Tierra,2022-06-06,Renuncia Voluntaria,5,Indefinido,1
+ATT000383,EMP00285,SCL,Ground Staff,Tierra,2022-07-18,Termino Contrato,8,Indefinido,0
+ATT000384,EMP01930,GRU,Tripulante Cabina Senior,Cabina,2024-07-10,Jubilacion,13,Plazo Fijo,0
+ATT000385,EMP00997,GRU,Ground Staff,Tierra,2023-06-24,Renuncia Voluntaria,5,Indefinido,0
+ATT000386,EMP01178,BOG,Tripulante Cabina,Cabina,2024-11-23,Termino Contrato,3,Indefinido,1
+ATT000387,EMP01733,MAD,Tripulante Cabina,Cabina,2023-07-07,Termino Contrato,15,Indefinido,1
+ATT000388,EMP00386,GRU,Tripulante Cabina Senior,Cabina,2023-01-31,Termino Contrato,7,Indefinido,0
+ATT000389,EMP01257,JFK,Tripulante Cabina,Cabina,2023-02-01,Renuncia Voluntaria,4,Indefinido,1
+ATT000390,EMP00143,BOG,Supervisor Operaciones,Tierra,2022-08-08,Renuncia Voluntaria,8,Indefinido,0
+ATT000391,EMP00726,LIM,Tripulante Cabina Senior,Cabina,2022-11-15,Jubilacion,7,Part-time,0
+ATT000392,EMP01995,SCL,Tripulante Cabina Senior,Cabina,2023-07-24,Renuncia Voluntaria,12,Indefinido,1
+ATT000393,EMP00091,LIM,Piloto Comandante,Cockpit,2022-01-12,Termino Contrato,2,Plazo Fijo,1
+ATT000394,EMP00697,BOG,Agente Check-in,Tierra,2023-05-13,Renuncia Voluntaria,11,Honorarios,1
+ATT000395,EMP01383,BOG,Agente Check-in,Tierra,2022-07-14,Jubilacion,4,Indefinido,1
+ATT000396,EMP00294,GRU,Piloto Comandante,Cockpit,2023-05-10,Renuncia Voluntaria,15,Part-time,1
+ATT000397,EMP01428,SCL,Administrativo,Admin,2022-01-26,Traslado Base,0,Indefinido,1
+ATT000398,EMP00005,MIA,Ground Staff,Tierra,2022-04-16,Termino Contrato,12,Indefinido,1
+ATT000399,EMP00363,SCL,Administrativo,Admin,2022-01-26,Jubilacion,9,Indefinido,0
+ATT000400,EMP01042,SCL,Ground Staff,Tierra,2023-06-22,Renuncia Voluntaria,13,Indefinido,
+ATT000401,EMP00242,SCL,Supervisor Operaciones,Tierra,2024-07-29,Despido,0,Indefinido,1
+ATT000402,EMP01496,SCL,Tripulante Cabina Senior,Cabina,2024-09-29,Despido,7,Indefinido,1
+ATT000403,EMP00189,SCL,Agente Check-in,Tierra,2022-09-13,Termino Contrato,11,Indefinido,1
+ATT000404,EMP01652,LIM,Seguridad,Tierra,2022-05-17,Despido,11,Plazo Fijo,0
+ATT000405,EMP01594,BOG,Ground Staff,Tierra,2022-09-06,Termino Contrato,0,Indefinido,1
+ATT000406,EMP00121,GRU,Ground Staff,Tierra,2023-07-26,Despido,11,Plazo Fijo,1
+ATT000407,EMP01754,BOG,Tripulante Cabina Senior,Cabina,2024-12-31,Renuncia Voluntaria,9,Part-time,1
+ATT000408,EMP00857,BOG,Tripulante Cabina,Cabina,2022-03-30,Renuncia Voluntaria,13,Indefinido,0
+ATT000409,EMP01989,GRU,Ground Staff,Tierra,2023-02-01,Termino Contrato,5,Plazo Fijo,1
+ATT000410,EMP01912,GRU,Tripulante Cabina,Cabina,2022-04-21,Traslado Base,11,Indefinido,1
+ATT000411,EMP01562,BOG,Tripulante Cabina,Cabina,2022-04-01,Termino Contrato,1,Indefinido,1
+ATT000412,EMP00700,MAD,Ground Staff,Tierra,2022-09-01,Termino Contrato,7,Part-time,1
+ATT000413,EMP00456,LIM,Ground Staff,Tierra,2023-12-23,Renuncia Voluntaria,5,Plazo Fijo,1
+ATT000414,EMP01859,SCL,Tripulante Cabina,Cabina,2022-07-31,Jubilacion,9,Indefinido,0
+ATT000415,EMP01055,LIM,Administrativo,Admin,2024-06-11,Renuncia Voluntaria,2,Indefinido,0
+ATT000416,EMP00383,JFK,Tripulante Cabina,Cabina,2024-08-09,Renuncia Voluntaria,12,Indefinido,1
+ATT000417,EMP02000,LIM,Ground Staff,Tierra,2023-12-01,Renuncia Voluntaria,6,Indefinido,1
+ATT000418,EMP00740,SCL,Piloto Comandante,Cockpit,2022-01-02,Traslado Base,2,Indefinido,0
+ATT000419,EMP00441,MIA,Tripulante Cabina,Cabina,2023-02-03,Renuncia Voluntaria,14,Indefinido,1
+ATT000420,EMP00925,GRU,Tripulante Cabina Senior,Cabina,2022-03-10,Termino Contrato,3,Plazo Fijo,1
+ATT000421,EMP01126,SCL,Tecnico Mantencion,Tierra,2022-07-07,Renuncia Voluntaria,9,Indefinido,0
+ATT000422,EMP01699,EZE,Administrativo,Admin,2022-06-02,Termino Contrato,2,Part-time,0
+ATT000423,EMP01818,SCL,Ground Staff,Tierra,2024-04-28,Termino Contrato,2,Indefinido,1
+ATT000424,EMP00157,LIM,Agente Check-in,Tierra,2024-01-24,Renuncia Voluntaria,12,Indefinido,0
+ATT000425,EMP01699,JFK,Supervisor Operaciones,Tierra,2022-03-09,Renuncia Voluntaria,10,Part-time,1
+ATT000426,EMP00271,MIA,Ground Staff,Tierra,2022-12-11,Despido,5,Plazo Fijo,1
+ATT000427,EMP01469,BOG,Agente Check-in,Tierra,2024-06-26,Renuncia Voluntaria,13,Indefinido,1
+ATT000428,EMP00879,SCL,Administrativo,Admin,2024-05-30,Jubilacion,14,Indefinido,1
+ATT000429,EMP01798,JFK,Piloto Copiloto,Cockpit,2024-04-30,Termino Contrato,3,Plazo Fijo,
+ATT000430,EMP01580,SCL,Piloto Copiloto,Cockpit,2022-07-02,Renuncia Voluntaria,12,Part-time,0
+ATT000431,EMP01048,LIM,Supervisor Operaciones,Tierra,2023-07-29,Termino Contrato,8,Plazo Fijo,1
+ATT000432,EMP01525,JFK,Ground Staff,Tierra,2022-11-18,Termino Contrato,7,Indefinido,0
+ATT000433,EMP01524,LIM,Supervisor Operaciones,Tierra,2024-01-28,Termino Contrato,6,Indefinido,0
+ATT000434,EMP00730,GRU,Ground Staff,Tierra,2022-11-07,Termino Contrato,3,Indefinido,1
+ATT000435,EMP01411,BOG,Piloto Copiloto,Cockpit,2024-06-12,Termino Contrato,2,Indefinido,1
+ATT000436,EMP00135,SCL,Tripulante Cabina,Cabina,2023-01-20,Renuncia Voluntaria,3,Part-time,1
+ATT000437,EMP00473,BOG,Supervisor Operaciones,Tierra,2023-07-31,Jubilacion,6,Indefinido,0
+ATT000438,EMP01852,GRU,Tecnico Mantencion,Tierra,2024-09-01,Despido,8,Plazo Fijo,0
+ATT000439,EMP00367,BOG,Piloto Comandante,Cockpit,2024-08-05,Termino Contrato,8,Indefinido,1
+ATT000440,EMP00783,GRU,Agente Check-in,Tierra,2022-01-14,Termino Contrato,13,Indefinido,0
+ATT000441,EMP00759,BOG,Tripulante Cabina Senior,Cabina,2023-09-22,Termino Contrato,5,Indefinido,0
+ATT000442,EMP01555,SCL,Ground Staff,Tierra,2023-02-13,Renuncia Voluntaria,0,Indefinido,0
+ATT000443,EMP00391,BOG,Tripulante Cabina Senior,Cabina,2023-01-11,Despido,,Indefinido,1
+ATT000444,EMP01088,BOG,Tripulante Cabina,Cabina,2022-12-19,Renuncia Voluntaria,13,Indefinido,0
+ATT000445,EMP01279,MIA,Ground Staff,Tierra,2023-07-08,Renuncia Voluntaria,12,Indefinido,1
+ATT000446,EMP01903,LIM,Piloto Copiloto,Cockpit,2024-01-16,Jubilacion,1,Indefinido,1
+ATT000447,EMP01201,LIM,Piloto Copiloto,Cockpit,2023-08-14,Despido,15,Indefinido,
+ATT000448,EMP01409,LIM,Supervisor Operaciones,Tierra,2023-01-19,Termino Contrato,7,Indefinido,1
+ATT000449,EMP00621,BOG,Administrativo,Admin,2023-07-01,Termino Contrato,9,Indefinido,1
+ATT000450,EMP00538,MIA,Piloto Copiloto,Cockpit,2024-03-24,Renuncia Voluntaria,14,Indefinido,1
+ATT000451,EMP00925,MIA,Ground Staff,Tierra,2022-08-29,Traslado Base,11,Indefinido,1
+ATT000452,EMP01561,GRU,Ground Staff,Tierra,2024-06-11,Termino Contrato,11,Honorarios,1
+ATT000453,EMP00955,SCL,Administrativo,Admin,2023-02-09,Renuncia Voluntaria,2,Indefinido,1
+ATT000454,EMP00427,SCL,Tripulante Cabina Senior,Cabina,2023-03-31,Traslado Base,11,Part-time,1
+ATT000455,EMP00890,JFK,Ground Staff,Tierra,2022-01-12,Renuncia Voluntaria,14,Indefinido,0
+ATT000456,EMP00211,EZE,Piloto Comandante,Cockpit,2022-02-25,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT000457,EMP00038,MIA,Agente Check-in,Tierra,2024-11-26,Termino Contrato,11,Plazo Fijo,1
+ATT000458,EMP00125,BOG,Ground Staff,Tierra,2022-11-19,Jubilacion,3,Part-time,0
+ATT000459,EMP00070,BOG,Ground Staff,Tierra,2024-07-30,Renuncia Voluntaria,11,Indefinido,1
+ATT000460,EMP00362,LIM,Agente Check-in,Tierra,2024-01-20,Termino Contrato,10,Part-time,1
+ATT000461,EMP00625,GRU,Supervisor Operaciones,Tierra,2023-01-28,Jubilacion,14,Part-time,1
+ATT000462,EMP01285,SCL,Agente Check-in,Tierra,2022-07-25,Despido,13,Indefinido,1
+ATT000463,EMP01361,MIA,Piloto Copiloto,Cockpit,2024-01-28,Jubilacion,6,Plazo Fijo,0
+ATT000464,EMP01961,MAD,Supervisor Operaciones,Tierra,2023-01-10,Renuncia Voluntaria,1,Plazo Fijo,0
+ATT000465,EMP01013,SCL,Piloto Copiloto,Cockpit,2024-03-09,Jubilacion,3,Indefinido,1
+ATT000466,EMP01601,LIM,Ground Staff,Tierra,2022-02-18,Jubilacion,8,Honorarios,
+ATT000467,EMP00736,BOG,Piloto Copiloto,Cockpit,2023-06-05,Jubilacion,15,Indefinido,1
+ATT000468,EMP00462,GRU,Supervisor Operaciones,Tierra,2022-02-07,Renuncia Voluntaria,1,Indefinido,1
+ATT000469,EMP00074,SCL,Supervisor Operaciones,Tierra,2023-06-03,Renuncia Voluntaria,11,Indefinido,1
+ATT000470,EMP01291,BOG,Agente Check-in,Tierra,2024-09-02,Jubilacion,13,Part-time,1
+ATT000471,EMP00004,MIA,Ground Staff,Tierra,2023-08-11,Traslado Base,6,Indefinido,0
+ATT000472,EMP00963,LIM,Agente Check-in,Tierra,2022-01-20,Renuncia Voluntaria,3,Indefinido,0
+ATT000473,EMP01718,SCL,Supervisor Operaciones,Tierra,2022-01-23,Jubilacion,4,Honorarios,0
+ATT000474,EMP00943,GRU,Administrativo,Admin,2023-01-27,Renuncia Voluntaria,3,Indefinido,1
+ATT000475,EMP00028,GRU,Tecnico Mantencion,Tierra,2024-01-09,Renuncia Voluntaria,13,Indefinido,0
+ATT000476,EMP01558,EZE,Tripulante Cabina,Cabina,2023-07-22,Traslado Base,9,Indefinido,0
+ATT000477,EMP00449,LIM,Piloto Comandante,Cockpit,2022-12-06,Jubilacion,4,Indefinido,
+ATT000478,EMP00844,GRU,Tripulante Cabina Senior,Cabina,2023-07-20,Termino Contrato,4,Plazo Fijo,
+ATT000479,EMP01339,SCL,Agente Check-in,Tierra,2022-12-30,Termino Contrato,6,Indefinido,0
+ATT000480,EMP00113,EZE,Tripulante Cabina Senior,Cabina,2023-08-30,Renuncia Voluntaria,2,Indefinido,1
+ATT000481,EMP00561,GRU,Piloto Comandante,Cockpit,2023-06-23,Renuncia Voluntaria,14,Honorarios,1
+ATT000482,EMP01807,MIA,Tripulante Cabina,Cabina,2023-11-12,Despido,5,Part-time,1
+ATT000483,EMP01682,MIA,Piloto Copiloto,Cockpit,2023-07-06,Termino Contrato,14,Indefinido,0
+ATT000484,EMP00032,GRU,Piloto Comandante,Cockpit,2024-11-21,Renuncia Voluntaria,13,Indefinido,
+ATT000485,EMP00987,LIM,Piloto Comandante,Cockpit,2022-03-13,Termino Contrato,8,Indefinido,1
+ATT000486,EMP00038,GRU,Tripulante Cabina Senior,Cabina,2022-01-20,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT000487,EMP00504,JFK,Piloto Copiloto,Cockpit,2024-07-01,Jubilacion,5,Indefinido,1
+ATT000488,EMP01848,LIM,Piloto Copiloto,Cockpit,2023-07-03,Renuncia Voluntaria,4,Indefinido,0
+ATT000489,EMP01427,LIM,Tecnico Mantencion,Tierra,2022-02-07,Termino Contrato,14,Indefinido,0
+ATT000490,EMP00451,EZE,Supervisor Operaciones,Tierra,2022-03-23,Renuncia Voluntaria,1,Indefinido,1
+ATT000491,EMP00906,SCL,Tripulante Cabina,Cabina,2024-01-05,Renuncia Voluntaria,8,Indefinido,0
+ATT000492,EMP01498,BOG,Piloto Copiloto,Cockpit,2022-05-06,Traslado Base,10,Part-time,1
+ATT000493,EMP00239,GRU,Seguridad,Tierra,2022-07-14,Renuncia Voluntaria,11,Indefinido,0
+ATT000494,EMP00868,GRU,Ground Staff,Tierra,2024-06-03,Traslado Base,7,Honorarios,1
+ATT000495,EMP00647,GRU,Ground Staff,Tierra,2022-01-05,Traslado Base,14,Indefinido,0
+ATT000496,EMP01539,SCL,Ground Staff,Tierra,2023-12-04,Traslado Base,9,Indefinido,1
+ATT000497,EMP00045,SCL,Piloto Comandante,Cockpit,2022-09-14,Despido,12,Indefinido,0
+ATT000498,EMP01268,MIA,Piloto Copiloto,Cockpit,2022-06-27,Termino Contrato,10,Indefinido,1
+ATT000499,EMP01903,SCL,Tripulante Cabina Senior,Cabina,2022-01-31,Renuncia Voluntaria,11,Indefinido,1
+ATT000500,EMP00893,MAD,Ground Staff,Tierra,2024-05-20,Renuncia Voluntaria,0,Part-time,
+ATT000501,EMP00188,SCL,Agente Check-in,Tierra,2022-07-13,Renuncia Voluntaria,13,Indefinido,0
+ATT000502,EMP00370,SCL,Tripulante Cabina,Cabina,2024-07-17,Despido,4,Honorarios,1
+ATT000503,EMP01743,GRU,Tripulante Cabina,Cabina,2022-01-20,Termino Contrato,7,Plazo Fijo,0
+ATT000504,EMP00705,GRU,Piloto Comandante,Cockpit,2022-07-17,Termino Contrato,4,Indefinido,1
+ATT000505,EMP01601,SCL,Piloto Comandante,Cockpit,2024-01-27,Termino Contrato,8,Indefinido,1
+ATT000506,EMP01183,EZE,Tripulante Cabina Senior,Cabina,2023-09-10,Termino Contrato,3,Plazo Fijo,1
+ATT000507,EMP01362,GRU,Tripulante Cabina,Cabina,2022-08-26,Jubilacion,8,Plazo Fijo,1
+ATT000508,EMP00075,SCL,Tripulante Cabina,Cabina,2024-11-27,Renuncia Voluntaria,0,Plazo Fijo,0
+ATT000509,EMP01790,GRU,Tripulante Cabina Senior,Cabina,2024-12-02,Renuncia Voluntaria,10,Indefinido,0
+ATT000510,EMP01586,bogota,Administrativo,Admin,2023-08-21,Renuncia Voluntaria,13,Indefinido,0
+ATT000511,EMP00235,SCL,Ground Staff,Tierra,2022-09-26,Termino Contrato,4,Plazo Fijo,0
+ATT000512,EMP00844,MIA,Tripulante Cabina Senior,Cabina,2024-07-26,Renuncia Voluntaria,13,Honorarios,1
+ATT000513,EMP01191,SCL,Tecnico Mantencion,Tierra,2022-04-25,Despido,0,Indefinido,1
+ATT000514,EMP01743,BOG,Tripulante Cabina,Cabina,2024-07-11,Renuncia Voluntaria,6,Part-time,0
+ATT000515,EMP01331,BOG,Piloto Copiloto,Cockpit,2024-09-13,Jubilacion,9,Indefinido,1
+ATT000516,EMP00812,SCL,Tripulante Cabina Senior,Cabina,2024-01-21,Jubilacion,15,Indefinido,0
+ATT000517,EMP01964,EZE,Agente Check-in,Tierra,2023-08-22,Traslado Base,12,Plazo Fijo,0
+ATT000518,EMP01201,BOG,Agente Check-in,Tierra,2024-04-06,Termino Contrato,14,Plazo Fijo,1
+ATT000519,EMP00579,MIA,Tripulante Cabina,Cabina,2022-02-16,Traslado Base,9,Indefinido,1
+ATT000520,EMP01095,EZE,Supervisor Operaciones,Tierra,2022-02-21,Renuncia Voluntaria,10,Indefinido,1
+ATT000521,EMP01877,GRU,Tripulante Cabina Senior,Cabina,2023-01-30,Renuncia Voluntaria,4,Plazo Fijo,0
+ATT000522,EMP01938,LIM,Tripulante Cabina,Cabina,2022-09-03,Jubilacion,4,Indefinido,0
+ATT000523,EMP00924,EZE,Supervisor Operaciones,Tierra,2023-03-16,Jubilacion,1,Indefinido,0
+ATT000524,EMP00432,SCL,Tripulante Cabina Senior,Cabina,2022-07-08,Despido,4,Indefinido,1
+ATT000525,EMP01445,LIM,Ground Staff,Tierra,2024-09-04,Termino Contrato,1,Indefinido,1
+ATT000526,EMP01321,JFK,Tripulante Cabina,Cabina,2024-07-01,Renuncia Voluntaria,3,Indefinido,0
+ATT000527,EMP00973,MIA,Piloto Comandante,Cockpit,2023-03-08,Renuncia Voluntaria,10,Part-time,1
+ATT000528,EMP00699,BOG,Tripulante Cabina Senior,Cabina,2022-08-25,Termino Contrato,1,Part-time,1
+ATT000529,EMP00028,MIA,Tripulante Cabina,Cabina,2023-01-09,Termino Contrato,6,Indefinido,1
+ATT000530,EMP00574,MIA,Piloto Copiloto,Cockpit,2024-07-13,Termino Contrato,4,Part-time,1
+ATT000531,EMP00246,SCL,Tecnico Mantencion,Tierra,2024-04-18,Jubilacion,9,Indefinido,1
+ATT000532,EMP00100,SCL,Agente Check-in,Tierra,2023-07-18,Termino Contrato,8,Indefinido,1
+ATT000533,EMP00044,MAD,Ground Staff,Tierra,2022-07-25,Jubilacion,5,Part-time,1
+ATT000534,EMP01925,GRU,Tripulante Cabina Senior,Cabina,2023-01-22,Renuncia Voluntaria,12,Indefinido,1
+ATT000535,EMP01697,BOG,Piloto Comandante,Cockpit,2024-11-17,Renuncia Voluntaria,5,Plazo Fijo,1
+ATT000536,EMP01418,EZE,Tripulante Cabina,Cabina,2022-09-20,Renuncia Voluntaria,1,Part-time,1
+ATT000537,EMP00214,LIM,Tripulante Cabina,Cabina,2024-04-15,Traslado Base,5,Indefinido,
+ATT000538,EMP00396,MIA,Ground Staff,Tierra,2022-01-08,Termino Contrato,15,Indefinido,1
+ATT000539,EMP01932,BOG,Tripulante Cabina Senior,Cabina,2022-09-18,Renuncia Voluntaria,4,Part-time,
+ATT000540,EMP00231,MAD,Tripulante Cabina,Cabina,2022-04-29,Despido,4,Indefinido,0
+ATT000541,EMP01086,GRU,Piloto Comandante,Cockpit,2024-11-14,Renuncia Voluntaria,0,Plazo Fijo,1
+ATT000542,EMP01540,JFK,Tripulante Cabina,Cabina,2022-06-03,Traslado Base,7,Honorarios,1
+ATT000543,EMP01371,MIA,Piloto Comandante,Cockpit,2023-04-11,Renuncia Voluntaria,15,Indefinido,1
+ATT000544,EMP00951,GRU,Tripulante Cabina,Cabina,2024-01-05,Renuncia Voluntaria,10,Indefinido,1
+ATT000545,EMP01417,BOG,Tripulante Cabina,Cabina,2023-12-26,Jubilacion,3,Indefinido,0
+ATT000546,EMP00516,MAD,Tecnico Mantencion,Tierra,2024-02-12,Traslado Base,9,Indefinido,0
+ATT000547,EMP00803,GRU,Tecnico Mantencion,Tierra,2023-09-01,Termino Contrato,7,Indefinido,0
+ATT000548,EMP00971,LIM,Agente Check-in,Tierra,2024-01-15,Termino Contrato,,Indefinido,1
+ATT000549,EMP00037,GRU,Tripulante Cabina,Cabina,2024-12-26,Termino Contrato,10,Indefinido,1
+ATT000550,EMP01025,MIA,Administrativo,Admin,2023-03-19,Traslado Base,11,Part-time,1
+ATT000551,EMP01034,GRU,Tripulante Cabina,Cabina,2024-01-02,Renuncia Voluntaria,4,Indefinido,1
+ATT000552,EMP01672,EZE,Agente Check-in,Tierra,2023-01-26,Renuncia Voluntaria,9,Plazo Fijo,0
+ATT000553,EMP01490,LIM,Ground Staff,Tierra,2024-01-03,Termino Contrato,1,Indefinido,1
+ATT000554,EMP00894,GRU,Supervisor Operaciones,Tierra,2023-09-22,Despido,14,Plazo Fijo,0
+ATT000555,EMP00651,LIM,Tripulante Cabina,Cabina,2023-12-21,Jubilacion,11,Indefinido,1
+ATT000556,EMP01383,SCL,Piloto Copiloto,Cockpit,2024-12-24,Termino Contrato,5,Plazo Fijo,0
+ATT000557,EMP01249,MIA,Ground Staff,Tierra,2024-04-04,Renuncia Voluntaria,3,Indefinido,1
+ATT000558,EMP00410,LIM,Supervisor Operaciones,Tierra,2023-03-05,Renuncia Voluntaria,7,Plazo Fijo,1
+ATT000559,EMP00970,BOG,Tripulante Cabina Senior,Cabina,2023-08-23,Jubilacion,1,Indefinido,0
+ATT000560,EMP01857,BOG,Tecnico Mantencion,Tierra,2022-01-19,Termino Contrato,2,Part-time,0
+ATT000561,EMP00472,SCL,Supervisor Operaciones,Tierra,2022-03-16,Despido,10,Indefinido,1
+ATT000562,EMP00569,EZE,Administrativo,Admin,2023-03-06,Renuncia Voluntaria,2,Plazo Fijo,1
+ATT000563,EMP00165,JFK,Tripulante Cabina Senior,Cabina,2023-08-04,Termino Contrato,5,Indefinido,1
+ATT000564,EMP01603,GRU,Piloto Copiloto,Cockpit,2024-07-09,Jubilacion,1,Plazo Fijo,
+ATT000565,EMP00003,GRU,Piloto Copiloto,Cockpit,2024-01-02,Jubilacion,4,Plazo Fijo,1
+ATT000566,EMP01087,LIM,Tripulante Cabina,Cabina,2023-05-29,Jubilacion,2,Part-time,1
+ATT000567,EMP01122,GRU,Tripulante Cabina Senior,Cabina,2022-10-14,Jubilacion,3,Honorarios,
+ATT000568,EMP01543,SCL,Administrativo,Admin,2024-10-10,Renuncia Voluntaria,15,Indefinido,1
+ATT000569,EMP00363,MIA,Supervisor Operaciones,Tierra,2023-01-29,Renuncia Voluntaria,8,Indefinido,1
+ATT000570,EMP00064,EZE,Piloto Copiloto,Cockpit,2024-10-05,Renuncia Voluntaria,9,Part-time,
+ATT000571,EMP01839,LIM,Tripulante Cabina Senior,Cabina,2024-09-24,Jubilacion,12,Indefinido,0
+ATT000572,EMP01526,MIA,Ground Staff,Tierra,2024-08-17,Termino Contrato,12,Indefinido,1
+ATT000573,EMP00060,LIM,Ground Staff,Tierra,2024-06-13,Termino Contrato,,Plazo Fijo,1
+ATT000574,EMP00245,GRU,Administrativo,Admin,2022-12-30,Termino Contrato,12,Indefinido,1
+ATT000575,EMP00849,BOG,Agente Check-in,Tierra,2024-11-24,Jubilacion,14,Indefinido,0
+ATT000576,EMP00522,MIA,Tripulante Cabina,Cabina,2023-03-16,Termino Contrato,,Plazo Fijo,1
+ATT000577,EMP00382,GRU,Tripulante Cabina Senior,Cabina,2022-06-29,Despido,15,Indefinido,1
+ATT000578,EMP00199,EZE,Ground Staff,Tierra,2022-08-05,Termino Contrato,3,Indefinido,1
+ATT000579,EMP01843,EZE,Piloto Comandante,Cockpit,2023-06-30,Renuncia Voluntaria,14,Indefinido,0
+ATT000580,EMP00845,LIM,Agente Check-in,Tierra,2024-03-22,Renuncia Voluntaria,9,Indefinido,1
+ATT000581,EMP01917,SCL,Ground Staff,Tierra,2022-07-21,Termino Contrato,3,Indefinido,0
+ATT000582,EMP00195,BOG,Administrativo,Admin,2024-07-26,Renuncia Voluntaria,9,Indefinido,1
+ATT000583,EMP01327,BOG,Tripulante Cabina,Cabina,2022-07-06,Despido,4,Indefinido,0
+ATT000584,EMP01251,MIA,Supervisor Operaciones,Tierra,2024-01-29,Jubilacion,,Part-time,0
+ATT000585,EMP00961,GRU,Piloto Copiloto,Cockpit,2023-12-04,Renuncia Voluntaria,8,Plazo Fijo,1
+ATT000586,EMP00092,SCL,Administrativo,Admin,2022-05-24,Renuncia Voluntaria,3,Indefinido,1
+ATT000587,EMP01468,GRU,Seguridad,Tierra,2023-08-12,Renuncia Voluntaria,5,Part-time,0
+ATT000588,EMP01776,SCL,Tripulante Cabina Senior,Cabina,2024-09-08,Despido,2,Part-time,1
+ATT000589,EMP00831,BOG,Supervisor Operaciones,Tierra,2024-07-30,Renuncia Voluntaria,3,Part-time,0
+ATT000590,EMP00874,LIM,Ground Staff,Tierra,2022-06-11,Renuncia Voluntaria,3,Indefinido,
+ATT000591,EMP01878,GRU,Administrativo,Admin,2023-07-04,Jubilacion,10,Indefinido,1
+ATT000592,EMP01998,GRU,Piloto Copiloto,Cockpit,2022-06-11,Jubilacion,8,Indefinido,0
+ATT000593,EMP01837,GRU,Seguridad,Tierra,2022-11-18,Jubilacion,13,Indefinido,1
+ATT000594,EMP01861,SCL,Tripulante Cabina Senior,Cabina,2023-03-07,Renuncia Voluntaria,7,Part-time,1
+ATT000595,EMP01759,GRU,Ground Staff,Tierra,2022-01-30,Termino Contrato,9,Plazo Fijo,1
+ATT000596,EMP00750,MIA,Tripulante Cabina Senior,Cabina,2022-02-18,Termino Contrato,14,Indefinido,1
+ATT000597,EMP00414,BOG,Agente Check-in,Tierra,2022-08-15,Termino Contrato,8,Indefinido,1
+ATT000598,EMP01620,JFK,Tripulante Cabina,Cabina,2023-09-25,Renuncia Voluntaria,4,Plazo Fijo,1
+ATT000599,EMP00927,SCL,Agente Check-in,Tierra,2024-05-08,Renuncia Voluntaria,13,Part-time,1
+ATT000600,EMP00501,GRU,Ground Staff,Tierra,2024-07-27,Termino Contrato,6,Indefinido,0
+ATT000601,EMP01870,SCL,Piloto Copiloto,Cockpit,2024-03-28,Renuncia Voluntaria,7,Part-time,1
+ATT000602,EMP00576,GRU,Administrativo,Admin,2023-11-12,Renuncia Voluntaria,4,Part-time,0
+ATT000603,EMP00808,SCL,Piloto Copiloto,Cockpit,2024-02-10,Jubilacion,7,Plazo Fijo,0
+ATT000604,EMP00459,SCL,Ground Staff,Tierra,2023-10-12,Jubilacion,4,Plazo Fijo,1
+ATT000605,EMP00042,GRU,Tripulante Cabina,Cabina,2023-10-16,Renuncia Voluntaria,5,Indefinido,1
+ATT000606,EMP01438,SCL,Agente Check-in,Tierra,2022-07-11,Jubilacion,9,Indefinido,1
+ATT000607,EMP00117,GRU,Tripulante Cabina,Cabina,2022-07-23,Renuncia Voluntaria,2,Indefinido,1
+ATT000608,EMP01142,SCL,Tripulante Cabina Senior,Cabina,2023-10-03,Renuncia Voluntaria,6,Indefinido,1
+ATT000609,EMP00094,LIM,Supervisor Operaciones,Tierra,2022-07-02,Jubilacion,11,Indefinido,0
+ATT000610,EMP01656,GRU,Ground Staff,Tierra,2023-09-14,Renuncia Voluntaria,3,Indefinido,1
+ATT000611,EMP00689,GRU,Tripulante Cabina,Cabina,2023-11-15,Renuncia Voluntaria,10,Indefinido,1
+ATT000612,EMP00872,SCL,Agente Check-in,Tierra,2022-07-10,Renuncia Voluntaria,0,Indefinido,1
+ATT000613,EMP00187,JFK,Tripulante Cabina Senior,Cabina,2023-07-24,Termino Contrato,15,Plazo Fijo,1
+ATT000614,EMP01341,SCL,Ground Staff,Tierra,2022-05-03,Renuncia Voluntaria,9,Indefinido,0
+ATT000615,EMP01067,EZE,Ground Staff,Tierra,2022-05-16,Termino Contrato,10,Indefinido,0
+ATT000616,EMP01382,LIM,Ground Staff,Tierra,2024-04-26,Despido,8,Plazo Fijo,1
+ATT000617,EMP01958,GRU,Tecnico Mantencion,Tierra,2024-07-29,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT000618,EMP01187,GRU,Tecnico Mantencion,Tierra,2023-03-02,Renuncia Voluntaria,,Indefinido,0
+ATT000619,EMP00893,SCL,Agente Check-in,Tierra,2024-11-15,Jubilacion,3,Indefinido,1
+ATT000620,EMP00585,GRU,Agente Check-in,Tierra,2022-07-20,Renuncia Voluntaria,1,Part-time,1
+ATT000621,EMP00155,SCL,Piloto Comandante,Cockpit,2024-07-09,Renuncia Voluntaria,11,Plazo Fijo,
+ATT000622,EMP00047,SCL,Tripulante Cabina,Cabina,2024-06-16,Termino Contrato,8,Indefinido,
+ATT000623,EMP00410,MIA,Administrativo,Admin,2024-06-02,Renuncia Voluntaria,12,Indefinido,1
+ATT000624,EMP00337,LIM,Ground Staff,Tierra,2022-01-05,Renuncia Voluntaria,7,Plazo Fijo,0
+ATT000625,EMP00709,LIM,Piloto Copiloto,Cockpit,2023-10-03,Termino Contrato,14,Indefinido,1
+ATT000626,EMP01926,SCL,Piloto Copiloto,Cockpit,2022-07-04,Termino Contrato,1,Honorarios,0
+ATT000627,EMP00536,SCL,Tripulante Cabina Senior,Cabina,2022-01-06,Renuncia Voluntaria,8,Indefinido,1
+ATT000628,EMP01173,BOG,Tripulante Cabina Senior,Cabina,2023-01-23,Renuncia Voluntaria,10,Part-time,1
+ATT000629,EMP00864,EZE,Agente Check-in,Tierra,2022-02-14,Renuncia Voluntaria,10,Indefinido,1
+ATT000630,EMP00864,GRU,Tripulante Cabina Senior,Cabina,2024-01-15,Termino Contrato,10,Part-time,1
+ATT000631,EMP00470,LIM,Tripulante Cabina,Cabina,2023-12-18,Renuncia Voluntaria,14,Indefinido,1
+ATT000632,EMP01681,GRU,Piloto Comandante,Cockpit,2023-01-03,Termino Contrato,7,Indefinido,1
+ATT000633,EMP00880,SCL,Tripulante Cabina,Cabina,2024-01-12,Termino Contrato,,Part-time,0
+ATT000634,EMP00514,SCL,Ground Staff,Tierra,2024-07-30,Jubilacion,8,Indefinido,1
+ATT000635,EMP01058,LIM,Ground Staff,Tierra,2022-01-14,Renuncia Voluntaria,4,Indefinido,1
+ATT000636,EMP00593,LIM,Ground Staff,Tierra,2022-11-26,Jubilacion,2,Honorarios,1
+ATT000637,EMP01736,GRU,Tripulante Cabina Senior,Cabina,2024-11-08,Termino Contrato,9,Indefinido,0
+ATT000638,EMP01506,MIA,Tripulante Cabina Senior,Cabina,2024-12-14,Jubilacion,3,Indefinido,
+ATT000639,EMP01093,JFK,Supervisor Operaciones,Tierra,2022-12-04,Renuncia Voluntaria,11,Indefinido,1
+ATT000640,EMP00184,LIM,Tripulante Cabina,Cabina,2022-01-16,Traslado Base,8,Indefinido,0
+ATT000641,EMP00603,SCL,Piloto Copiloto,Cockpit,2023-09-21,Termino Contrato,3,Indefinido,0
+ATT000642,EMP00759,GRU,Tripulante Cabina,Cabina,2024-10-31,Traslado Base,9,Part-time,1
+ATT000643,EMP01513,GRU,Tripulante Cabina,Cabina,2022-06-08,Renuncia Voluntaria,8,Plazo Fijo,
+ATT000644,EMP00382,BOG,Tripulante Cabina Senior,Cabina,2022-07-24,Renuncia Voluntaria,10,Indefinido,1
+ATT000645,EMP01084,GRU,Tripulante Cabina,Cabina,2023-01-15,Despido,5,Plazo Fijo,1
+ATT000646,EMP01193,LIM,Piloto Comandante,Cockpit,2024-05-10,Renuncia Voluntaria,6,Indefinido,0
+ATT000647,EMP00435,SCL,Agente Check-in,Tierra,2023-12-04,Renuncia Voluntaria,1,Indefinido,1
+ATT000648,EMP00945,EZE,Agente Check-in,Tierra,2022-07-27,Renuncia Voluntaria,2,Part-time,1
+ATT000649,EMP01321,BOG,Ground Staff,Tierra,2022-01-05,Renuncia Voluntaria,12,Indefinido,1
+ATT000650,EMP01862,LIM,Agente Check-in,Tierra,2022-01-12,Renuncia Voluntaria,7,Indefinido,1
+ATT000651,EMP00423,GRU,Agente Check-in,Tierra,2024-01-23,Jubilacion,4,Indefinido,1
+ATT000652,EMP01807,MIA,Agente Check-in,Tierra,2022-07-13,Termino Contrato,15,Indefinido,1
+ATT000653,EMP01425,MIA,Piloto Copiloto,Cockpit,2023-08-12,Renuncia Voluntaria,7,Indefinido,0
+ATT000654,EMP00603,BOG,Ground Staff,Tierra,2023-01-14,Jubilacion,0,Indefinido,1
+ATT000655,EMP01018,SCL,Piloto Copiloto,Cockpit,2024-05-29,Despido,15,Part-time,0
+ATT000656,EMP00762,BOG,Tecnico Mantencion,Tierra,2022-03-16,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000657,EMP00874,MIA,Ground Staff,Tierra,2024-10-24,Despido,8,Part-time,1
+ATT000658,EMP01409,GRU,Ground Staff,Tierra,2024-07-19,Renuncia Voluntaria,7,Indefinido,1
+ATT000659,EMP00138,LIM,Tripulante Cabina,Cabina,2023-12-01,Despido,9,Indefinido,0
+ATT000660,EMP00590,SCL,Agente Check-in,Tierra,2024-09-19,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000661,EMP01367,MAD,Tripulante Cabina Senior,Cabina,2024-06-08,Termino Contrato,15,Plazo Fijo,0
+ATT000662,EMP01054,SCL,Ground Staff,Tierra,2022-01-12,Renuncia Voluntaria,3,Indefinido,1
+ATT000663,EMP01756,GRU,Agente Check-in,Tierra,2024-10-21,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000664,EMP01221,SCL,Ground Staff,Tierra,2023-09-13,Renuncia Voluntaria,4,Indefinido,1
+ATT000665,EMP01037,LIM,Piloto Comandante,Cockpit,2024-07-03,Renuncia Voluntaria,13,Indefinido,
+ATT000666,EMP00669,SCL,Ground Staff,Tierra,2023-05-04,Jubilacion,7,Part-time,1
+ATT000667,EMP01170,LIM,Agente Check-in,Tierra,2023-02-25,Despido,7,Indefinido,1
+ATT000668,EMP00760,SCL,Piloto Copiloto,Cockpit,2023-07-10,Jubilacion,7,Indefinido,1
+ATT000669,EMP01669,BOG,Agente Check-in,Tierra,2022-07-16,Termino Contrato,9,Indefinido,1
+ATT000670,EMP01799,JFK,Tripulante Cabina,Cabina,2023-01-13,Despido,2,Indefinido,1
+ATT000671,EMP01743,BOG,Tecnico Mantencion,Tierra,2022-08-10,Renuncia Voluntaria,10,Indefinido,1
+ATT000672,EMP01637,SCL,Tripulante Cabina,Cabina,2023-07-07,Jubilacion,1,Part-time,1
+ATT000673,EMP01619,GRU,Administrativo,Admin,2023-02-11,Termino Contrato,14,Indefinido,1
+ATT000674,EMP01570,SCL,Administrativo,Admin,2023-09-18,Jubilacion,5,Indefinido,1
+ATT000675,EMP01647,GRU,Tripulante Cabina,Cabina,2022-07-25,Renuncia Voluntaria,13,Part-time,1
+ATT000676,EMP01106,LIM,Ground Staff,Tierra,2024-05-16,Renuncia Voluntaria,4,Part-time,0
+ATT000677,EMP00990,GRU,Tecnico Mantencion,Tierra,2024-02-10,Despido,8,Indefinido,0
+ATT000678,EMP00579,EZE,Piloto Comandante,Cockpit,2024-05-11,Despido,11,Part-time,1
+ATT000679,EMP00800,BOG,Agente Check-in,Tierra,2024-01-06,Jubilacion,15,Indefinido,
+ATT000680,EMP01996,EZE,Tripulante Cabina,Cabina,2022-01-03,Renuncia Voluntaria,1,Indefinido,0
+ATT000681,EMP00934,LIM,Supervisor Operaciones,Tierra,2022-04-04,Renuncia Voluntaria,5,Plazo Fijo,0
+ATT000682,EMP01263,LIM,Tripulante Cabina,Cabina,2022-10-25,Termino Contrato,4,Indefinido,1
+ATT000683,EMP00461,SCL,Ground Staff,Tierra,2023-10-09,Termino Contrato,10,Indefinido,0
+ATT000684,EMP00606,BOG,Ground Staff,Tierra,2023-03-26,Despido,7,Indefinido,1
+ATT000685,EMP00722,EZE,Piloto Copiloto,Cockpit,2024-01-28,Despido,2,Part-time,1
+ATT000686,EMP01762,BOG,Tripulante Cabina Senior,Cabina,2022-10-22,Despido,8,Indefinido,1
+ATT000687,EMP01649,BOG,Tripulante Cabina Senior,Cabina,2024-02-03,Termino Contrato,,Part-time,1
+ATT000688,EMP01960,LIM,Tripulante Cabina Senior,Cabina,2023-05-29,Despido,12,Indefinido,0
+ATT000689,EMP00561,JFK,Supervisor Operaciones,Tierra,2024-07-13,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT000690,EMP01526,MIA,Agente Check-in,Tierra,2022-07-05,Renuncia Voluntaria,11,Indefinido,1
+ATT000691,EMP01546,EZE,Supervisor Operaciones,Tierra,2024-01-20,Renuncia Voluntaria,4,Plazo Fijo,
+ATT000692,EMP00869,EZE,Tecnico Mantencion,Tierra,2022-01-29,Jubilacion,15,Indefinido,0
+ATT000693,EMP00207,MIA,Tecnico Mantencion,Tierra,2024-01-01,Renuncia Voluntaria,4,Plazo Fijo,
+ATT000694,EMP01547,SCL,Tripulante Cabina,Cabina,2024-05-11,Traslado Base,13,Indefinido,1
+ATT000695,EMP01816,EZE,Piloto Copiloto,Cockpit,2024-04-17,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000696,EMP01479,BOG,Ground Staff,Tierra,2024-09-18,Renuncia Voluntaria,15,Indefinido,0
+ATT000697,EMP00174,SCL,Tripulante Cabina Senior,Cabina,2022-01-02,Renuncia Voluntaria,7,Part-time,1
+ATT000698,EMP01243,LIM,Agente Check-in,Tierra,2024-11-29,Renuncia Voluntaria,11,Indefinido,1
+ATT000699,EMP01166,SCL,Ground Staff,Tierra,2024-01-29,Jubilacion,10,Part-time,0
+ATT000700,EMP01416,MIA,Ground Staff,Tierra,2024-06-25,Jubilacion,14,Indefinido,1
+ATT000701,EMP00577,GRU,Tripulante Cabina,Cabina,2024-07-23,Despido,14,Indefinido,1
+ATT000702,EMP00887,SCL,Administrativo,Admin,2023-08-04,Termino Contrato,14,Plazo Fijo,1
+ATT000703,EMP01641,MIA,Tripulante Cabina Senior,Cabina,2024-07-06,Traslado Base,13,Part-time,1
+ATT000704,EMP01932,LIM,Piloto Comandante,Cockpit,2023-05-10,Termino Contrato,11,Indefinido,1
+ATT000705,EMP00404,BOG,Tripulante Cabina,Cabina,2024-06-22,Termino Contrato,2,Indefinido,0
+ATT000706,EMP00073,GRU,Tripulante Cabina Senior,Cabina,2024-01-14,Termino Contrato,4,Indefinido,1
+ATT000707,EMP00297,BOG,Tripulante Cabina Senior,Cabina,2023-07-14,Renuncia Voluntaria,10,Plazo Fijo,0
+ATT000708,EMP00620,EZE,Tripulante Cabina,Cabina,2024-07-17,Renuncia Voluntaria,6,Plazo Fijo,1
+ATT000709,EMP00405,MIA,Ground Staff,Tierra,2024-01-11,Termino Contrato,3,Indefinido,1
+ATT000710,EMP01623,JFK,Ground Staff,Tierra,2022-01-08,Termino Contrato,9,Indefinido,0
+ATT000711,EMP00722,GRU,Piloto Copiloto,Cockpit,2024-03-06,Renuncia Voluntaria,6,Indefinido,1
+ATT000712,EMP01375,GRU,Administrativo,Admin,2022-01-03,Renuncia Voluntaria,12,Indefinido,1
+ATT000713,EMP01999,EZE,Tripulante Cabina,Cabina,2024-10-20,Renuncia Voluntaria,7,Part-time,1
+ATT000714,EMP01940,GRU,Supervisor Operaciones,Tierra,2024-07-11,Jubilacion,7,Indefinido,0
+ATT000715,EMP01727,SCL,Piloto Comandante,Cockpit,2024-08-11,Termino Contrato,2,Indefinido,0
+ATT000716,EMP01674,EZE,Tripulante Cabina Senior,Cabina,2023-06-14,Jubilacion,2,Indefinido,0
+ATT000717,EMP01872,MIA,Piloto Comandante,Cockpit,2024-09-28,Renuncia Voluntaria,15,Indefinido,1
+ATT000718,EMP01577,BOG,Ground Staff,Tierra,2024-05-03,Renuncia Voluntaria,13,Plazo Fijo,1
+ATT000719,EMP00824,EZE,Supervisor Operaciones,Tierra,2024-11-27,Renuncia Voluntaria,0,Plazo Fijo,1
+ATT000720,EMP01631,SCL,Tripulante Cabina,Cabina,2023-08-01,Despido,2,Indefinido,0
+ATT000721,EMP01503,MIA,Tripulante Cabina Senior,Cabina,2022-07-29,Renuncia Voluntaria,8,Honorarios,1
+ATT000722,EMP01726,BOG,Tripulante Cabina,Cabina,2022-07-06,Renuncia Voluntaria,0,Indefinido,0
+ATT000723,EMP00039,SCL,Tripulante Cabina Senior,Cabina,2022-01-03,Termino Contrato,2,Indefinido,1
+ATT000724,EMP01417,GRU,Agente Check-in,Tierra,2024-04-26,Despido,4,Indefinido,1
+ATT000725,EMP00103,SCL,Tripulante Cabina,Cabina,2022-10-23,Termino Contrato,15,Indefinido,0
+ATT000726,EMP00868,SCL,Tripulante Cabina Senior,Cabina,2023-10-16,Jubilacion,3,Indefinido,0
+ATT000727,EMP01134,LIM,Agente Check-in,Tierra,2024-09-23,Traslado Base,9,Part-time,1
+ATT000728,EMP01816,SCL,Tripulante Cabina Senior,Cabina,2024-10-10,Despido,3,Plazo Fijo,1
+ATT000729,EMP00662,GRU,Tripulante Cabina Senior,Cabina,2024-01-04,Termino Contrato,4,Indefinido,1
+ATT000730,EMP01150,LIM,Piloto Copiloto,Cockpit,2022-03-04,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT000731,EMP00969,BOG,Tripulante Cabina Senior,Cabina,2024-01-11,Despido,10,Indefinido,1
+ATT000732,EMP00721,BOG,Seguridad,Tierra,2022-02-07,Jubilacion,,Indefinido,1
+ATT000733,EMP00267,BOG,Tripulante Cabina Senior,Cabina,2024-10-03,Renuncia Voluntaria,15,Indefinido,1
+ATT000734,EMP01340,GRU,Supervisor Operaciones,Tierra,2022-07-04,Renuncia Voluntaria,10,Indefinido,1
+ATT000735,EMP00758,LIM,Tripulante Cabina,Cabina,2023-10-22,Termino Contrato,1,Part-time,1
+ATT000736,EMP00441,MIA,Tripulante Cabina,Cabina,2022-03-01,Renuncia Voluntaria,6,Indefinido,
+ATT000737,EMP01132,SCL,Piloto Copiloto,Cockpit,2022-12-13,Renuncia Voluntaria,15,Indefinido,0
+ATT000738,EMP01203,JFK,Tripulante Cabina Senior,Cabina,2023-07-01,Jubilacion,0,Indefinido,1
+ATT000739,EMP01246,LIM,Tecnico Mantencion,Tierra,2023-10-06,Termino Contrato,15,Indefinido,1
+ATT000740,EMP00781,MIA,Ground Staff,Tierra,2022-07-21,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000741,EMP01354,LIM,Tripulante Cabina,Cabina,2023-05-21,Renuncia Voluntaria,5,Indefinido,0
+ATT000742,EMP00412,GRU,Ground Staff,Tierra,2022-07-29,Renuncia Voluntaria,5,Indefinido,1
+ATT000743,EMP00354,SCL,Ground Staff,Tierra,2024-07-26,Traslado Base,2,Indefinido,1
+ATT000744,EMP00750,SCL,Agente Check-in,Tierra,2022-10-14,Despido,4,Plazo Fijo,1
+ATT000745,EMP01491,LIM,Tripulante Cabina,Cabina,2024-07-09,Renuncia Voluntaria,13,Indefinido,1
+ATT000746,EMP01448,SCL,Piloto Copiloto,Cockpit,2024-09-02,Jubilacion,1,Indefinido,0
+ATT000747,EMP01676,LIM,Ground Staff,Tierra,2022-09-09,Jubilacion,3,Plazo Fijo,1
+ATT000748,EMP00869,EZE,Piloto Copiloto,Cockpit,2023-09-20,Renuncia Voluntaria,14,Honorarios,0
+ATT000749,EMP01598,GRU,Administrativo,Admin,2024-01-15,Termino Contrato,13,Indefinido,1
+ATT000750,EMP01923,SCL,Supervisor Operaciones,Tierra,2024-11-20,Jubilacion,7,Indefinido,1
+ATT000751,EMP00577,GRU,Ground Staff,Tierra,2022-07-25,Renuncia Voluntaria,11,Indefinido,0
+ATT000752,EMP00999,SCL,Piloto Copiloto,Cockpit,2022-11-05,Renuncia Voluntaria,4,Honorarios,1
+ATT000753,EMP00822,GRU,Tripulante Cabina,Cabina,2022-01-30,Renuncia Voluntaria,13,Indefinido,1
+ATT000754,EMP00210,BOG,Tripulante Cabina,Cabina,2023-07-21,Renuncia Voluntaria,9,Plazo Fijo,0
+ATT000755,EMP01525,MAD,Ground Staff,Tierra,2023-04-16,Termino Contrato,12,Part-time,0
+ATT000756,EMP00697,GRU,Tripulante Cabina,Cabina,2024-01-10,Jubilacion,10,Indefinido,1
+ATT000757,EMP01366,GRU,Supervisor Operaciones,Tierra,2022-01-04,Renuncia Voluntaria,3,Part-time,1
+ATT000758,EMP01675,JFK,Supervisor Operaciones,Tierra,2023-06-02,Jubilacion,14,Part-time,1
+ATT000759,EMP01626,LIM,Ground Staff,Tierra,2024-01-14,Renuncia Voluntaria,2,Indefinido,1
+ATT000760,EMP00071,LIM,Tripulante Cabina Senior,Cabina,2022-07-14,Renuncia Voluntaria,5,Indefinido,1
+ATT000761,EMP00196,GRU,Tripulante Cabina,Cabina,2023-06-07,Renuncia Voluntaria,5,Part-time,
+ATT000762,EMP00676,MAD,Agente Check-in,Tierra,2023-03-13,Renuncia Voluntaria,7,Plazo Fijo,1
+ATT000763,EMP01682,SCL,Agente Check-in,Tierra,2024-11-20,Termino Contrato,1,Plazo Fijo,1
+ATT000764,EMP00906,EZE,Tecnico Mantencion,Tierra,2024-11-21,Despido,0,Plazo Fijo,1
+ATT000765,EMP00696,MIA,Tecnico Mantencion,Tierra,2022-12-17,Termino Contrato,5,Part-time,
+ATT000766,EMP00838,GRU,Tripulante Cabina Senior,Cabina,2024-07-11,Renuncia Voluntaria,8,Indefinido,0
+ATT000767,EMP01713,GRU,Tripulante Cabina,Cabina,2023-09-17,Renuncia Voluntaria,5,Plazo Fijo,0
+ATT000768,EMP01127,BOG,Piloto Copiloto,Cockpit,2023-01-09,Termino Contrato,7,Indefinido,1
+ATT000769,EMP01998,GRU,Agente Check-in,Tierra,2022-12-25,Despido,,Plazo Fijo,0
+ATT000770,EMP00221,GRU,Tecnico Mantencion,Tierra,2024-01-09,Despido,13,Part-time,1
+ATT000771,EMP01529,BOG,Ground Staff,Tierra,2022-01-04,Termino Contrato,15,Plazo Fijo,0
+ATT000772,EMP01995,LIM,Piloto Comandante,Cockpit,2024-02-24,Jubilacion,8,Indefinido,0
+ATT000773,EMP01616,MAD,Piloto Copiloto,Cockpit,2024-03-12,Despido,11,Indefinido,
+ATT000774,EMP00166,SCL,Tripulante Cabina Senior,Cabina,2024-01-16,Renuncia Voluntaria,4,Indefinido,1
+ATT000775,EMP00484,SCL,Administrativo,Admin,2022-01-20,Termino Contrato,15,Indefinido,0
+ATT000776,EMP00018,SCL,Tripulante Cabina,Cabina,2024-06-20,Jubilacion,15,Plazo Fijo,0
+ATT000777,EMP01854,SCL,Tripulante Cabina,Cabina,2022-06-26,Renuncia Voluntaria,11,Part-time,
+ATT000778,EMP01008,LIM,Agente Check-in,Tierra,2022-02-16,Despido,11,Indefinido,0
+ATT000779,EMP00782,BOG,Tripulante Cabina,Cabina,2024-07-26,Renuncia Voluntaria,9,Indefinido,1
+ATT000780,EMP00613,BOG,Ground Staff,Tierra,2022-06-29,Renuncia Voluntaria,1,Indefinido,1
+ATT000781,EMP01942,GRU,Ground Staff,Tierra,2023-01-07,Despido,7,Indefinido,
+ATT000782,EMP00629,BOG,Ground Staff,Tierra,2022-01-27,Traslado Base,,Indefinido,0
+ATT000783,EMP01073,GRU,Piloto Copiloto,Cockpit,2022-07-22,Renuncia Voluntaria,14,Part-time,0
+ATT000784,EMP00188,BOG,Supervisor Operaciones,Tierra,2023-01-28,Renuncia Voluntaria,12,Indefinido,1
+ATT000785,EMP00235,BOG,Supervisor Operaciones,Tierra,2023-01-10,Despido,6,Indefinido,0
+ATT000786,EMP00779,EZE,Tripulante Cabina,Cabina,2024-01-17,Jubilacion,3,Plazo Fijo,0
+ATT000787,EMP00843,MAD,Ground Staff,Tierra,2024-04-06,Renuncia Voluntaria,9,Part-time,1
+ATT000788,EMP01999,BOG,Tecnico Mantencion,Tierra,2022-03-11,Renuncia Voluntaria,12,Plazo Fijo,1
+ATT000789,EMP00520,GRU,Tripulante Cabina,Cabina,2022-04-12,Despido,8,Indefinido,0
+ATT000790,EMP01896,JFK,Seguridad,Tierra,2023-01-16,Termino Contrato,5,Indefinido,0
+ATT000791,EMP00840,MIA,Tripulante Cabina,Cabina,2023-12-31,Renuncia Voluntaria,8,Indefinido,1
+ATT000792,EMP00590,LIM,Piloto Comandante,Cockpit,2024-01-25,Termino Contrato,5,Part-time,1
+ATT000793,EMP01310,LIM,Piloto Copiloto,Cockpit,2024-07-31,Renuncia Voluntaria,0,Indefinido,1
+ATT000794,EMP00445,SCL,Ground Staff,Tierra,2024-10-01,Renuncia Voluntaria,7,Honorarios,1
+ATT000795,EMP00763,MIA,Supervisor Operaciones,Tierra,2022-10-02,Despido,4,Indefinido,1
+ATT000796,EMP01804,MIA,Administrativo,Admin,2023-08-21,Renuncia Voluntaria,,Indefinido,1
+ATT000797,EMP01492,EZE,Tripulante Cabina,Cabina,2024-10-22,Traslado Base,13,Plazo Fijo,1
+ATT000798,EMP00420,SCL,Ground Staff,Tierra,2024-10-06,Jubilacion,5,Indefinido,1
+ATT000799,EMP00702,EZE,Agente Check-in,Tierra,2024-05-29,Termino Contrato,2,Plazo Fijo,1
+ATT000800,EMP01318,GRU,Piloto Copiloto,Cockpit,2022-01-05,Jubilacion,0,Indefinido,1
+ATT000801,EMP01035,EZE,Ground Staff,Tierra,2023-08-05,Renuncia Voluntaria,0,Indefinido,1
+ATT000802,EMP00098,MAD,Agente Check-in,Tierra,2024-01-31,Termino Contrato,5,Part-time,0
+ATT000803,EMP01799,BOG,Tripulante Cabina,Cabina,2024-01-25,Renuncia Voluntaria,12,Plazo Fijo,1
+ATT000804,EMP00032,LIM,Piloto Copiloto,Cockpit,2024-03-27,Renuncia Voluntaria,9,Honorarios,1
+ATT000805,EMP01773,SCL,Tripulante Cabina Senior,Cabina,2024-10-06,Traslado Base,11,Indefinido,1
+ATT000806,EMP00962,SCL,Tripulante Cabina,Cabina,2023-09-16,Renuncia Voluntaria,7,Indefinido,0
+ATT000807,EMP01977,BOG,Agente Check-in,Tierra,2024-10-11,Traslado Base,7,Part-time,0
+ATT000808,EMP00909,MIA,Piloto Copiloto,Cockpit,2023-10-18,Termino Contrato,8,Plazo Fijo,0
+ATT000809,EMP00496,MIA,Tripulante Cabina,Cabina,2023-08-26,Renuncia Voluntaria,15,Indefinido,0
+ATT000810,EMP01972,LIM,Agente Check-in,Tierra,2022-07-22,Despido,2,Indefinido,1
+ATT000811,EMP00321,SCL,Piloto Comandante,Cockpit,2022-10-19,Despido,5,Indefinido,1
+ATT000812,EMP00066,SCL,Agente Check-in,Tierra,2024-09-17,Termino Contrato,3,Indefinido,1
+ATT000813,EMP00563,EZE,Piloto Copiloto,Cockpit,2022-11-21,Renuncia Voluntaria,0,Indefinido,1
+ATT000814,EMP01912,LIM,Tripulante Cabina Senior,Cabina,2023-10-22,Termino Contrato,6,Indefinido,1
+ATT000815,EMP00562,GRU,Piloto Comandante,Cockpit,2022-06-13,Renuncia Voluntaria,,Indefinido,0
+ATT000816,EMP01873,SCL,Agente Check-in,Tierra,2024-07-07,Renuncia Voluntaria,10,Indefinido,1
+ATT000817,EMP01970,SCL,Tripulante Cabina Senior,Cabina,2024-12-13,Despido,10,Indefinido,
+ATT000818,EMP00416,LIM,Agente Check-in,Tierra,2023-10-30,Jubilacion,12,Indefinido,0
+ATT000819,EMP01472,GRU,Tripulante Cabina,Cabina,2023-08-21,Jubilacion,13,Part-time,1
+ATT000820,EMP01257,SCL,Piloto Copiloto,Cockpit,2023-05-31,Renuncia Voluntaria,6,Indefinido,1
+ATT000821,EMP01750,EZE,Piloto Copiloto,Cockpit,2023-10-09,Despido,4,Part-time,1
+ATT000822,EMP00875,EZE,Agente Check-in,Tierra,2024-07-08,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT000823,EMP01491,SCL,Tripulante Cabina,Cabina,2022-06-17,Renuncia Voluntaria,2,Indefinido,1
+ATT000824,EMP01772,LIM,Administrativo,Admin,2022-01-14,Termino Contrato,10,Indefinido,0
+ATT000825,EMP01758,SCL,Ground Staff,Tierra,2022-08-10,Jubilacion,11,Indefinido,1
+ATT000826,EMP01400,SCL,Tripulante Cabina,Cabina,2022-07-18,Renuncia Voluntaria,0,Indefinido,1
+ATT000827,EMP00692,EZE,Tecnico Mantencion,Tierra,2024-07-24,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT000828,EMP01571,MAD,Tripulante Cabina,Cabina,2022-01-05,Termino Contrato,15,Indefinido,0
+ATT000829,EMP01497,EZE,Piloto Comandante,Cockpit,2023-05-04,Termino Contrato,0,Plazo Fijo,0
+ATT000830,EMP00874,GRU,Administrativo,Admin,2022-03-23,Jubilacion,13,Indefinido,1
+ATT000831,EMP01343,MIA,Tripulante Cabina Senior,Cabina,2022-08-25,Renuncia Voluntaria,12,Indefinido,1
+ATT000832,EMP01092,MIA,Agente Check-in,Tierra,2022-08-20,Renuncia Voluntaria,12,Indefinido,1
+ATT000833,EMP00502,SCL,Agente Check-in,Tierra,2023-07-04,Termino Contrato,14,Plazo Fijo,1
+ATT000834,EMP00294,GRU,Agente Check-in,Tierra,2022-07-02,Jubilacion,6,Plazo Fijo,1
+ATT000835,EMP01496,GRU,Tripulante Cabina,Cabina,2022-06-22,Termino Contrato,0,Indefinido,1
+ATT000836,EMP01897,SCL,Tecnico Mantencion,Tierra,2022-01-21,Renuncia Voluntaria,8,Plazo Fijo,0
+ATT000837,EMP00461,LIM,Tripulante Cabina,Cabina,2024-05-21,Renuncia Voluntaria,0,Indefinido,1
+ATT000838,EMP00920,GRU,Tripulante Cabina Senior,Cabina,2024-09-16,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000839,EMP00973,,Tripulante Cabina Senior,Cabina,2024-01-30,Termino Contrato,6,Indefinido,1
+ATT000840,EMP00057,LIM,Tripulante Cabina Senior,Cabina,2022-07-05,Despido,13,Indefinido,1
+ATT000841,EMP00339,SCL,Tripulante Cabina,Cabina,2024-07-13,Termino Contrato,12,Plazo Fijo,1
+ATT000842,EMP00164,BOG,Tecnico Mantencion,Tierra,2023-01-31,Traslado Base,2,Indefinido,1
+ATT000843,EMP00937,SCL,Piloto Comandante,Cockpit,2024-12-04,Jubilacion,,Indefinido,1
+ATT000844,EMP00887,LIM,Ground Staff,Tierra,2024-01-17,Renuncia Voluntaria,9,Indefinido,1
+ATT000845,EMP01402,MIA,Ground Staff,Tierra,2023-07-21,Renuncia Voluntaria,3,Part-time,0
+ATT000846,EMP01031,GRU,Piloto Copiloto,Cockpit,2023-01-31,Jubilacion,11,Indefinido,1
+ATT000847,EMP00266,SCL,Supervisor Operaciones,Tierra,2022-09-09,Renuncia Voluntaria,9,Indefinido,
+ATT000848,EMP01218,MIA,Agente Check-in,Tierra,2022-02-08,Renuncia Voluntaria,12,Indefinido,1
+ATT000849,EMP01884,BOG,Piloto Comandante,Cockpit,2024-05-21,Renuncia Voluntaria,2,Indefinido,0
+ATT000850,EMP01260,bogota,Piloto Comandante,Cockpit,2023-10-04,Termino Contrato,3,Plazo Fijo,1
+ATT000851,EMP01929,BOG,Tripulante Cabina Senior,Cabina,2024-05-23,Jubilacion,1,Indefinido,1
+ATT000852,EMP01526,GRU,Tripulante Cabina Senior,Cabina,2022-04-14,Jubilacion,12,Indefinido,1
+ATT000853,EMP01212,SCL,Supervisor Operaciones,Tierra,2024-08-25,Termino Contrato,2,Honorarios,1
+ATT000854,EMP01806,SCL,Agente Check-in,Tierra,2024-04-19,Renuncia Voluntaria,11,Indefinido,1
+ATT000855,EMP01313,EZE,Ground Staff,Tierra,2022-06-19,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000856,EMP00698,BOG,Tripulante Cabina,Cabina,2023-09-10,Renuncia Voluntaria,6,Indefinido,1
+ATT000857,EMP00985,LIM,Tripulante Cabina Senior,Cabina,2022-09-07,Jubilacion,5,Indefinido,1
+ATT000858,EMP01484,GRU,Tecnico Mantencion,Tierra,2024-01-20,Termino Contrato,14,Indefinido,1
+ATT000859,EMP00848,GRU,Administrativo,Admin,2022-07-27,Renuncia Voluntaria,13,Indefinido,0
+ATT000860,EMP00822,GRU,Agente Check-in,Tierra,2023-10-26,Renuncia Voluntaria,10,Part-time,0
+ATT000861,EMP00278,SCL,Supervisor Operaciones,Tierra,2024-10-16,Renuncia Voluntaria,14,Indefinido,1
+ATT000862,EMP00447,SCL,Piloto Comandante,Cockpit,2023-04-01,Despido,9,Plazo Fijo,1
+ATT000863,EMP00683,GRU,Tripulante Cabina Senior,Cabina,2022-07-13,Traslado Base,14,Indefinido,1
+ATT000864,EMP01624,GRU,Piloto Comandante,Cockpit,2022-11-06,Renuncia Voluntaria,11,Plazo Fijo,0
+ATT000865,EMP00794,MIA,Agente Check-in,Tierra,2022-07-05,Termino Contrato,2,Part-time,1
+ATT000866,EMP01002,MAD,Agente Check-in,Tierra,2024-07-06,Jubilacion,15,Indefinido,0
+ATT000867,EMP01007,MIA,Agente Check-in,Tierra,2024-07-10,Renuncia Voluntaria,14,Indefinido,1
+ATT000868,EMP00220,EZE,Ground Staff,Tierra,2024-05-08,Despido,6,Part-time,1
+ATT000869,EMP00558,SCL,Tecnico Mantencion,Tierra,2024-07-10,Renuncia Voluntaria,4,Indefinido,0
+ATT000870,EMP00198,EZE,Tripulante Cabina Senior,Cabina,2024-03-17,Termino Contrato,1,Indefinido,0
+ATT000871,EMP01058,LIM,Agente Check-in,Tierra,2022-07-26,Termino Contrato,3,Indefinido,1
+ATT000872,EMP01381,SCL,Tripulante Cabina Senior,Cabina,2022-10-10,Renuncia Voluntaria,,Plazo Fijo,1
+ATT000873,EMP01532,GRU,Administrativo,Admin,2022-12-15,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT000874,EMP00431,SCL,Tripulante Cabina,Cabina,2023-06-04,Termino Contrato,14,Indefinido,1
+ATT000875,EMP01360,GRU,Piloto Comandante,Cockpit,2023-01-15,Termino Contrato,11,Indefinido,1
+ATT000876,EMP01047,MIA,Ground Staff,Tierra,2022-10-17,Renuncia Voluntaria,7,Indefinido,1
+ATT000877,EMP00896,BOG,Tripulante Cabina,Cabina,2024-07-12,Termino Contrato,0,Plazo Fijo,1
+ATT000878,EMP00943,MIA,Ground Staff,Tierra,2022-01-26,Jubilacion,9,Plazo Fijo,0
+ATT000879,EMP01564,LIM,Tripulante Cabina,Cabina,2023-02-19,Termino Contrato,0,Indefinido,0
+ATT000880,EMP01852,EZE,Agente Check-in,Tierra,2023-06-08,Termino Contrato,2,Part-time,0
+ATT000881,EMP01354,LIM,Supervisor Operaciones,Tierra,2022-12-10,Renuncia Voluntaria,8,Indefinido,0
+ATT000882,EMP00007,EZE,Tecnico Mantencion,Tierra,2023-01-23,Jubilacion,6,Indefinido,1
+ATT000883,EMP01458,MIA,Piloto Comandante,Cockpit,2022-11-17,Jubilacion,15,Indefinido,1
+ATT000884,EMP01027,BOG,Tecnico Mantencion,Tierra,2024-11-18,Jubilacion,13,Plazo Fijo,1
+ATT000885,EMP01250,JFK,Tripulante Cabina Senior,Cabina,2024-06-15,Renuncia Voluntaria,1,Plazo Fijo,
+ATT000886,EMP01297,BOG,Tripulante Cabina Senior,Cabina,2022-03-27,Termino Contrato,14,Indefinido,1
+ATT000887,EMP01204,BOG,Administrativo,Admin,2022-10-12,Jubilacion,11,Indefinido,1
+ATT000888,EMP00998,GRU,Agente Check-in,Tierra,2023-10-05,Traslado Base,12,Plazo Fijo,1
+ATT000889,EMP00746,BOG,Ground Staff,Tierra,2023-03-25,Renuncia Voluntaria,1,Plazo Fijo,
+ATT000890,EMP00738,MIA,Piloto Comandante,Cockpit,2022-07-05,Renuncia Voluntaria,4,Part-time,1
+ATT000891,EMP00321,LIM,Tripulante Cabina,Cabina,2023-01-27,Termino Contrato,11,Indefinido,1
+ATT000892,EMP01702,LIM,Tripulante Cabina Senior,Cabina,2023-08-22,Termino Contrato,11,Indefinido,0
+ATT000893,EMP01730,SCL,Tripulante Cabina Senior,Cabina,2023-07-05,Renuncia Voluntaria,5,Indefinido,1
+ATT000894,EMP01595,EZE,Piloto Comandante,Cockpit,2024-11-25,Renuncia Voluntaria,7,Indefinido,1
+ATT000895,EMP01270,GRU,Supervisor Operaciones,Tierra,2022-06-13,Renuncia Voluntaria,7,Indefinido,1
+ATT000896,EMP01949,SCL,Tripulante Cabina Senior,Cabina,2024-01-10,Termino Contrato,5,Plazo Fijo,1
+ATT000897,EMP00297,MIA,Ground Staff,Tierra,2024-01-23,Renuncia Voluntaria,6,Indefinido,1
+ATT000898,EMP01596,GRU,Agente Check-in,Tierra,2024-11-22,Termino Contrato,12,Part-time,0
+ATT000899,EMP01210,SCL,Supervisor Operaciones,Tierra,2023-12-07,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT000900,EMP01052,GRU,Tripulante Cabina Senior,Cabina,2022-04-07,Renuncia Voluntaria,15,Indefinido,1
+ATT000901,EMP00045,BOG,Supervisor Operaciones,Tierra,2022-06-01,Termino Contrato,9,Part-time,0
+ATT000902,EMP00473,EZE,Tripulante Cabina,Cabina,2022-05-28,Termino Contrato,5,Part-time,1
+ATT000903,EMP01200,LIM,Tripulante Cabina,Cabina,2024-01-13,Traslado Base,10,Plazo Fijo,1
+ATT000904,EMP01177,LIM,Tripulante Cabina Senior,Cabina,2022-07-08,Jubilacion,10,Plazo Fijo,0
+ATT000905,EMP01562,SCL,Piloto Copiloto,Cockpit,2024-10-07,Renuncia Voluntaria,12,Indefinido,1
+ATT000906,EMP00240,LIM,Tecnico Mantencion,Tierra,2024-11-03,Termino Contrato,14,Indefinido,1
+ATT000907,EMP00697,GRU,Supervisor Operaciones,Tierra,2023-11-17,Renuncia Voluntaria,13,Indefinido,1
+ATT000908,EMP01173,SCL,Agente Check-in,Tierra,2024-06-24,Renuncia Voluntaria,0,Indefinido,1
+ATT000909,EMP01150,EZE,Piloto Copiloto,Cockpit,2023-06-23,Termino Contrato,2,Plazo Fijo,1
+ATT000910,EMP01664,GRU,Tripulante Cabina Senior,Cabina,2024-01-16,Renuncia Voluntaria,11,Plazo Fijo,1
+ATT000911,EMP01440,GRU,Ground Staff,Tierra,2024-01-27,Jubilacion,13,Indefinido,0
+ATT000912,EMP01912,EZE,Tecnico Mantencion,Tierra,2023-04-30,Jubilacion,2,Indefinido,1
+ATT000913,EMP01401,GRU,Tripulante Cabina,Cabina,2022-11-28,Jubilacion,1,Indefinido,1
+ATT000914,EMP01924,GRU,Ground Staff,Tierra,2024-01-14,Traslado Base,0,Indefinido,0
+ATT000915,EMP01125,SCL,Administrativo,Admin,2022-08-10,Termino Contrato,4,Honorarios,1
+ATT000916,EMP01162,GRU,Tripulante Cabina Senior,Cabina,2023-07-13,Despido,3,Indefinido,1
+ATT000917,EMP01683,SCL,Tripulante Cabina,Cabina,2024-10-07,Termino Contrato,12,Indefinido,1
+ATT000918,EMP00232,LIM,Agente Check-in,Tierra,2022-03-26,Jubilacion,5,Plazo Fijo,1
+ATT000919,EMP00842,BOG,Tripulante Cabina,Cabina,2024-07-06,Renuncia Voluntaria,6,Indefinido,0
+ATT000920,EMP01997,GRU,Tripulante Cabina Senior,Cabina,2023-07-21,Termino Contrato,14,Plazo Fijo,1
+ATT000921,EMP01132,LIM,Supervisor Operaciones,Tierra,2023-07-19,Jubilacion,15,Indefinido,0
+ATT000922,EMP00766,BOG,Administrativo,Admin,2023-09-26,Despido,5,Plazo Fijo,1
+ATT000923,EMP01699,JFK,Piloto Comandante,Cockpit,2023-06-01,Termino Contrato,10,Indefinido,1
+ATT000924,EMP01846,SCL,Tripulante Cabina Senior,Cabina,2022-10-31,Despido,3,Indefinido,0
+ATT000925,EMP01194,MIA,Tecnico Mantencion,Tierra,2022-01-18,Renuncia Voluntaria,6,Indefinido,1
+ATT000926,EMP00496,BOG,Ground Staff,Tierra,2024-01-04,Jubilacion,9,Indefinido,1
+ATT000927,EMP01319,BOG,Agente Check-in,Tierra,2024-03-11,Despido,12,Part-time,1
+ATT000928,EMP00290,SCL,Ground Staff,Tierra,2024-02-22,Renuncia Voluntaria,13,Indefinido,0
+ATT000929,EMP01373,SCL,Supervisor Operaciones,Tierra,2022-01-24,Renuncia Voluntaria,14,Indefinido,0
+ATT000930,EMP01410,MIA,Tripulante Cabina,Cabina,2023-01-27,Renuncia Voluntaria,1,Indefinido,1
+ATT000931,EMP00334,SCL,Agente Check-in,Tierra,2023-07-05,Renuncia Voluntaria,0,Indefinido,0
+ATT000932,EMP01013,GRU,Tripulante Cabina,Cabina,2023-10-24,Jubilacion,0,Indefinido,1
+ATT000933,EMP00149,MIA,Ground Staff,Tierra,2023-09-07,Renuncia Voluntaria,15,Indefinido,1
+ATT000934,EMP01973,MIA,Supervisor Operaciones,Tierra,2022-02-05,Despido,14,Part-time,0
+ATT000935,EMP00312,GRU,Ground Staff,Tierra,2023-01-22,Renuncia Voluntaria,5,Indefinido,1
+ATT000936,EMP00692,SCL,Ground Staff,Tierra,2023-07-16,Renuncia Voluntaria,9,Part-time,1
+ATT000937,EMP01738,LIM,Ground Staff,Tierra,2023-01-01,Renuncia Voluntaria,7,Part-time,1
+ATT000938,EMP01590,JFK,Tripulante Cabina Senior,Cabina,2024-09-20,Jubilacion,12,Indefinido,1
+ATT000939,EMP01472,EZE,Agente Check-in,Tierra,2024-05-05,Jubilacion,12,Plazo Fijo,1
+ATT000940,EMP01018,EZE,Supervisor Operaciones,Tierra,2023-01-22,Traslado Base,13,Indefinido,1
+ATT000941,EMP01024,LIM,Tecnico Mantencion,Tierra,2024-12-09,Renuncia Voluntaria,7,Indefinido,1
+ATT000942,EMP01665,GRU,Piloto Comandante,Cockpit,2023-09-09,Jubilacion,7,Indefinido,1
+ATT000943,EMP00235,SCL,Supervisor Operaciones,Tierra,2022-01-07,Renuncia Voluntaria,6,Indefinido,1
+ATT000944,EMP01095,LIM,Administrativo,Admin,2022-01-06,Termino Contrato,13,Indefinido,1
+ATT000945,EMP00653,MIA,Tecnico Mantencion,Tierra,2024-07-22,Traslado Base,12,Indefinido,1
+ATT000946,EMP00908,BOG,Tripulante Cabina Senior,Cabina,2022-01-30,Renuncia Voluntaria,2,Plazo Fijo,1
+ATT000947,EMP00381,GRU,Piloto Comandante,Cockpit,2024-01-01,Termino Contrato,10,Indefinido,1
+ATT000948,EMP00682,LIM,Seguridad,Tierra,2024-07-27,Jubilacion,2,Indefinido,1
+ATT000949,EMP00038,LIM,Tripulante Cabina,Cabina,2023-10-12,Renuncia Voluntaria,15,Indefinido,
+ATT000950,EMP00583,MAD,Piloto Copiloto,Cockpit,2023-04-30,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT000951,EMP00448,LIM,Ground Staff,Tierra,2022-02-02,Traslado Base,12,Plazo Fijo,0
+ATT000952,EMP01565,SCL,Tripulante Cabina Senior,Cabina,2022-12-01,Renuncia Voluntaria,6,Part-time,1
+ATT000953,EMP01462,GRU,Piloto Copiloto,Cockpit,2022-03-16,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT000954,EMP00040,SCL,Piloto Copiloto,Cockpit,2024-01-09,Renuncia Voluntaria,6,Indefinido,1
+ATT000955,EMP01524,GRU,Tecnico Mantencion,Tierra,2022-07-14,Renuncia Voluntaria,2,Honorarios,1
+ATT000956,EMP01548,BOG,Tecnico Mantencion,Tierra,2024-12-13,Renuncia Voluntaria,1,Plazo Fijo,0
+ATT000957,EMP00702,MIA,Tripulante Cabina,Cabina,2022-05-02,Renuncia Voluntaria,8,Honorarios,0
+ATT000958,EMP00190,SCL,Tripulante Cabina,Cabina,2024-02-04,Traslado Base,11,Honorarios,1
+ATT000959,EMP01151,SCL,Administrativo,Admin,2024-07-21,Renuncia Voluntaria,0,Indefinido,1
+ATT000960,EMP00648,MIA,Agente Check-in,Tierra,2023-01-29,Renuncia Voluntaria,13,Part-time,1
+ATT000961,EMP01477,BOG,Tecnico Mantencion,Tierra,2024-06-12,Despido,7,Indefinido,1
+ATT000962,EMP01737,EZE,Tecnico Mantencion,Tierra,2023-04-26,Despido,1,Indefinido,1
+ATT000963,EMP00818,GRU,Tripulante Cabina Senior,Cabina,2022-01-22,Renuncia Voluntaria,10,Indefinido,1
+ATT000964,EMP01128,GRU,Tripulante Cabina Senior,Cabina,2022-09-13,Despido,8,Indefinido,1
+ATT000965,EMP01653,GRU,Administrativo,Admin,2024-08-26,Jubilacion,5,Indefinido,1
+ATT000966,EMP01574,BOG,Agente Check-in,Tierra,2022-07-31,Renuncia Voluntaria,10,Part-time,1
+ATT000967,EMP01792,SCL,Ground Staff,Tierra,2022-01-27,Renuncia Voluntaria,12,Indefinido,0
+ATT000968,EMP01205,SCL,Supervisor Operaciones,Tierra,2024-05-08,Traslado Base,8,Indefinido,1
+ATT000969,EMP00985,LIM,Tripulante Cabina,Cabina,2024-07-10,Renuncia Voluntaria,15,Honorarios,1
+ATT000970,EMP00481,BOG,Agente Check-in,Tierra,2023-01-19,Renuncia Voluntaria,3,Indefinido,0
+ATT000971,EMP00529,SCL,Supervisor Operaciones,Tierra,2024-04-26,Renuncia Voluntaria,0,Honorarios,1
+ATT000972,EMP00781,MIA,Agente Check-in,Tierra,2023-08-13,Termino Contrato,10,Part-time,1
+ATT000973,EMP00723,BOG,Supervisor Operaciones,Tierra,2023-06-07,Jubilacion,11,Indefinido,1
+ATT000974,EMP01250,MIA,Administrativo,Admin,2023-04-13,Termino Contrato,7,Part-time,1
+ATT000975,EMP01874,GRU,Piloto Copiloto,Cockpit,2024-01-11,Jubilacion,6,Indefinido,1
+ATT000976,EMP01222,BOG,Supervisor Operaciones,Tierra,2024-11-03,Renuncia Voluntaria,11,Plazo Fijo,1
+ATT000977,EMP01578,LIM,Tripulante Cabina,Cabina,2022-07-02,Traslado Base,11,Part-time,1
+ATT000978,EMP00731,BOG,Supervisor Operaciones,Tierra,2024-04-04,Despido,4,Honorarios,1
+ATT000979,EMP01836,SCL,Tecnico Mantencion,Tierra,2022-10-14,Traslado Base,0,Indefinido,0
+ATT000980,EMP01052,MIA,Supervisor Operaciones,Tierra,2022-07-01,Renuncia Voluntaria,9,Indefinido,0
+ATT000981,EMP00930,BOG,Tripulante Cabina,Cabina,2024-03-27,Renuncia Voluntaria,10,Indefinido,0
+ATT000982,EMP01311,SCL,Tripulante Cabina,Cabina,2023-12-26,Renuncia Voluntaria,1,Indefinido,1
+ATT000983,EMP00597,LIM,Tripulante Cabina,Cabina,2024-04-14,Traslado Base,8,Indefinido,0
+ATT000984,EMP00563,SCL,Tripulante Cabina,Cabina,2023-03-29,Despido,1,Honorarios,1
+ATT000985,EMP00042,BOG,Tripulante Cabina Senior,Cabina,2023-12-03,Termino Contrato,0,Plazo Fijo,1
+ATT000986,EMP01604,LIM,Administrativo,Admin,2024-05-30,Renuncia Voluntaria,,Plazo Fijo,1
+ATT000987,EMP00386,EZE,Piloto Copiloto,Cockpit,2023-11-20,Jubilacion,3,Indefinido,0
+ATT000988,EMP01919,MIA,Agente Check-in,Tierra,2024-01-05,Despido,0,Indefinido,0
+ATT000989,EMP00233,MAD,Tripulante Cabina,Cabina,2024-04-17,Renuncia Voluntaria,7,Indefinido,1
+ATT000990,EMP00338,BOG,Ground Staff,Tierra,2022-07-07,Renuncia Voluntaria,3,Indefinido,1
+ATT000991,EMP01552,GRU,Tripulante Cabina Senior,Cabina,2022-12-19,Termino Contrato,3,Indefinido,1
+ATT000992,EMP00231,MIA,Tripulante Cabina,Cabina,2023-01-16,Termino Contrato,15,Part-time,0
+ATT000993,EMP00969,MAD,Ground Staff,Tierra,2023-08-10,Renuncia Voluntaria,14,Indefinido,0
+ATT000994,EMP01255,GRU,Seguridad,Tierra,2024-02-18,Despido,14,Indefinido,1
+ATT000995,EMP00753,LIM,Piloto Comandante,Cockpit,2022-04-10,Jubilacion,11,Indefinido,1
+ATT000996,EMP00762,GRU,Piloto Comandante,Cockpit,2022-10-31,Despido,11,Indefinido,1
+ATT000997,EMP01796,BOG,Piloto Comandante,Cockpit,2024-06-12,Despido,5,Part-time,1
+ATT000998,EMP01126,BOG,Tripulante Cabina,Cabina,2022-06-29,Renuncia Voluntaria,14,Indefinido,1
+ATT000999,EMP01502,SCL,Tripulante Cabina Senior,Cabina,2024-10-09,Termino Contrato,,Part-time,1
+ATT001000,EMP01270,SCL,Ground Staff,Tierra,2023-10-01,Termino Contrato,1,Indefinido,1
+ATT001001,EMP00648,BOG,Piloto Copiloto,Cockpit,2023-01-05,Termino Contrato,12,Indefinido,1
+ATT001002,EMP01525,SCL,Tripulante Cabina,Cabina,2024-12-23,Renuncia Voluntaria,9,Honorarios,1
+ATT001003,EMP01749,GRU,Agente Check-in,Tierra,2024-07-20,Renuncia Voluntaria,5,Indefinido,1
+ATT001004,EMP01275,BOG,Tripulante Cabina Senior,Cabina,2023-07-19,Despido,0,Plazo Fijo,1
+ATT001005,EMP01175,MIA,Supervisor Operaciones,Tierra,2023-07-30,Renuncia Voluntaria,12,Indefinido,1
+ATT001006,EMP01471,EZE,Supervisor Operaciones,Tierra,2023-11-25,Traslado Base,12,Indefinido,0
+ATT001007,EMP00925,BOG,Agente Check-in,Tierra,2024-01-18,Renuncia Voluntaria,5,Indefinido,1
+ATT001008,EMP00147,GRU,Supervisor Operaciones,Tierra,2024-01-12,Renuncia Voluntaria,7,Part-time,1
+ATT001009,EMP00089,SCL,Tripulante Cabina Senior,Cabina,2024-02-10,Termino Contrato,5,Indefinido,
+ATT001010,EMP00707,SCL,Tripulante Cabina Senior,Cabina,2024-12-26,Jubilacion,7,Indefinido,1
+ATT001011,EMP01113,BOG,Ground Staff,Tierra,2022-01-22,Termino Contrato,12,Part-time,1
+ATT001012,EMP01353,BOG,Agente Check-in,Tierra,2023-01-11,Traslado Base,5,Plazo Fijo,1
+ATT001013,EMP00247,GRU,Ground Staff,Tierra,2024-05-25,Renuncia Voluntaria,11,Indefinido,1
+ATT001014,EMP00190,SCL,Agente Check-in,Tierra,2023-09-12,Renuncia Voluntaria,1,Indefinido,1
+ATT001015,EMP01683,BOG,Ground Staff,Tierra,2022-01-25,Renuncia Voluntaria,3,Indefinido,1
+ATT001016,EMP00167,SCL,Supervisor Operaciones,Tierra,2023-06-08,Termino Contrato,6,Honorarios,1
+ATT001017,EMP01661,GRU,Piloto Copiloto,Cockpit,2022-07-08,Termino Contrato,8,Plazo Fijo,1
+ATT001018,EMP01451,SCL,Agente Check-in,Tierra,2022-07-25,Renuncia Voluntaria,1,Indefinido,0
+ATT001019,EMP00144,BOG,Tripulante Cabina Senior,Cabina,2023-05-20,Renuncia Voluntaria,0,Indefinido,1
+ATT001020,EMP00720,SCL,Supervisor Operaciones,Tierra,2022-05-22,Renuncia Voluntaria,6,Plazo Fijo,1
+ATT001021,EMP01759,LIM,Tripulante Cabina,Cabina,2023-01-08,Termino Contrato,6,Indefinido,0
+ATT001022,EMP01493,BOG,Tripulante Cabina Senior,Cabina,2023-10-25,Termino Contrato,13,Plazo Fijo,1
+ATT001023,EMP00178,MIA,Ground Staff,Tierra,2024-01-22,Despido,14,Part-time,1
+ATT001024,EMP00486,EZE,Tripulante Cabina Senior,Cabina,2022-11-30,Termino Contrato,0,Part-time,1
+ATT001025,EMP01331,GRU,Tecnico Mantencion,Tierra,2024-09-10,Termino Contrato,10,Indefinido,
+ATT001026,EMP00423,EZE,Tripulante Cabina Senior,Cabina,2022-10-26,Renuncia Voluntaria,12,Indefinido,1
+ATT001027,EMP01170,MIA,Tripulante Cabina Senior,Cabina,2023-06-05,Renuncia Voluntaria,13,Indefinido,0
+ATT001028,EMP01307,MAD,Piloto Copiloto,Cockpit,2024-01-01,Renuncia Voluntaria,12,Plazo Fijo,1
+ATT001029,EMP00007,SCL,Tripulante Cabina Senior,Cabina,2022-01-24,Jubilacion,11,Indefinido,1
+ATT001030,EMP01697,MIA,Ground Staff,Tierra,2023-12-08,Termino Contrato,5,Indefinido,0
+ATT001031,EMP00821,BOG,Piloto Comandante,Cockpit,2024-01-22,Jubilacion,4,Honorarios,
+ATT001032,EMP00338,SCL,Piloto Copiloto,Cockpit,2023-01-08,Traslado Base,15,Indefinido,1
+ATT001033,EMP00598,,Tecnico Mantencion,Tierra,2022-07-02,Termino Contrato,13,Indefinido,0
+ATT001034,EMP01033,SCL,Agente Check-in,Tierra,2023-01-09,Termino Contrato,6,Indefinido,0
+ATT001035,EMP00518,SCL,Supervisor Operaciones,Tierra,2023-02-17,Traslado Base,2,Indefinido,1
+ATT001036,EMP00414,SCL,Piloto Comandante,Cockpit,2024-01-29,Termino Contrato,14,Part-time,1
+ATT001037,EMP01207,MAD,Agente Check-in,Tierra,2023-07-22,Termino Contrato,1,Indefinido,1
+ATT001038,EMP00414,EZE,Ground Staff,Tierra,2023-01-06,Termino Contrato,7,Honorarios,1
+ATT001039,EMP00132,SCL,Ground Staff,Tierra,2023-07-02,Renuncia Voluntaria,5,Indefinido,1
+ATT001040,EMP01299,JFK,Ground Staff,Tierra,2022-12-08,Despido,7,Plazo Fijo,0
+ATT001041,EMP00338,LIM,Administrativo,Admin,2022-01-09,Traslado Base,5,Indefinido,1
+ATT001042,EMP01258,GRU,Tripulante Cabina Senior,Cabina,2023-03-13,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT001043,EMP01244,GRU,Ground Staff,Tierra,2023-07-28,Despido,15,Honorarios,1
+ATT001044,EMP00763,SCL,Tripulante Cabina,Cabina,2023-12-13,Renuncia Voluntaria,2,Indefinido,
+ATT001045,EMP00465,MAD,Ground Staff,Tierra,2024-01-02,Termino Contrato,1,Indefinido,1
+ATT001046,EMP00718,LIM,Supervisor Operaciones,Tierra,2024-07-24,Jubilacion,1,Indefinido,1
+ATT001047,EMP01323,MAD,Agente Check-in,Tierra,2023-11-15,Jubilacion,10,Honorarios,0
+ATT001048,EMP00674,SCL,Piloto Copiloto,Cockpit,2024-12-13,Despido,13,Plazo Fijo,
+ATT001049,EMP00658,GRU,Agente Check-in,Tierra,2023-10-04,Termino Contrato,3,Indefinido,0
+ATT001050,EMP01293,GRU,Piloto Copiloto,Cockpit,2023-10-11,Termino Contrato,14,Plazo Fijo,0
+ATT001051,EMP00640,LIM,Tripulante Cabina Senior,Cabina,2023-01-09,Renuncia Voluntaria,3,Indefinido,1
+ATT001052,EMP01811,SCL,Ground Staff,Tierra,2024-01-31,Traslado Base,9,Part-time,1
+ATT001053,EMP00019,GRU,Tripulante Cabina Senior,Cabina,2023-12-16,Renuncia Voluntaria,9,Indefinido,1
+ATT001054,EMP01710,SCL,Tripulante Cabina Senior,Cabina,2024-01-10,Despido,5,Indefinido,0
+ATT001055,EMP00490,EZE,Supervisor Operaciones,Tierra,2023-06-29,Renuncia Voluntaria,11,Indefinido,0
+ATT001056,EMP00010,LIM,Ground Staff,Tierra,2022-06-22,Renuncia Voluntaria,0,Indefinido,1
+ATT001057,EMP01478,SCL,Ground Staff,Tierra,2022-02-14,Renuncia Voluntaria,8,Part-time,0
+ATT001058,EMP00986,MAD,Seguridad,Tierra,2022-01-26,Jubilacion,3,Part-time,1
+ATT001059,EMP01628,GRU,Tripulante Cabina Senior,Cabina,2023-07-31,Termino Contrato,13,Plazo Fijo,1
+ATT001060,EMP00196,MIA,Tripulante Cabina,Cabina,2022-05-03,Termino Contrato,8,Indefinido,1
+ATT001061,EMP00344,GRU,Ground Staff,Tierra,2024-07-19,Jubilacion,14,Indefinido,0
+ATT001062,EMP01772,GRU,Tripulante Cabina Senior,Cabina,2024-03-13,Renuncia Voluntaria,13,Indefinido,0
+ATT001063,EMP00954,MIA,Tripulante Cabina Senior,Cabina,2023-07-02,Traslado Base,7,Indefinido,1
+ATT001064,EMP01521,MAD,Tripulante Cabina,Cabina,2023-07-30,Renuncia Voluntaria,9,Indefinido,1
+ATT001065,EMP00642,GRU,Piloto Comandante,Cockpit,2023-01-14,Termino Contrato,2,Part-time,1
+ATT001066,EMP00378,GRU,Agente Check-in,Tierra,2022-05-04,Termino Contrato,12,Plazo Fijo,1
+ATT001067,EMP01666,JFK,Tripulante Cabina,Cabina,2022-01-28,Termino Contrato,0,Indefinido,0
+ATT001068,EMP00544,MIA,Tripulante Cabina Senior,Cabina,2024-01-17,Renuncia Voluntaria,14,Indefinido,1
+ATT001069,EMP00542,LIM,Tripulante Cabina Senior,Cabina,2023-07-24,Renuncia Voluntaria,9,Indefinido,0
+ATT001070,EMP00822,MIA,Tripulante Cabina Senior,Cabina,2022-07-25,Renuncia Voluntaria,14,Part-time,1
+ATT001071,EMP00706,MAD,Administrativo,Admin,2022-07-20,Termino Contrato,13,Plazo Fijo,0
+ATT001072,EMP00193,JFK,Tripulante Cabina,Cabina,2023-01-23,Despido,2,Part-time,1
+ATT001073,EMP00820,MIA,Piloto Copiloto,Cockpit,2024-04-21,Renuncia Voluntaria,14,Indefinido,1
+ATT001074,EMP01429,GRU,Supervisor Operaciones,Tierra,2022-05-19,Jubilacion,2,Plazo Fijo,0
+ATT001075,EMP00177,SCL,Ground Staff,Tierra,2023-04-05,Termino Contrato,8,Indefinido,1
+ATT001076,EMP00592,MIA,Tripulante Cabina Senior,Cabina,2024-07-31,Jubilacion,10,Honorarios,1
+ATT001077,EMP01878,GRU,Ground Staff,Tierra,2023-07-05,Renuncia Voluntaria,0,Indefinido,1
+ATT001078,EMP00681,EZE,Piloto Comandante,Cockpit,2023-03-03,Termino Contrato,2,Honorarios,1
+ATT001079,EMP01328,EZE,Tripulante Cabina,Cabina,2023-03-18,Termino Contrato,,Indefinido,0
+ATT001080,EMP01532,SCL,Piloto Comandante,Cockpit,2023-09-18,Termino Contrato,10,Honorarios,1
+ATT001081,EMP01397,SCL,Tripulante Cabina,Cabina,2023-08-09,Jubilacion,5,Plazo Fijo,1
+ATT001082,EMP01095,BOG,Piloto Copiloto,Cockpit,2023-11-21,Despido,14,Part-time,1
+ATT001083,EMP01157,SCL,Piloto Comandante,Cockpit,2023-08-06,Traslado Base,3,Part-time,
+ATT001084,EMP01119,GRU,Tripulante Cabina,Cabina,2024-10-28,Termino Contrato,5,Plazo Fijo,1
+ATT001085,EMP00884,SCL,Tripulante Cabina,Cabina,2024-01-01,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT001086,EMP00097,MIA,Tripulante Cabina,Cabina,2022-06-24,Termino Contrato,4,Indefinido,1
+ATT001087,EMP00751,BOG,Piloto Copiloto,Cockpit,2024-07-27,Despido,14,Indefinido,1
+ATT001088,EMP01350,MAD,Tripulante Cabina,Cabina,2022-12-31,Renuncia Voluntaria,7,Part-time,1
+ATT001089,EMP01126,MIA,Tripulante Cabina,Cabina,2023-12-02,Termino Contrato,13,Part-time,1
+ATT001090,EMP00781,SCL,Ground Staff,Tierra,2022-07-17,Renuncia Voluntaria,6,Indefinido,0
+ATT001091,EMP01973,BOG,Tripulante Cabina Senior,Cabina,2023-04-17,Jubilacion,14,Indefinido,1
+ATT001092,EMP01664,SCL,Tripulante Cabina,Cabina,2024-07-15,Jubilacion,2,Plazo Fijo,1
+ATT001093,EMP01639,BOG,Tripulante Cabina Senior,Cabina,2023-10-14,Termino Contrato,1,Part-time,1
+ATT001094,EMP01513,BOG,Tripulante Cabina Senior,Cabina,2024-01-21,Despido,4,Indefinido,1
+ATT001095,EMP00873,GRU,Piloto Comandante,Cockpit,2022-02-28,Termino Contrato,8,Indefinido,0
+ATT001096,EMP00585,EZE,Ground Staff,Tierra,2023-05-05,Despido,15,Indefinido,1
+ATT001097,EMP00743,LIM,Tripulante Cabina Senior,Cabina,2024-06-28,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT001098,EMP01024,BOG,Tecnico Mantencion,Tierra,2024-01-03,Jubilacion,6,Indefinido,1
+ATT001099,EMP00574,MIA,Administrativo,Admin,2022-07-13,Traslado Base,12,Part-time,1
+ATT001100,EMP00019,GRU,Tripulante Cabina,Cabina,2023-05-24,Termino Contrato,14,Indefinido,1
+ATT001101,EMP01792,SCL,Tripulante Cabina,Cabina,2022-11-29,Despido,5,Indefinido,1
+ATT001102,EMP01118,GRU,Piloto Comandante,Cockpit,2023-11-08,Renuncia Voluntaria,10,Indefinido,0
+ATT001103,EMP01363,EZE,Tripulante Cabina,Cabina,2023-02-04,Jubilacion,6,Plazo Fijo,
+ATT001104,EMP00241,GRU,Agente Check-in,Tierra,2023-12-17,Renuncia Voluntaria,1,Honorarios,1
+ATT001105,EMP01608,SCL,Ground Staff,Tierra,2023-04-22,Despido,10,Part-time,1
+ATT001106,EMP00271,BOG,Tripulante Cabina Senior,Cabina,2024-04-01,Jubilacion,6,Plazo Fijo,1
+ATT001107,EMP01713,LIM,Supervisor Operaciones,Tierra,2023-01-25,Renuncia Voluntaria,14,Indefinido,1
+ATT001108,EMP00104,BOG,Tripulante Cabina,Cabina,2022-09-27,Termino Contrato,6,Indefinido,1
+ATT001109,EMP01732,LIM,Tripulante Cabina,Cabina,2022-04-06,Traslado Base,6,Indefinido,1
+ATT001110,EMP01322,EZE,Agente Check-in,Tierra,2023-06-05,Renuncia Voluntaria,12,Indefinido,0
+ATT001111,EMP01026,EZE,Seguridad,Tierra,2022-03-18,Termino Contrato,4,Part-time,1
+ATT001112,EMP01425,EZE,Piloto Copiloto,Cockpit,2023-12-08,Jubilacion,1,Honorarios,0
+ATT001113,EMP00149,LIM,Piloto Comandante,Cockpit,2024-01-22,Renuncia Voluntaria,,Indefinido,1
+ATT001114,EMP00888,LIM,Ground Staff,Tierra,2023-12-28,Renuncia Voluntaria,0,Indefinido,0
+ATT001115,EMP01223,LIM,Ground Staff,Tierra,2023-02-14,Termino Contrato,9,Indefinido,1
+ATT001116,EMP00425,SCL,Agente Check-in,Tierra,2024-08-31,Despido,1,Plazo Fijo,1
+ATT001117,EMP00824,SCL,Ground Staff,Tierra,2023-02-10,Termino Contrato,15,Indefinido,1
+ATT001118,EMP00265,SCL,Tripulante Cabina,Cabina,2022-01-17,Renuncia Voluntaria,8,Indefinido,0
+ATT001119,EMP00382,BOG,Piloto Comandante,Cockpit,2022-01-30,Renuncia Voluntaria,12,Part-time,1
+ATT001120,EMP00496,MIA,Piloto Comandante,Cockpit,2023-11-26,Termino Contrato,4,Indefinido,1
+ATT001121,EMP01713,BOG,Tripulante Cabina Senior,Cabina,2023-03-29,Jubilacion,4,Part-time,0
+ATT001122,EMP01599,LIM,Agente Check-in,Tierra,2023-01-09,Termino Contrato,8,Indefinido,0
+ATT001123,EMP01037,BOG,Ground Staff,Tierra,2024-07-10,Renuncia Voluntaria,5,Part-time,1
+ATT001124,EMP00665,MIA,Supervisor Operaciones,Tierra,2023-10-30,Renuncia Voluntaria,4,Part-time,1
+ATT001125,EMP01435,JFK,Ground Staff,Tierra,2022-10-28,Renuncia Voluntaria,1,Indefinido,1
+ATT001126,EMP00450,MIA,Ground Staff,Tierra,2022-01-31,Jubilacion,4,Indefinido,0
+ATT001127,EMP01593,GRU,Tripulante Cabina,Cabina,2023-01-16,Jubilacion,,Part-time,1
+ATT001128,EMP01680,LIM,Agente Check-in,Tierra,2024-07-05,Traslado Base,0,Indefinido,1
+ATT001129,EMP01240,EZE,Agente Check-in,Tierra,2022-02-06,Renuncia Voluntaria,7,Plazo Fijo,0
+ATT001130,EMP00243,EZE,Agente Check-in,Tierra,2022-07-22,Jubilacion,11,Indefinido,1
+ATT001131,EMP00414,MIA,Supervisor Operaciones,Tierra,2022-04-01,Renuncia Voluntaria,0,Plazo Fijo,1
+ATT001132,EMP00860,GRU,Agente Check-in,Tierra,2024-11-08,Traslado Base,13,Honorarios,1
+ATT001133,EMP00204,EZE,Tripulante Cabina,Cabina,2022-02-22,Termino Contrato,4,Indefinido,0
+ATT001134,EMP00650,GRU,Tripulante Cabina,Cabina,2023-07-30,Traslado Base,3,Indefinido,1
+ATT001135,EMP00687,LIM,Tripulante Cabina,Cabina,2022-10-10,Jubilacion,2,Indefinido,1
+ATT001136,EMP00680,SCL,Agente Check-in,Tierra,2023-12-15,Traslado Base,11,Plazo Fijo,1
+ATT001137,EMP00158,LIM,Tripulante Cabina Senior,Cabina,2023-02-23,Termino Contrato,1,Part-time,1
+ATT001138,EMP01353,SCL,Ground Staff,Tierra,2022-01-02,Renuncia Voluntaria,2,Indefinido,1
+ATT001139,EMP00167,BOG,Piloto Comandante,Cockpit,2024-02-29,Despido,4,Indefinido,1
+ATT001140,EMP01070,SCL,Tripulante Cabina,Cabina,2023-05-11,Jubilacion,14,Plazo Fijo,1
+ATT001141,EMP01363,LIM,Agente Check-in,Tierra,2024-12-01,Renuncia Voluntaria,13,Indefinido,1
+ATT001142,EMP01427,GRU,Tripulante Cabina Senior,Cabina,2022-01-26,Renuncia Voluntaria,0,Part-time,0
+ATT001143,EMP00128,GRU,Agente Check-in,Tierra,2022-07-14,Jubilacion,10,Indefinido,1
+ATT001144,EMP00534,SCL,Tripulante Cabina Senior,Cabina,2024-03-13,Renuncia Voluntaria,12,Part-time,1
+ATT001145,EMP01487,MIA,Administrativo,Admin,2023-02-05,Renuncia Voluntaria,15,Part-time,0
+ATT001146,EMP01497,GRU,Agente Check-in,Tierra,2023-07-04,Renuncia Voluntaria,3,Indefinido,0
+ATT001147,EMP01823,GRU,Agente Check-in,Tierra,2023-07-04,Termino Contrato,3,Indefinido,1
+ATT001148,EMP00850,MIA,Tripulante Cabina Senior,Cabina,2023-08-06,Renuncia Voluntaria,6,Indefinido,1
+ATT001149,EMP01334,GRU,Administrativo,Admin,2022-07-28,Renuncia Voluntaria,0,Indefinido,1
+ATT001150,EMP01140,MIA,Tripulante Cabina Senior,Cabina,2023-01-20,Renuncia Voluntaria,15,Indefinido,1
+ATT001151,EMP00535,MIA,Ground Staff,Tierra,2022-07-20,Jubilacion,3,Honorarios,0
+ATT001152,EMP01601,SCL,Ground Staff,Tierra,2022-03-06,Traslado Base,1,Indefinido,1
+ATT001153,EMP01797,SCL,Tripulante Cabina Senior,Cabina,2024-07-05,Despido,2,Indefinido,1
+ATT001154,EMP01929,LIM,Ground Staff,Tierra,2023-09-20,Traslado Base,10,Indefinido,1
+ATT001155,EMP01387,LIM,Tripulante Cabina Senior,Cabina,2022-12-08,Renuncia Voluntaria,,Indefinido,0
+ATT001156,EMP00573,SCL,Administrativo,Admin,2024-07-21,Despido,11,Indefinido,1
+ATT001157,EMP00160,SCL,Piloto Copiloto,Cockpit,2024-08-23,Renuncia Voluntaria,0,Plazo Fijo,1
+ATT001158,EMP00495,SCL,Ground Staff,Tierra,2022-03-29,Jubilacion,0,Indefinido,0
+ATT001159,EMP00654,LIM,Supervisor Operaciones,Tierra,2023-07-20,Traslado Base,9,Indefinido,1
+ATT001160,EMP00683,BOG,Tripulante Cabina,Cabina,2023-05-13,Jubilacion,15,Part-time,0
+ATT001161,EMP00355,LIM,Supervisor Operaciones,Tierra,2023-07-01,Renuncia Voluntaria,5,Part-time,0
+ATT001162,EMP01630,BOG,Agente Check-in,Tierra,2022-01-30,Traslado Base,5,Indefinido,1
+ATT001163,EMP00674,EZE,Piloto Copiloto,Cockpit,2024-01-29,Renuncia Voluntaria,10,Plazo Fijo,1
+ATT001164,EMP00047,SCL,Agente Check-in,Tierra,2024-07-10,Termino Contrato,4,Honorarios,1
+ATT001165,EMP00369,SCL,Tripulante Cabina Senior,Cabina,2023-07-06,Despido,2,Plazo Fijo,1
+ATT001166,EMP00570,JFK,Tripulante Cabina Senior,Cabina,2023-10-07,Jubilacion,,Plazo Fijo,1
+ATT001167,EMP01071,BOG,Tripulante Cabina,Cabina,2022-02-02,Despido,9,Plazo Fijo,1
+ATT001168,EMP00621,BOG,Tripulante Cabina,Cabina,2024-01-14,Termino Contrato,2,Indefinido,1
+ATT001169,EMP00801,EZE,Ground Staff,Tierra,2022-03-18,Traslado Base,3,Indefinido,1
+ATT001170,EMP01932,LIM,Agente Check-in,Tierra,2024-11-07,Jubilacion,4,Indefinido,
+ATT001171,EMP00195,BOG,Tripulante Cabina Senior,Cabina,2023-12-05,Jubilacion,4,Indefinido,1
+ATT001172,EMP00247,GRU,Ground Staff,Tierra,2022-07-30,Renuncia Voluntaria,15,Part-time,1
+ATT001173,EMP01266,BOG,Tripulante Cabina,Cabina,2022-10-03,Termino Contrato,7,Plazo Fijo,0
+ATT001174,EMP01440,LIM,Tripulante Cabina Senior,Cabina,2024-07-06,Renuncia Voluntaria,3,Indefinido,0
+ATT001175,EMP01202,LIM,Tripulante Cabina Senior,Cabina,2022-07-23,Renuncia Voluntaria,4,Indefinido,0
+ATT001176,EMP01129,SCL,Piloto Copiloto,Cockpit,2023-08-20,Traslado Base,11,Plazo Fijo,0
+ATT001177,EMP01982,MIA,Administrativo,Admin,2022-09-14,Renuncia Voluntaria,11,Plazo Fijo,1
+ATT001178,EMP00020,LIM,Administrativo,Admin,2022-01-03,Renuncia Voluntaria,14,Indefinido,1
+ATT001179,EMP00549,BOG,Piloto Comandante,Cockpit,2024-07-13,Renuncia Voluntaria,15,Indefinido,0
+ATT001180,EMP00814,EZE,Tripulante Cabina,Cabina,2022-03-25,Jubilacion,1,Indefinido,0
+ATT001181,EMP01380,SCL,Piloto Copiloto,Cockpit,2024-03-02,Jubilacion,12,Indefinido,1
+ATT001182,EMP01561,MIA,Ground Staff,Tierra,2023-08-09,Renuncia Voluntaria,2,Part-time,1
+ATT001183,EMP01945,SCL,Agente Check-in,Tierra,2024-10-16,Despido,,Indefinido,1
+ATT001184,EMP01821,SCL,Tripulante Cabina,Cabina,2024-04-14,Renuncia Voluntaria,8,Indefinido,1
+ATT001185,EMP00916,BOG,Tripulante Cabina,Cabina,2024-05-21,Jubilacion,9,Indefinido,1
+ATT001186,EMP01896,LIM,Ground Staff,Tierra,2024-08-24,Renuncia Voluntaria,14,Honorarios,1
+ATT001187,EMP01253,SCL,Ground Staff,Tierra,2024-12-29,Termino Contrato,0,Part-time,0
+ATT001188,EMP01784,EZE,Agente Check-in,Tierra,2022-06-27,Renuncia Voluntaria,2,Indefinido,0
+ATT001189,EMP00173,BOG,Tripulante Cabina Senior,Cabina,2022-11-30,Termino Contrato,4,Indefinido,1
+ATT001190,EMP00757,MAD,Ground Staff,Tierra,2022-01-10,Renuncia Voluntaria,0,Indefinido,1
+ATT001191,EMP01634,BOG,Ground Staff,Tierra,2023-07-24,Termino Contrato,7,Part-time,1
+ATT001192,EMP01837,BOG,Agente Check-in,Tierra,2024-09-10,Termino Contrato,13,Indefinido,1
+ATT001193,EMP00624,MIA,Piloto Comandante,Cockpit,2023-01-30,Jubilacion,7,Indefinido,1
+ATT001194,EMP01538,SCL,Agente Check-in,Tierra,2023-07-25,Renuncia Voluntaria,15,Part-time,1
+ATT001195,EMP00829,EZE,Tripulante Cabina Senior,Cabina,2022-12-10,Renuncia Voluntaria,12,Indefinido,0
+ATT001196,EMP01046,SCL,Piloto Copiloto,Cockpit,2024-11-08,Termino Contrato,0,Indefinido,0
+ATT001197,EMP00505,GRU,Ground Staff,Tierra,2023-01-18,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT001198,EMP00643,SCL,Supervisor Operaciones,Tierra,2024-10-23,Despido,3,Indefinido,1
+ATT001199,EMP00021,BOG,Agente Check-in,Tierra,2023-07-31,Jubilacion,14,Part-time,1
+ATT001200,EMP01778,JFK,Tripulante Cabina Senior,Cabina,2022-08-26,Renuncia Voluntaria,6,Indefinido,
+ATT001201,EMP00297,SCL,Piloto Comandante,Cockpit,2022-02-01,Termino Contrato,0,Indefinido,1
+ATT001202,EMP00239,SCL,Ground Staff,Tierra,2022-07-01,Renuncia Voluntaria,11,Plazo Fijo,0
+ATT001203,EMP01317,BOG,Tecnico Mantencion,Tierra,2023-10-21,Despido,12,Part-time,1
+ATT001204,EMP01316,SCL,Tripulante Cabina,Cabina,2023-05-13,Termino Contrato,0,Indefinido,0
+ATT001205,EMP01773,GRU,Piloto Copiloto,Cockpit,2022-07-02,Termino Contrato,7,Indefinido,1
+ATT001206,EMP01510,BOG,Tripulante Cabina Senior,Cabina,2022-01-29,Termino Contrato,0,Indefinido,1
+ATT001207,EMP01198,SCL,Tripulante Cabina Senior,Cabina,2024-10-31,Despido,1,Part-time,0
+ATT001208,EMP00355,SCL,Agente Check-in,Tierra,2024-07-03,Renuncia Voluntaria,7,Indefinido,1
+ATT001209,EMP00492,BOG,Ground Staff,Tierra,2022-06-12,Renuncia Voluntaria,5,Indefinido,1
+ATT001210,EMP01796,LIM,Tripulante Cabina,Cabina,2023-04-08,Despido,8,Plazo Fijo,1
+ATT001211,EMP01730,SCL,Piloto Copiloto,Cockpit,2023-02-18,Renuncia Voluntaria,10,Indefinido,1
+ATT001212,EMP01681,MAD,Agente Check-in,Tierra,2022-07-19,Jubilacion,10,Plazo Fijo,1
+ATT001213,EMP01047,BOG,Ground Staff,Tierra,2023-08-23,Renuncia Voluntaria,3,Plazo Fijo,1
+ATT001214,EMP00436,GRU,Piloto Copiloto,Cockpit,2024-09-17,Renuncia Voluntaria,3,Plazo Fijo,0
+ATT001215,EMP00381,MIA,Ground Staff,Tierra,2024-01-11,Termino Contrato,6,Indefinido,0
+ATT001216,EMP00828,BOG,Supervisor Operaciones,Tierra,2022-09-13,Traslado Base,11,Indefinido,1
+ATT001217,EMP00879,SCL,Ground Staff,Tierra,2024-05-02,Termino Contrato,8,Indefinido,0
+ATT001218,EMP00268,GRU,Tecnico Mantencion,Tierra,2024-08-20,Termino Contrato,13,Plazo Fijo,1
+ATT001219,EMP01865,BOG,Supervisor Operaciones,Tierra,2023-03-10,Renuncia Voluntaria,7,Indefinido,1
+ATT001220,EMP01621,GRU,Agente Check-in,Tierra,2024-01-17,Traslado Base,5,Indefinido,0
+ATT001221,EMP01428,MAD,Piloto Comandante,Cockpit,2023-01-29,Renuncia Voluntaria,10,Indefinido,0
+ATT001222,EMP01271,SCL,Tripulante Cabina,Cabina,2022-07-12,Renuncia Voluntaria,9,Indefinido,0
+ATT001223,EMP01332,LIM,Tecnico Mantencion,Tierra,2024-01-09,Renuncia Voluntaria,12,Honorarios,0
+ATT001224,EMP01965,SCL,Tripulante Cabina,Cabina,2022-01-03,Termino Contrato,12,Indefinido,1
+ATT001225,EMP01907,SCL,Piloto Comandante,Cockpit,2023-07-22,Jubilacion,11,Part-time,1
+ATT001226,EMP01087,SCL,Administrativo,Admin,2022-09-22,Renuncia Voluntaria,4,Indefinido,1
+ATT001227,EMP00948,EZE,Supervisor Operaciones,Tierra,2023-04-02,Renuncia Voluntaria,10,Indefinido,1
+ATT001228,EMP01989,GRU,Tripulante Cabina Senior,Cabina,2023-06-13,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT001229,EMP00749,SCL,Tripulante Cabina Senior,Cabina,2023-12-01,Termino Contrato,7,Part-time,1
+ATT001230,EMP01905,BOG,Administrativo,Admin,2022-09-22,Termino Contrato,4,Indefinido,1
+ATT001231,EMP00828,GRU,Piloto Comandante,Cockpit,2024-12-18,Renuncia Voluntaria,12,Plazo Fijo,1
+ATT001232,EMP01082,MAD,Tripulante Cabina,Cabina,2022-06-14,Termino Contrato,15,Indefinido,1
+ATT001233,EMP01689,SCL,Tecnico Mantencion,Tierra,2023-07-18,Jubilacion,3,Indefinido,1
+ATT001234,EMP00586,SCL,Supervisor Operaciones,Tierra,2023-08-07,Renuncia Voluntaria,9,Plazo Fijo,1
+ATT001235,EMP01547,SCL,Ground Staff,Tierra,2022-05-04,Renuncia Voluntaria,11,Part-time,1
+ATT001236,EMP01042,BOG,Piloto Comandante,Cockpit,2024-05-11,Despido,2,Indefinido,1
+ATT001237,EMP00085,BOG,Tripulante Cabina Senior,Cabina,2022-01-18,Termino Contrato,2,Part-time,0
+ATT001238,EMP00606,GRU,Ground Staff,Tierra,2022-10-17,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT001239,EMP01705,EZE,Tripulante Cabina Senior,Cabina,2023-09-04,Renuncia Voluntaria,1,Indefinido,1
+ATT001240,EMP01641,SCL,Agente Check-in,Tierra,2023-02-22,Jubilacion,1,Indefinido,1
+ATT001241,EMP01758,EZE,Tripulante Cabina,Cabina,2024-12-18,Jubilacion,1,Indefinido,1
+ATT001242,EMP01451,MAD,Piloto Comandante,Cockpit,2023-10-31,Termino Contrato,0,Indefinido,1
+ATT001243,EMP00051,GRU,Administrativo,Admin,2023-07-10,Jubilacion,4,Indefinido,1
+ATT001244,EMP00901,SCL,Piloto Copiloto,Cockpit,2022-09-28,Renuncia Voluntaria,9,Indefinido,0
+ATT001245,EMP01932,EZE,Tripulante Cabina Senior,Cabina,2022-07-18,Traslado Base,12,Plazo Fijo,1
+ATT001246,EMP01966,GRU,Administrativo,Admin,2023-11-05,Renuncia Voluntaria,10,Indefinido,1
+ATT001247,EMP00283,BOG,Ground Staff,Tierra,2023-04-09,Termino Contrato,2,Plazo Fijo,1
+ATT001248,EMP01393,GRU,Ground Staff,Tierra,2023-10-03,Jubilacion,9,Part-time,0
+ATT001249,EMP00396,MIA,Tripulante Cabina Senior,Cabina,2024-07-19,Renuncia Voluntaria,12,Indefinido,1
+ATT001250,EMP01052,JFK,Tecnico Mantencion,Tierra,2024-10-03,Termino Contrato,14,Plazo Fijo,0
+ATT001251,EMP01111,SCL,Ground Staff,Tierra,2024-01-24,Despido,7,Indefinido,0
+ATT001252,EMP00587,BOG,Supervisor Operaciones,Tierra,2023-03-24,Termino Contrato,1,Indefinido,
+ATT001253,EMP01695,MAD,Administrativo,Admin,2024-07-13,Traslado Base,10,Plazo Fijo,0
+ATT001254,EMP01512,SCL,Tripulante Cabina,Cabina,2022-11-07,Traslado Base,7,Indefinido,1
+ATT001255,EMP00361,LIM,Tripulante Cabina Senior,Cabina,2023-01-24,Termino Contrato,14,Part-time,1
+ATT001256,EMP00436,BOG,Tripulante Cabina,Cabina,2022-03-18,Renuncia Voluntaria,,Indefinido,0
+ATT001257,EMP01164,LIM,Agente Check-in,Tierra,2022-10-15,Traslado Base,3,Plazo Fijo,1
+ATT001258,EMP01387,EZE,Seguridad,Tierra,2022-06-02,Termino Contrato,1,Indefinido,1
+ATT001259,EMP00837,MIA,Ground Staff,Tierra,2023-07-30,Renuncia Voluntaria,2,Part-time,
+ATT001260,EMP01098,GRU,Tripulante Cabina Senior,Cabina,2024-11-09,Jubilacion,9,Indefinido,1
+ATT001261,EMP01238,LIM,Tecnico Mantencion,Tierra,2023-07-10,Termino Contrato,15,Honorarios,0
+ATT001262,EMP00793,SCL,Tripulante Cabina,Cabina,2024-05-30,Renuncia Voluntaria,5,Indefinido,
+ATT001263,EMP00474,JFK,Ground Staff,Tierra,2024-09-14,Jubilacion,2,Plazo Fijo,1
+ATT001264,EMP01358,JFK,Agente Check-in,Tierra,2022-01-13,Termino Contrato,8,Indefinido,0
+ATT001265,EMP00525,LIM,Tripulante Cabina Senior,Cabina,2022-07-25,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT001266,EMP01954,SCL,Piloto Copiloto,Cockpit,2023-07-03,Renuncia Voluntaria,2,Honorarios,1
+ATT001267,EMP01333,MAD,Ground Staff,Tierra,2024-01-21,Termino Contrato,7,Indefinido,0
+ATT001268,EMP00403,EZE,Agente Check-in,Tierra,2024-01-24,Termino Contrato,14,Part-time,0
+ATT001269,EMP01663,MIA,Ground Staff,Tierra,2023-05-27,Jubilacion,1,Indefinido,0
+ATT001270,EMP00102,LIM,Ground Staff,Tierra,2023-02-28,Traslado Base,7,Indefinido,1
+ATT001271,EMP01757,BOG,Supervisor Operaciones,Tierra,2023-01-10,Despido,15,Honorarios,1
+ATT001272,EMP00248,SCL,Agente Check-in,Tierra,2023-06-01,Traslado Base,5,Indefinido,1
+ATT001273,EMP01156,SCL,Tripulante Cabina,Cabina,2022-05-15,Despido,5,Plazo Fijo,0
+ATT001274,EMP00550,JFK,Piloto Comandante,Cockpit,2023-04-10,Renuncia Voluntaria,11,Plazo Fijo,1
+ATT001275,EMP00223,LIM,Tripulante Cabina,Cabina,2023-01-16,Renuncia Voluntaria,6,Part-time,1
+ATT001276,EMP00784,SCL,Agente Check-in,Tierra,2022-07-31,Renuncia Voluntaria,13,Indefinido,1
+ATT001277,EMP01980,GRU,Tripulante Cabina,Cabina,2023-01-03,Termino Contrato,15,Part-time,0
+ATT001278,EMP00606,SCL,Tecnico Mantencion,Tierra,2024-07-14,Jubilacion,9,Part-time,1
+ATT001279,EMP01829,BOG,Tripulante Cabina Senior,Cabina,2023-01-02,Renuncia Voluntaria,11,Indefinido,1
+ATT001280,EMP00947,SCL,Piloto Copiloto,Cockpit,2023-07-15,Renuncia Voluntaria,7,Plazo Fijo,0
+ATT001281,EMP01711,LIM,Tripulante Cabina Senior,Cabina,2022-06-18,Renuncia Voluntaria,7,Plazo Fijo,1
+ATT001282,EMP00161,MIA,Tripulante Cabina Senior,Cabina,2024-12-03,Renuncia Voluntaria,10,Plazo Fijo,0
+ATT001283,EMP01192,MAD,Piloto Comandante,Cockpit,2024-01-15,Renuncia Voluntaria,1,Plazo Fijo,0
+ATT001284,EMP00353,SCL,Ground Staff,Tierra,2023-01-04,Traslado Base,13,Indefinido,0
+ATT001285,EMP00456,LIM,Ground Staff,Tierra,2023-11-10,Traslado Base,8,Indefinido,1
+ATT001286,EMP01911,SCL,Ground Staff,Tierra,2024-07-26,Traslado Base,6,Honorarios,1
+ATT001287,EMP01972,SCL,Tripulante Cabina Senior,Cabina,2023-09-02,Termino Contrato,,Indefinido,0
+ATT001288,EMP00892,SCL,Tripulante Cabina Senior,Cabina,2023-12-24,Despido,1,Honorarios,0
+ATT001289,EMP01417,BOG,Piloto Copiloto,Cockpit,2023-11-07,Despido,1,Part-time,1
+ATT001290,EMP00940,SCL,Ground Staff,Tierra,2022-04-23,Renuncia Voluntaria,5,Indefinido,1
+ATT001291,EMP00413,LIM,Agente Check-in,Tierra,2024-08-22,Traslado Base,2,Indefinido,1
+ATT001292,EMP01386,EZE,Supervisor Operaciones,Tierra,2022-04-24,Traslado Base,1,Part-time,1
+ATT001293,EMP01301,MIA,Agente Check-in,Tierra,2024-09-22,Jubilacion,3,Plazo Fijo,1
+ATT001294,EMP00414,LIM,Seguridad,Tierra,2022-06-10,Jubilacion,4,Indefinido,1
+ATT001295,EMP00569,SCL,Administrativo,Admin,2024-12-20,Jubilacion,15,Part-time,0
+ATT001296,EMP01392,SCL,Tripulante Cabina Senior,Cabina,2022-03-22,Jubilacion,0,Plazo Fijo,0
+ATT001297,EMP00737,LIM,Tripulante Cabina,Cabina,2022-10-11,Jubilacion,2,Indefinido,0
+ATT001298,EMP01207,SCL,Supervisor Operaciones,Tierra,2022-08-17,Renuncia Voluntaria,0,Indefinido,0
+ATT001299,EMP00041,MIA,Tripulante Cabina,Cabina,2024-03-08,Despido,3,Indefinido,1
+ATT001300,EMP00438,GRU,Tecnico Mantencion,Tierra,2024-07-29,Renuncia Voluntaria,8,Indefinido,0
+ATT001301,EMP00176,LIM,Ground Staff,Tierra,2023-07-02,Traslado Base,15,Plazo Fijo,0
+ATT001302,EMP00646,LIM,Ground Staff,Tierra,2022-04-26,Termino Contrato,13,Indefinido,
+ATT001303,EMP01785,LIM,Tripulante Cabina,Cabina,2023-07-25,Renuncia Voluntaria,3,Part-time,1
+ATT001304,EMP00922,EZE,Tripulante Cabina,Cabina,2024-11-21,Renuncia Voluntaria,11,Indefinido,1
+ATT001305,EMP01953,LIM,Tripulante Cabina,Cabina,2023-06-21,Renuncia Voluntaria,13,Honorarios,1
+ATT001306,EMP00532,SCL,Ground Staff,Tierra,2023-07-08,Termino Contrato,8,Indefinido,1
+ATT001307,EMP00798,SCL,Supervisor Operaciones,Tierra,2024-07-02,Termino Contrato,8,Part-time,1
+ATT001308,EMP00648,SCL,Ground Staff,Tierra,2023-01-28,Renuncia Voluntaria,4,Plazo Fijo,0
+ATT001309,EMP00076,GRU,Tripulante Cabina,Cabina,2023-03-23,Despido,12,Indefinido,1
+ATT001310,EMP00949,MIA,Piloto Comandante,Cockpit,2022-01-29,Renuncia Voluntaria,11,Indefinido,1
+ATT001311,EMP00904,GRU,Seguridad,Tierra,2024-09-06,Renuncia Voluntaria,10,Indefinido,1
+ATT001312,EMP01676,BOG,Tripulante Cabina,Cabina,2022-07-02,Traslado Base,12,Plazo Fijo,0
+ATT001313,EMP01227,LIM,Tripulante Cabina,Cabina,2024-01-22,Jubilacion,6,Indefinido,1
+ATT001314,EMP00039,GRU,Tripulante Cabina Senior,Cabina,2022-09-15,Renuncia Voluntaria,8,Part-time,1
+ATT001315,EMP01327,MIA,Tripulante Cabina,Cabina,2023-06-26,Jubilacion,15,Part-time,1
+ATT001316,EMP01759,LIM,Tecnico Mantencion,Tierra,2023-07-29,Renuncia Voluntaria,4,Plazo Fijo,1
+ATT001317,EMP00372,GRU,Ground Staff,Tierra,2022-01-21,Renuncia Voluntaria,1,Plazo Fijo,1
+ATT001318,EMP01916,MIA,Tecnico Mantencion,Tierra,2024-01-15,Termino Contrato,,Indefinido,1
+ATT001319,EMP00238,EZE,Tripulante Cabina,Cabina,2023-08-15,Renuncia Voluntaria,9,Part-time,1
+ATT001320,EMP00927,LIM,Piloto Copiloto,Cockpit,2023-01-28,Despido,14,Plazo Fijo,1
+ATT001321,EMP01489,LIM,Tripulante Cabina Senior,Cabina,2024-12-19,Traslado Base,15,Part-time,
+ATT001322,EMP00410,BOG,Tecnico Mantencion,Tierra,2023-07-14,Renuncia Voluntaria,1,Indefinido,0
+ATT001323,EMP01470,GRU,Tecnico Mantencion,Tierra,2024-01-16,Termino Contrato,15,Plazo Fijo,1
+ATT001324,EMP01395,SCL,Ground Staff,Tierra,2023-01-07,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT001325,EMP00939,BOG,Piloto Copiloto,Cockpit,2023-09-13,Jubilacion,11,Indefinido,1
+ATT001326,EMP01106,SCL,Tripulante Cabina Senior,Cabina,2024-01-25,Despido,15,Part-time,1
+ATT001327,EMP00732,MIA,Tripulante Cabina,Cabina,2022-03-04,Traslado Base,4,Part-time,1
+ATT001328,EMP01951,LIM,Ground Staff,Tierra,2023-01-16,Jubilacion,6,Plazo Fijo,
+ATT001329,EMP00996,LIM,Tripulante Cabina,Cabina,2024-09-10,Renuncia Voluntaria,1,Indefinido,
+ATT001330,EMP01271,SCL,Piloto Copiloto,Cockpit,2023-12-12,Renuncia Voluntaria,7,Indefinido,1
+ATT001331,EMP01703,LIM,Tripulante Cabina Senior,Cabina,2023-06-02,Renuncia Voluntaria,3,Honorarios,1
+ATT001332,EMP00546,EZE,Tecnico Mantencion,Tierra,2022-07-24,Termino Contrato,7,Indefinido,1
+ATT001333,EMP01458,LIM,Piloto Comandante,Cockpit,2023-09-12,Termino Contrato,2,Indefinido,1
+ATT001334,EMP00005,SCL,Supervisor Operaciones,Tierra,2022-10-02,Renuncia Voluntaria,1,Indefinido,1
+ATT001335,EMP00501,LIM,Agente Check-in,Tierra,2022-08-06,Despido,14,Indefinido,1
+ATT001336,EMP01271,GRU,Ground Staff,Tierra,2022-10-08,Despido,1,Indefinido,1
+ATT001337,EMP01581,BOG,Tripulante Cabina,Cabina,2022-02-06,Renuncia Voluntaria,14,Indefinido,0
+ATT001338,EMP01306,GRU,Supervisor Operaciones,Tierra,2023-05-01,Traslado Base,11,Indefinido,1
+ATT001339,EMP00269,SCL,Tripulante Cabina,Cabina,2023-02-12,Termino Contrato,,Plazo Fijo,1
+ATT001340,EMP01546,EZE,Tripulante Cabina Senior,Cabina,2022-01-20,Jubilacion,11,Indefinido,
+ATT001341,EMP00727,GRU,Agente Check-in,Tierra,2023-07-04,Jubilacion,9,Part-time,0
+ATT001342,EMP01987,SCL,Tecnico Mantencion,Tierra,2022-12-08,Traslado Base,15,Indefinido,1
+ATT001343,EMP00035,GRU,Tripulante Cabina Senior,Cabina,2023-02-08,Despido,4,Plazo Fijo,1
+ATT001344,EMP00911,BOG,Tripulante Cabina Senior,Cabina,2024-02-19,Jubilacion,9,Indefinido,1
+ATT001345,EMP00767,SCL,Tripulante Cabina,Cabina,2023-08-27,Renuncia Voluntaria,15,Indefinido,1
+ATT001346,EMP01565,SCL,Tripulante Cabina Senior,Cabina,2022-12-24,Renuncia Voluntaria,3,Indefinido,1
+ATT001347,EMP01805,MAD,Tripulante Cabina,Cabina,2024-01-12,Renuncia Voluntaria,8,Indefinido,0
+ATT001348,EMP00344,MIA,Tripulante Cabina Senior,Cabina,2024-07-26,Renuncia Voluntaria,4,Plazo Fijo,
+ATT001349,EMP01865,JFK,Tripulante Cabina Senior,Cabina,2024-07-11,Termino Contrato,13,Plazo Fijo,1
+ATT001350,EMP01774,BOG,Seguridad,Tierra,2022-03-16,Renuncia Voluntaria,0,Indefinido,1
+ATT001351,EMP01621,SCL,Piloto Comandante,Cockpit,2024-11-27,Traslado Base,11,Indefinido,0
+ATT001352,EMP00522,MIA,Piloto Comandante,Cockpit,2023-08-23,Despido,1,Indefinido,1
+ATT001353,EMP01547,SCL,Ground Staff,Tierra,2024-07-09,Jubilacion,3,Indefinido,1
+ATT001354,EMP00536,BOG,Piloto Comandante,Cockpit,2022-02-17,Termino Contrato,14,Indefinido,0
+ATT001355,EMP00030,EZE,Supervisor Operaciones,Tierra,2024-09-08,Termino Contrato,11,Indefinido,1
+ATT001356,EMP01915,MIA,Piloto Comandante,Cockpit,2022-07-27,Renuncia Voluntaria,12,Plazo Fijo,1
+ATT001357,EMP00381,BOG,Tripulante Cabina Senior,Cabina,2023-06-30,Renuncia Voluntaria,12,Indefinido,0
+ATT001358,EMP00491,GRU,Piloto Copiloto,Cockpit,2022-11-15,Jubilacion,2,Indefinido,1
+ATT001359,EMP01346,GRU,Tecnico Mantencion,Tierra,2022-01-07,Termino Contrato,5,Indefinido,1
+ATT001360,EMP00228,BOG,Tripulante Cabina Senior,Cabina,2024-12-23,Termino Contrato,15,Indefinido,1
+ATT001361,EMP00304,MIA,Piloto Copiloto,Cockpit,2023-01-20,Traslado Base,7,Indefinido,1
+ATT001362,EMP00450,BOG,Tripulante Cabina,Cabina,2024-01-07,Renuncia Voluntaria,13,Indefinido,1
+ATT001363,EMP01591,GRU,Tripulante Cabina,Cabina,2022-05-12,Despido,0,Part-time,1
+ATT001364,EMP01329,SCL,Tripulante Cabina Senior,Cabina,2023-07-01,Renuncia Voluntaria,5,Indefinido,1
+ATT001365,EMP01158,lima,Ground Staff,Tierra,2024-02-11,Despido,13,Indefinido,1
+ATT001366,EMP00845,GRU,Supervisor Operaciones,Tierra,2023-02-09,Traslado Base,3,Part-time,1
+ATT001367,EMP00820,GRU,Ground Staff,Tierra,2023-12-24,Termino Contrato,13,Indefinido,1
+ATT001368,EMP00871,SCL,Supervisor Operaciones,Tierra,2023-01-22,Jubilacion,2,Indefinido,1
+ATT001369,EMP01792,GRU,Piloto Comandante,Cockpit,2022-12-15,Termino Contrato,3,Plazo Fijo,1
+ATT001370,EMP01493,BOG,Supervisor Operaciones,Tierra,2022-09-05,Jubilacion,5,Plazo Fijo,1
+ATT001371,EMP00516,GRU,Tripulante Cabina Senior,Cabina,2022-08-03,Termino Contrato,,Honorarios,0
+ATT001372,EMP00507,SCL,Agente Check-in,Tierra,2024-07-22,Renuncia Voluntaria,6,Indefinido,1
+ATT001373,EMP00782,MIA,Tripulante Cabina,Cabina,2022-11-02,Termino Contrato,2,Plazo Fijo,0
+ATT001374,EMP01130,SCL,Tripulante Cabina,Cabina,2024-03-08,Traslado Base,15,Indefinido,1
+ATT001375,EMP01310,SCL,Tripulante Cabina,Cabina,2023-02-18,Renuncia Voluntaria,1,Indefinido,1
+ATT001376,EMP00818,SCL,Agente Check-in,Tierra,2023-11-23,Jubilacion,6,Part-time,1
+ATT001377,EMP01445,SCL,Tripulante Cabina Senior,Cabina,2023-07-15,Traslado Base,3,Part-time,1
+ATT001378,EMP00366,LIM,Supervisor Operaciones,Tierra,2022-01-01,Termino Contrato,13,Indefinido,1
+ATT001379,EMP00405,MAD,Piloto Comandante,Cockpit,2023-02-12,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT001380,EMP00924,BOG,Tecnico Mantencion,Tierra,2023-05-01,Renuncia Voluntaria,13,Indefinido,1
+ATT001381,EMP01790,GRU,Tecnico Mantencion,Tierra,2024-07-16,Renuncia Voluntaria,8,Plazo Fijo,
+ATT001382,EMP00025,SCL,Tecnico Mantencion,Tierra,2024-01-16,Renuncia Voluntaria,10,Indefinido,1
+ATT001383,EMP01526,MAD,Tripulante Cabina Senior,Cabina,2024-04-14,Jubilacion,7,Plazo Fijo,1
+ATT001384,EMP01699,MAD,Agente Check-in,Tierra,2023-11-02,Despido,3,Indefinido,0
+ATT001385,EMP00903,GRU,Tripulante Cabina Senior,Cabina,2024-10-23,Jubilacion,3,Indefinido,0
+ATT001386,EMP01941,SCL,Ground Staff,Tierra,2022-01-05,Jubilacion,7,Plazo Fijo,1
+ATT001387,EMP01867,BOG,Supervisor Operaciones,Tierra,2023-03-02,Jubilacion,0,Indefinido,0
+ATT001388,EMP00804,SCL,Supervisor Operaciones,Tierra,2024-02-27,Jubilacion,8,Plazo Fijo,1
+ATT001389,EMP00597,BOG,Agente Check-in,Tierra,2022-07-24,Traslado Base,7,Indefinido,0
+ATT001390,EMP00976,MIA,Ground Staff,Tierra,2023-03-27,Despido,12,Honorarios,0
+ATT001391,EMP01235,GRU,Piloto Comandante,Cockpit,2024-01-16,Traslado Base,11,Indefinido,0
+ATT001392,EMP00970,LIM,Tripulante Cabina,Cabina,2023-07-16,Termino Contrato,10,Indefinido,0
+ATT001393,EMP00155,GRU,Ground Staff,Tierra,2022-05-30,Jubilacion,12,Indefinido,0
+ATT001394,EMP00083,SCL,Ground Staff,Tierra,2023-05-06,Renuncia Voluntaria,6,Plazo Fijo,1
+ATT001395,EMP01315,BOG,Tripulante Cabina Senior,Cabina,2023-05-23,Renuncia Voluntaria,7,Indefinido,1
+ATT001396,EMP00326,SCL,Ground Staff,Tierra,2022-01-01,Termino Contrato,6,Indefinido,0
+ATT001397,EMP00875,SCL,Tripulante Cabina,Cabina,2022-07-24,Renuncia Voluntaria,14,Part-time,1
+ATT001398,EMP00863,MIA,Agente Check-in,Tierra,2024-06-28,Jubilacion,9,Indefinido,1
+ATT001399,EMP01489,LIM,Tripulante Cabina,Cabina,2023-05-24,Despido,,Indefinido,0
+ATT001400,EMP01721,MIA,Tripulante Cabina,Cabina,2024-01-21,Termino Contrato,0,Indefinido,1
+ATT001401,EMP01269,lima,Piloto Copiloto,Cockpit,2023-01-08,Jubilacion,9,Indefinido,1
+ATT001402,EMP01842,LIM,Tripulante Cabina,Cabina,2024-01-18,Renuncia Voluntaria,15,Plazo Fijo,1
+ATT001403,EMP00037,GRU,Tripulante Cabina,Cabina,2022-01-23,Termino Contrato,10,Indefinido,1
+ATT001404,EMP01303,EZE,Piloto Comandante,Cockpit,2024-11-24,Jubilacion,0,Part-time,0
+ATT001405,EMP00442,GRU,Tripulante Cabina Senior,Cabina,2023-10-06,Termino Contrato,8,Part-time,1
+ATT001406,EMP00841,LIM,Agente Check-in,Tierra,2022-07-14,Jubilacion,14,Indefinido,0
+ATT001407,EMP00993,SCL,Agente Check-in,Tierra,2023-07-30,Renuncia Voluntaria,3,Indefinido,1
+ATT001408,EMP00532,GRU,Piloto Copiloto,Cockpit,2022-09-17,Termino Contrato,7,Indefinido,1
+ATT001409,EMP01077,SCL,Ground Staff,Tierra,2022-01-01,Termino Contrato,11,Part-time,0
+ATT001410,EMP00391,GRU,Ground Staff,Tierra,2024-01-02,Termino Contrato,5,Indefinido,1
+ATT001411,EMP00061,BOG,Tripulante Cabina Senior,Cabina,2024-02-23,Renuncia Voluntaria,10,Indefinido,1
+ATT001412,EMP00097,SCL,Piloto Comandante,Cockpit,2023-06-06,Renuncia Voluntaria,2,Part-time,1
+ATT001413,EMP01295,SCL,Tecnico Mantencion,Tierra,2022-02-03,Termino Contrato,1,Plazo Fijo,1
+ATT001414,EMP01313,MIA,Piloto Copiloto,Cockpit,2023-01-24,Renuncia Voluntaria,9,Indefinido,1
+ATT001415,EMP01250,GRU,Supervisor Operaciones,Tierra,2024-11-11,Renuncia Voluntaria,5,Part-time,1
+ATT001416,EMP00317,SCL,Tripulante Cabina,Cabina,2023-06-28,Renuncia Voluntaria,9,Honorarios,1
+ATT001417,EMP00349,EZE,Ground Staff,Tierra,2023-04-13,Traslado Base,4,Indefinido,0
+ATT001418,EMP00722,SCL,Agente Check-in,Tierra,2022-11-18,Termino Contrato,11,Honorarios,1
+ATT001419,EMP01623,BOG,Tripulante Cabina Senior,Cabina,2023-12-31,Termino Contrato,5,Indefinido,0
+ATT001420,EMP01551,SCL,Ground Staff,Tierra,2024-01-31,Despido,5,Indefinido,0
+ATT001421,EMP01475,EZE,Piloto Comandante,Cockpit,2022-07-07,Despido,13,Part-time,1
+ATT001422,EMP01725,EZE,Tripulante Cabina Senior,Cabina,2022-09-19,Renuncia Voluntaria,14,Part-time,1
+ATT001423,EMP01919,BOG,Piloto Comandante,Cockpit,2023-03-07,Termino Contrato,13,Indefinido,1
+ATT001424,EMP01537,MIA,Tripulante Cabina,Cabina,2023-03-03,Renuncia Voluntaria,6,Part-time,1
+ATT001425,EMP01388,EZE,Piloto Comandante,Cockpit,2022-11-12,Termino Contrato,14,Plazo Fijo,1
+ATT001426,EMP00237,BOG,Tripulante Cabina Senior,Cabina,2022-01-26,Termino Contrato,13,Indefinido,1
+ATT001427,EMP01586,BOG,Tripulante Cabina,Cabina,2024-07-24,Jubilacion,14,Plazo Fijo,1
+ATT001428,EMP01975,SCL,Tripulante Cabina,Cabina,2024-05-16,Renuncia Voluntaria,14,Plazo Fijo,1
+ATT001429,EMP00943,LIM,Tripulante Cabina,Cabina,2022-01-29,Renuncia Voluntaria,11,Plazo Fijo,0
+ATT001430,EMP00442,BOG,Tecnico Mantencion,Tierra,2023-07-20,Jubilacion,1,Indefinido,1
+ATT001431,EMP00340,GRU,Supervisor Operaciones,Tierra,2023-07-14,Renuncia Voluntaria,0,Indefinido,1
+ATT001432,EMP01993,EZE,Tripulante Cabina,Cabina,2022-03-07,Traslado Base,4,Plazo Fijo,1
+ATT001433,EMP00796,GRU,Agente Check-in,Tierra,2024-12-19,Traslado Base,1,Indefinido,1
+ATT001434,EMP00785,BOG,Agente Check-in,Tierra,2024-07-13,Termino Contrato,2,Plazo Fijo,0
+ATT001435,EMP00606,EZE,Piloto Copiloto,Cockpit,2024-07-15,Despido,7,Indefinido,0
+ATT001436,EMP01394,GRU,Tripulante Cabina Senior,Cabina,2023-05-26,Jubilacion,7,Indefinido,0
+ATT001437,EMP00222,BOG,Tripulante Cabina Senior,Cabina,2023-03-08,Renuncia Voluntaria,4,Plazo Fijo,1
+ATT001438,EMP01119,BOG,Agente Check-in,Tierra,2023-11-14,Jubilacion,6,Indefinido,1
+ATT001439,EMP01966,GRU,Tripulante Cabina,Cabina,2024-01-31,Jubilacion,14,Part-time,0
+ATT001440,EMP01793,SCL,Tripulante Cabina Senior,Cabina,2023-04-11,Traslado Base,12,Plazo Fijo,0
+ATT001441,EMP00199,GRU,Tripulante Cabina,Cabina,2022-02-22,Renuncia Voluntaria,4,Indefinido,1
+ATT001442,EMP01951,SCL,Tripulante Cabina,Cabina,2024-10-22,Jubilacion,1,Indefinido,1
+ATT001443,EMP00471,SCL,Piloto Copiloto,Cockpit,2023-03-06,Renuncia Voluntaria,13,Indefinido,1
+ATT001444,EMP00344,BOG,Piloto Comandante,Cockpit,2023-01-17,Despido,8,Part-time,0
+ATT001445,EMP00901,MIA,Tripulante Cabina Senior,Cabina,2024-08-13,Termino Contrato,13,Part-time,1
+ATT001446,EMP00879,LIM,Tecnico Mantencion,Tierra,2023-01-21,Termino Contrato,3,Indefinido,1
+ATT001447,EMP01079,EZE,Supervisor Operaciones,Tierra,2022-08-21,Termino Contrato,15,Indefinido,1
+ATT001448,EMP00865,LIM,Tecnico Mantencion,Tierra,2022-06-20,Despido,6,Indefinido,1
+ATT001449,EMP01024,SCL,Piloto Comandante,Cockpit,2024-06-12,Jubilacion,14,Indefinido,0
+ATT001450,EMP00510,LIM,Ground Staff,Tierra,2022-07-09,Renuncia Voluntaria,7,Indefinido,1
+ATT001451,EMP01354,SCL,Ground Staff,Tierra,2023-05-29,Termino Contrato,0,Honorarios,1
+ATT001452,EMP01826,EZE,Tripulante Cabina,Cabina,2024-12-18,Termino Contrato,5,Indefinido,0
+ATT001453,EMP00242,MIA,Administrativo,Admin,2024-08-09,Renuncia Voluntaria,2,Indefinido,0
+ATT001454,EMP01650,GRU,Tripulante Cabina,Cabina,2023-09-25,Renuncia Voluntaria,7,Indefinido,1
+ATT001455,EMP01761,SCL,Supervisor Operaciones,Tierra,2023-05-14,Termino Contrato,,Indefinido,
+ATT001456,EMP01619,SCL,Piloto Copiloto,Cockpit,2022-10-04,Renuncia Voluntaria,15,Plazo Fijo,0
+ATT001457,EMP00582,MIA,Piloto Copiloto,Cockpit,2024-07-24,Renuncia Voluntaria,,Indefinido,1
+ATT001458,EMP01519,GRU,Piloto Comandante,Cockpit,2024-11-25,Renuncia Voluntaria,6,Part-time,1
+ATT001459,EMP01301,SCL,Tripulante Cabina,Cabina,2024-09-22,Renuncia Voluntaria,2,Indefinido,0
+ATT001460,EMP01423,SCL,Ground Staff,Tierra,2022-11-15,Despido,8,Indefinido,1
+ATT001461,EMP01463,SCL,Agente Check-in,Tierra,2022-07-11,Traslado Base,0,Part-time,1
+ATT001462,EMP01328,GRU,Tripulante Cabina,Cabina,2022-04-21,Renuncia Voluntaria,,Honorarios,1
+ATT001463,EMP01171,BOG,Tripulante Cabina,Cabina,2024-09-11,Despido,9,Part-time,1
+ATT001464,EMP00101,SCL,Agente Check-in,Tierra,2024-11-30,Renuncia Voluntaria,10,Plazo Fijo,0
+ATT001465,EMP01602,EZE,Tecnico Mantencion,Tierra,2024-08-29,Jubilacion,14,Indefinido,1
+ATT001466,EMP01988,LIM,Tecnico Mantencion,Tierra,2023-04-03,Traslado Base,8,Plazo Fijo,1
+ATT001467,EMP01615,SCL,Supervisor Operaciones,Tierra,2022-07-13,Renuncia Voluntaria,,Part-time,1
+ATT001468,EMP01152,BOG,Tripulante Cabina,Cabina,2024-09-10,Termino Contrato,3,Indefinido,1
+ATT001469,EMP00479,LIM,Supervisor Operaciones,Tierra,2022-10-13,Termino Contrato,5,Indefinido,0
+ATT001470,EMP01804,GRU,Tripulante Cabina,Cabina,2022-07-03,Renuncia Voluntaria,0,Indefinido,1
+ATT001471,EMP00272,SCL,Agente Check-in,Tierra,2023-04-15,Renuncia Voluntaria,2,Indefinido,0
+ATT001472,EMP00664,LIM,Ground Staff,Tierra,2022-02-03,Renuncia Voluntaria,10,Indefinido,0
+ATT001473,EMP00135,BOG,Supervisor Operaciones,Tierra,2023-08-07,Renuncia Voluntaria,12,Honorarios,1
+ATT001474,EMP01736,BOG,Tecnico Mantencion,Tierra,2024-04-05,Renuncia Voluntaria,,Plazo Fijo,1
+ATT001475,EMP01539,GRU,Ground Staff,Tierra,2023-01-13,Traslado Base,5,Plazo Fijo,1
+ATT001476,EMP01682,SCL,Ground Staff,Tierra,2022-08-27,Termino Contrato,7,Indefinido,0
+ATT001477,EMP01763,MIA,Ground Staff,Tierra,2024-05-16,Renuncia Voluntaria,2,Indefinido,0
+ATT001478,EMP00156,BOG,Administrativo,Admin,2024-01-08,Despido,0,Indefinido,
+ATT001479,EMP00772,EZE,Tecnico Mantencion,Tierra,2024-03-16,Termino Contrato,,Indefinido,0
+ATT001480,EMP00634,LIM,Tripulante Cabina,Cabina,2024-01-29,Termino Contrato,0,Plazo Fijo,1
+ATT001481,EMP01060,GRU,Piloto Comandante,Cockpit,2022-11-11,Jubilacion,11,Indefinido,1
+ATT001482,EMP01792,JFK,Tripulante Cabina,Cabina,2024-07-06,Renuncia Voluntaria,14,Indefinido,0
+ATT001483,EMP01817,LIM,Administrativo,Admin,2024-07-26,Termino Contrato,3,Indefinido,1
+ATT001484,EMP00993,JFK,Supervisor Operaciones,Tierra,2023-04-18,Termino Contrato,6,Plazo Fijo,1
+ATT001485,EMP01068,BOG,Ground Staff,Tierra,2023-05-24,Termino Contrato,7,Indefinido,1
+ATT001486,EMP01931,LIM,Seguridad,Tierra,2024-07-12,Renuncia Voluntaria,11,Indefinido,0
+ATT001487,EMP01500,MAD,Piloto Comandante,Cockpit,2023-09-21,Termino Contrato,15,Indefinido,0
+ATT001488,EMP01775,EZE,Tripulante Cabina,Cabina,2024-11-30,Renuncia Voluntaria,4,Indefinido,1
+ATT001489,EMP00965,GRU,Agente Check-in,Tierra,2024-12-09,Jubilacion,3,Part-time,0
+ATT001490,EMP00711,LIM,Ground Staff,Tierra,2024-07-04,Jubilacion,9,Indefinido,1
+ATT001491,EMP00592,BOG,Tecnico Mantencion,Tierra,2022-06-18,Jubilacion,1,Indefinido,
+ATT001492,EMP00452,GRU,Ground Staff,Tierra,2024-07-27,Renuncia Voluntaria,0,Part-time,1
+ATT001493,EMP00221,LIM,Piloto Comandante,Cockpit,2022-09-17,Termino Contrato,13,Indefinido,0
+ATT001494,EMP00034,GRU,Ground Staff,Tierra,2023-01-06,Renuncia Voluntaria,11,Plazo Fijo,1
+ATT001495,EMP01706,BOG,Tripulante Cabina,Cabina,2022-05-25,Termino Contrato,15,Part-time,0
+ATT001496,EMP00360,GRU,Tripulante Cabina,Cabina,2022-01-18,Termino Contrato,14,Indefinido,1
+ATT001497,EMP00312,GRU,Tecnico Mantencion,Tierra,2023-03-02,Traslado Base,11,Indefinido,0
+ATT001498,EMP01376,SCL,Ground Staff,Tierra,2024-01-16,Jubilacion,3,Plazo Fijo,1
+ATT001499,EMP00353,BOG,Seguridad,Tierra,2024-08-15,Traslado Base,15,Indefinido,0
+ATT001500,EMP01240,GRU,Tripulante Cabina,Cabina,2023-08-28,Traslado Base,9,Indefinido,
