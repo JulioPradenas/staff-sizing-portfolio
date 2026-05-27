@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Modelar la dotación de personal de una aerolínea LATAM por base, rol y temporada,
 identificando brechas críticas y generando recomendaciones de contratación para 2027.
@@ -19,57 +19,41 @@ identificando brechas críticas y generando recomendaciones de contratación par
 
 ---
 
-## 🏗 Arquitectura
-Fuente (CSV)
-↓
-stg_*          → datos crudos sin tocar
-↓
-stg_clean    → limpieza documentada con supuestos
-↓
-dim + fct_*  → modelo dimensional (star schema)
-↓
-mart_*         → sizing, gaps, rotación, forecast, alertas
-↓
-Looker Studio / Google Sheets → consumo ejecutivo
+## Dashboard Looker Studio
+
+🔗 [Ver dashboard en vivo](https://datastudio.google.com/u/1/reporting/c3cf8fc2-d76b-4b01-b14f-8115322f2438/page/FG8sF)
+
+| Página | Contenido |
+|---|---|
+| Executive Overview | KPIs globales de dotación, forecast 2027, alertas activas por base |
+| Gap Analysis | Brechas por base y rol, evolución semanal del gap, filtros por base y categoría |
 
 ---
 
-## 📊 Dashboard Looker Studio
+## Pipeline ELT
 
-🔗 [Ver dashboard en vivo](https://lookerstudio.google.com/TU-LINK-AQUI)
-
-
-
----
-
-## 🗂 Estructura del proyecto
-staff-sizing-portfolio/
-├── data_gen/              ← CSVs sintéticos (14.000+ filas)
-│   ├── employees.csv          (2.000 filas)
-│   ├── flight_schedule.csv    (8.000 filas)
-│   ├── absences.csv           (3.000 filas)
-│   ├── attrition.csv          (1.500 filas)
-│   ├── role_requirements.csv  (  160 filas)
-│   ├── bases.csv              (    8 filas)
-│   └── roles.csv              (   10 filas)
-├── sql/
-│   ├── 01_staging/        ← limpieza + flags regulatorios
-│   ├── 02_dimensions/     ← dim_base, dim_role, dim_contract, dim_employee, dim_date
-│   ├── 03_facts/          ← fct_headcount_daily, fct_absences, fct_attrition
-│   ├── 04_marts/          ← sizing, gaps, forecast, contratación
-│   └── 05_alerts/         ← alertas regulatorias y operacionales
-├── scripts/
-│   ├── upload_to_bq.py       ← carga CSVs a BigQuery
-│   └── export_to_sheets.py   ← exporta recomendación a Excel
-├── docs/                  ← documentación completa
-├── looker/                ← capturas del dashboard
-└── sheets/                ← output ejecutivo Excel
-
-
+```
+Fuente (7 CSVs · 14.000+ filas)
+        │
+        ▼
+01_staging      stg_*_clean     Limpieza, normalización, flags regulatorios
+        │
+        ▼
+02_dimensions   dim_*           Star schema: base, rol, contrato, empleado, fecha
+        │
+        ▼
+03_facts        fct_*           Dotación diaria (276K filas), ausencias, attrition
+        │
+        ▼
+04_marts        mart_*          KPIs semanales, gaps, forecast, contratación, alertas
+        │
+        ▼
+Looker Studio · Excel ejecutivo
+```
 
 ---
 
-## 📐 Modelo dimensional
+## Modelo dimensional
 
 | Tabla | Tipo | Descripción | Filas |
 |---|---|---|---|
@@ -79,40 +63,43 @@ staff-sizing-portfolio/
 | `dim_date` | Dimensión | Calendario 2022–2027 con temporadas | 2.191 |
 | `dim_base` | Dimensión | 8 bases con hub_type y timezone | 8 |
 | `dim_role` | Dimensión | 10 roles con límites regulatorios | 10 |
-| `dim_contract` | Dimensión | Tipos de contrato con FTE equivalent | 4 |
-| `dim_employee` | Dimensión | Empleados con segmentos de edad y antigüedad | 2.000 |
+| `dim_contract` | Dimensión | Tipos de contrato con FTE equivalente | 4 |
+| `dim_employee` | Dimensión | Empleados con segmentos edad y antigüedad | 2.000 |
 
 ---
 
-## 🔮 Forecast 2027 — 3 escenarios
+## Forecast 2027 — 3 escenarios
 
-| Escenario | Rotación | Cuándo usarlo |
+| Escenario | Rotación aplicada | Cuándo usarlo |
 |---|---|---|
 | Base | Promedio histórico mensual | Planificación operacional normal |
 | Conservador | Promedio − 1 stddev | Escenario optimista |
-| Estrés | Promedio + 1.5 stddev en temporada alta | Alta rotación + expansión flota |
+| Estrés | Promedio + 1.5 stddev en temporada alta | Alta rotación + expansión de flota |
 
-**Fórmula FTE proyectado:**
+```
 FTE_proyectado = FTE_actual − Salidas_mes − (Ausentismo_semanal × 4)
+```
 
 ---
 
-## 👥 Recomendación de contratación
+## Recomendación de contratación
 
-Tabla `mart_hiring_reco_2027` — priorizada por urgencia:
+`mart_hiring_reco_2027` — 80 combinaciones base × rol, priorizadas por urgencia:
 
 | Prioridad | Condición | Acción |
 |---|---|---|
-| P1 URGENTE | Gap < -10 Y 10+ meses con gap | Iniciar proceso inmediatamente |
-| P2 CRITICO | Gap < -5 O 6+ meses con gap | Próximo ciclo de selección |
+| P1 URGENTE | Gap < −10 Y 10+ meses con gap | Iniciar proceso inmediatamente |
+| P2 CRITICO | Gap < −5 O 6+ meses con gap | Próximo ciclo de selección |
 | P3 PLANIFICAR | Gap < 0 | Planificar Q3/Q4 2027 |
 | P4 OK | Sin gap proyectado | Sin acción inmediata |
 
+Output en `sheets/hiring_reco_2027.xlsx` con 3 pestañas: **DETALLE · RESUMEN · SUPUESTOS**
+
 ---
 
-## 🚨 Alertas operacionales
+## Alertas operacionales
 
-4 tipos de alerta en `mart_alerts_daily`:
+`mart_alerts_daily` — 4 tipos de alerta con owner y runbook definido:
 
 | Tipo | Severidad | Owner |
 |---|---|---|
@@ -123,50 +110,82 @@ Tabla `mart_hiring_reco_2027` — priorizada por urgencia:
 
 ---
 
-## ⚙️ Cómo reproducir el proyecto
+## Estructura del proyecto
 
-```bash
-# 1. Clonar el repo
-git clone https://github.com/JulioPradenas/staff-sizing-portfolio.git
-cd staff-sizing-portfolio
-
-# 2. Crear entorno virtual
-python3 -m venv venv
-source venv/bin/activate
-
-# 3. Instalar dependencias
-pip install -r requirements.txt
-
-# 4. Autenticar GCP
-gcloud auth application-default login
-
-# 5. Cargar datos a BigQuery
-python scripts/upload_to_bq.py
-
-# 6. Ejecutar todos los SQLs
-python scripts/run_all_sql.py
+```
+staff-sizing-portfolio/
+├── data_gen/              ← CSVs sintéticos (14.000+ filas)
+│   ├── employees.csv          (2.000 filas)
+│   ├── flight_schedule.csv    (8.000 filas)
+│   ├── absences.csv           (3.000 filas)
+│   ├── attrition.csv          (1.500 filas)
+│   ├── role_requirements.csv  (   80 filas)
+│   ├── bases.csv              (    8 filas)
+│   └── roles.csv              (   10 filas)
+├── sql/
+│   ├── 01_staging/        ← limpieza + flags regulatorios
+│   ├── 02_dimensions/     ← dim_base, dim_role, dim_contract, dim_employee, dim_date
+│   ├── 03_facts/          ← fct_headcount_daily, fct_absences, fct_attrition
+│   └── 04_marts/          ← sizing, gaps, forecast, contratación, alertas
+├── scripts/
+│   ├── upload_to_bq.py        ← carga CSVs a BigQuery
+│   ├── run_all_sql.py         ← ejecuta pipeline SQL completo (01→02→03→04)
+│   └── export_to_sheets.py    ← genera Excel ejecutivo con 3 pestañas y formato
+├── docs/                  ← documentación técnica y de negocio
+├── sheets/                ← output ejecutivo Excel
+└── looker/                ← capturas del dashboard
 ```
 
 ---
 
-## 📚 Documentación
+## Cómo reproducir el proyecto
 
-| Documento | Descripción |
-|---|---|
-| [Supuestos de staging](docs/assumptions_staging.md) | Reglas de limpieza y flags regulatorios |
-| [Star Schema](docs/star_schema.md) | Modelo dimensional |
-| [KPI Definitions](docs/kpi_definitions.md) | Definición de métricas |
-| [Forecast Method](docs/forecast_method.md) | Metodología de proyección |
-| [Hiring Policy](docs/hiring_policy.md) | Fórmula y política de contratación |
-| [Runbook Alertas](docs/runbook_alerts.md) | Acciones ante cada alerta |
-| [Executive Pack](docs/executive_pack.md) | Guía del output en Sheets |
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/JulioPradenas/staff-sizing-portfolio.git
+cd staff-sizing-portfolio
+
+# 2. Crear entorno virtual e instalar dependencias
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+# 3. Autenticar con GCP
+gcloud auth application-default login
+
+# 4. Cargar datos crudos a BigQuery
+python scripts/upload_to_bq.py
+
+# 5. Ejecutar el pipeline SQL completo (staging → dims → facts → marts)
+python scripts/run_all_sql.py
+
+# 6. Generar el Excel ejecutivo
+python scripts/export_to_sheets.py
+open sheets/hiring_reco_2027.xlsx
+```
 
 ---
 
-## 🛠 Stack técnico
+## Documentación
 
-- **BigQuery** — SQL avanzado, CROSS JOIN, DATE_DIFF, window functions
-- **GCP** — BigQuery Sandbox
-- **Looker Studio** — dashboards conectados a BigQuery
-- **Python** — carga de datos y exportación
-- **Google Sheets / Excel** — output ejecutivo
+| Documento | Descripción |
+|---|---|
+| [Star Schema](docs/star_schema.md) | Modelo dimensional y decisiones de diseño |
+| [Supuestos de staging](docs/assumptions_staging.md) | Reglas de limpieza y flags regulatorios |
+| [KPI Definitions](docs/kpi_definitions.md) | Definición de las 14 métricas operacionales |
+| [Forecast Method](docs/forecast_method.md) | Metodología de proyección 3 escenarios |
+| [Hiring Policy](docs/hiring_policy.md) | Fórmula y criterios de prioridad de contratación |
+| [Runbook Alertas](docs/runbook_alerts.md) | Acciones y owners por tipo de alerta |
+| [Executive Pack](docs/executive_pack.md) | Guía del output Excel para equipos no técnicos |
+
+---
+
+## Stack técnico
+
+| Herramienta | Uso |
+|---|---|
+| **BigQuery** | Data warehouse principal — SQL avanzado, window functions, CROSS JOIN, DATE_DIFF |
+| **GCP** | Autenticación y ejecución en BigQuery Sandbox |
+| **Looker Studio** | Dashboards interactivos conectados directamente a BigQuery |
+| **Python** | Carga de datos, automatización del pipeline SQL, exportación a Excel |
+| **openpyxl / pandas** | Generación de Excel con formato condicional y múltiples pestañas |
