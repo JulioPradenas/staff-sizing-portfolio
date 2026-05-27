@@ -38,14 +38,7 @@ Looker Studio / Google Sheets → consumo ejecutivo
 
 🔗 [Ver dashboard en vivo](https://lookerstudio.google.com/TU-LINK-AQUI)
 
-### Executive Overview
-![Executive Overview](looker/screenshots/01_executive_overview.png)
 
-### Gap Analysis
-![Gap Analysis](looker/screenshots/02_gap_analysis.png)
-
-### Alertas Operacionales
-![Alertas](looker/screenshots/03_alertas_operacionales.png)
 
 ---
 
@@ -71,6 +64,8 @@ staff-sizing-portfolio/
 ├── docs/                  ← documentación completa
 ├── looker/                ← capturas del dashboard
 └── sheets/                ← output ejecutivo Excel
+
+
 
 ---
 
