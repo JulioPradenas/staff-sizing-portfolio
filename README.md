@@ -21,7 +21,7 @@ identificando brechas críticas y generando recomendaciones de contratación par
 
 ## Dashboard Looker Studio
 
-🔗 [Ver dashboard en vivo](https://datastudio.google.com/u/1/reporting/c3cf8fc2-d76b-4b01-b14f-8115322f2438/page/FG8sF)
+🔗 [Ver dashboard en vivo](https://datastudio.google.com/s/v0nebmXHLEM)
 
 | Página | Contenido |
 |---|---|
